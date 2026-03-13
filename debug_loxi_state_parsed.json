@@ -1,0 +1,1293 @@
+{
+  "detail": {
+    "id": 695986,
+    "game_id": 50248,
+    "entry_id": 209404,
+    "uid": 103682,
+    "type": 4,
+    "title": "洛茜",
+    "tag": "2",
+    "created_at": 1772419465,
+    "updated_at": 1772448275,
+    "updated_uid": 103682,
+    "comment_at": 1773019880,
+    "last_at": 1773318130,
+    "comment_count": 2,
+    "status": 1,
+    "summary": "",
+    "thumb": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/2/2/218040.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp,//cdnimg-v2.gamekee.com/wiki2.0/images/w_109/h_109/50248/103682/2026/2/2/967357.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp,//cdnimg-v2.gamekee.com/wiki2.0/images/w_109/h_110/50248/103682/2026/2/2/190295.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+    "model_ids": "",
+    "like_count": 13,
+    "unlike_count": 0,
+    "view_count": 5397,
+    "is_top": 0,
+    "content_type": 0,
+    "is_del": 0,
+    "del_at": 0,
+    "del_uid": 0,
+    "is_release": 0,
+    "source": 1,
+    "last_ip_area": "四川省",
+    "is_prohibit_reply": 0,
+    "is_only": 0,
+    "state": 1,
+    "audit_uid": 0,
+    "favorite_count": 0,
+    "seo": "{\"title\":\"\",\"desc\":\"\",\"key\":\"\"}",
+    "video": "{\"cover\":\"\",\"video\":\"\",\"width\":\"\",\"height\":\"\",\"duration\":0}",
+    "vote_ids": "",
+    "is_elite": 0,
+    "is_admin": 0,
+    "audit_state": 0,
+    "chat_game_id": 50248,
+    "is_image_text": 0,
+    "from_chat": false,
+    "chat_top": 0,
+    "entry_auto": 0,
+    "audit_at": 0,
+    "server_id": 0,
+    "image_num": 17,
+    "video_list": "[]",
+    "is_emulator": 0,
+    "editor_type": 1,
+    "ignore_hot": false,
+    "mj_quote_num": 0,
+    "mj_task_id": 0,
+    "limit_age": 0,
+    "important_at": 0,
+    "is_expired": 0,
+    "last_like_at": 1772993590,
+    "content_id": 695986,
+    "content": "",
+    "content_json": [
+      {
+        "key": "tunqg7MGO80OmeDC",
+        "type": "illustrated-book",
+        "data": [
+          {
+            "key": "0.6b1df1cb6b053",
+            "type": "character-profile",
+            "data": {
+              "isShowImageList": true,
+              "isShowName": true,
+              "isShowAttrList": true,
+              "isShowDesc": true,
+              "title": "基础信息",
+              "name": {
+                "type": "simpleEditor",
+                "data": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "洛茜"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "descTitle": "个人简介",
+              "desc": {
+                "type": "simpleEditor",
+                "data": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "“对于精锐来说小菜一碟！”",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "洛茜娜·狼珀·卢皮诺，狼卫的妹妹，狼群的掌上明珠。在一场狼群氏族与碾骨氏族的恩怨中，众多老狼为了救出她付出了血的代价，彼时的鲜血染红了襁褓……"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "憧憬着英雄故事的洛茜，偶尔幻想着，有一天，自己能与传说中的英雄共同奋战——这是她给自己留下的一点点“自我时间”。"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "“狼群从不畏惧留下伤痕！”"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "attrList": [
+                {
+                  "key": "0.6dc427da6b491",
+                  "isOneLine": false,
+                  "isWapOneLine": true,
+                  "title": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "品质"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "content": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "6★"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "key": "0.bf34be2e54076",
+                  "isOneLine": false,
+                  "isWapOneLine": true,
+                  "title": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "职业"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "content": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "近卫"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "key": "0.5bf9e6e9d5b138",
+                  "isOneLine": false,
+                  "isWapOneLine": true,
+                  "title": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "属性"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "content": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "物理"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "key": "0.2cee09e2063a",
+                  "isOneLine": false,
+                  "isWapOneLine": true,
+                  "title": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "阵营"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "content": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "终末地工业"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "key": "0.a8964a62fbc2d",
+                  "isOneLine": false,
+                  "isWapOneLine": true,
+                  "title": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "种族"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "content": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "鲁珀"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "key": "0.62202d0c320e",
+                  "isOneLine": false,
+                  "isWapOneLine": true,
+                  "title": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "中文CV"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "content": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "吴哲茹"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "key": "0.1c9b97a5c5bcc8",
+                  "isOneLine": false,
+                  "isWapOneLine": true,
+                  "title": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "日文CV"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "content": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "日高里菜"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "key": "0.726c11d95b77b",
+                  "isOneLine": false,
+                  "isWapOneLine": true,
+                  "title": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "定位"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "content": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "破防、击飞、单体输出、法术物理混伤、"
+                          },
+                          {
+                            "text": "可以将敌人身上的法术附着转化为破防",
+                            "bold": true,
+                            "color": "rgb(225, 60, 57)"
+                          },
+                          {
+                            "text": "、终结技为强力输出窗口、双暴"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "imageSize": {
+                "width": "160px",
+                "height": "160px"
+              },
+              "imagesList": [],
+              "imageList": [
+                "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/2/2/218040.png"
+              ]
+            }
+          }
+        ],
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "key": "YTwRp7Vt03j4VtMB",
+        "type": "illustrated-book",
+        "data": [
+          {
+            "key": "0.ade56af7717fe",
+            "type": "skill-info",
+            "data": {
+              "title": "干员天赋",
+              "isShowTabs": false,
+              "tabs": [],
+              "skillList": [
+                {
+                  "key": "0.dfdabd2c8ee8a8",
+                  "isShowIcon": true,
+                  "isShowName": true,
+                  "isShowDesc": true,
+                  "isShowMore": false,
+                  "filterTabKey": null,
+                  "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_109/h_109/50248/103682/2026/2/2/967357.png",
+                  "name": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "斫痕"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "label": "",
+                  "desc": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "战技第二段的狼之珀造成伤害后，会给目标施加爪印斫痕状态，持续一定时间，该效果无法叠加。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "爪印斫痕持续期间，目标每秒受到洛茜攻击力一定比例的物理伤害，同时受到的物理伤害和灼热伤害提升。"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "moreInfo": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "【Rank3】"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "【Rank6】"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "【Rank9】"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "【专精一】"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "【专精二】"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "【专精三】"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "moreBtn": "查看升级效果",
+                  "iconSize": {
+                    "width": "60px",
+                    "height": "60px"
+                  }
+                },
+                {
+                  "key": "0.d022ba016994f",
+                  "isShowIcon": true,
+                  "isShowName": true,
+                  "isShowDesc": true,
+                  "isShowMore": false,
+                  "filterTabKey": null,
+                  "iconSize": {
+                    "width": "60px",
+                    "height": "60px"
+                  },
+                  "icon": "",
+                  "name": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "沸血"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "label": "",
+                  "desc": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "洛茜对处于爪印斫痕状态的敌人造成暴击后，可额外施加一次伤害并回复一定生命值。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "如果目标处于燃烧状态，伤害和治疗效果会得到进一步提升。"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "moreInfo": "",
+                  "moreBtn": "查看升级效果"
+                }
+              ]
+            }
+          },
+          {
+            "key": "0.ade56af7717fe",
+            "type": "skill-info",
+            "data": {
+              "title": "战斗技能",
+              "isShowTabs": false,
+              "tabs": [],
+              "skillList": [
+                {
+                  "key": "0.dfdabd2c8ee8a8",
+                  "isShowIcon": true,
+                  "isShowName": true,
+                  "isShowDesc": true,
+                  "isShowMore": false,
+                  "filterTabKey": null,
+                  "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_109/h_110/50248/103682/2026/2/2/190295.png",
+                  "name": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "沸腾狼血-普通攻击"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "label": "",
+                  "desc": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "普通攻击："
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "对敌人进行至多5段攻击，造成物理伤害。作为主控干员时，重击会造成?点失衡。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "下落攻击：",
+                            "bold": true
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "处决攻击：",
+                            "bold": true
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "moreInfo": "",
+                  "moreBtn": "查看升级效果",
+                  "iconSize": {
+                    "width": "60px",
+                    "height": "60px"
+                  }
+                },
+                {
+                  "key": "0.2276ce2137025",
+                  "isShowIcon": true,
+                  "isShowName": true,
+                  "isShowDesc": true,
+                  "isShowMore": false,
+                  "filterTabKey": null,
+                  "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_117/h_114/50248/103682/2026/2/2/938334.png",
+                  "name": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "血红之影-战技"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "label": "",
+                  "desc": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "冲向敌方目标，以利爪发起攻击，对其造成伤害并施加击飞。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "若目标身上已有破防，则会额外追加伤害，并给目标留下爪印斫痕，在一段时间内造成持续伤害。"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "moreInfo": "",
+                  "moreBtn": "查看升级效果",
+                  "iconSize": {
+                    "width": "60px",
+                    "height": "60px"
+                  }
+                },
+                {
+                  "key": "0.1105a10f3d27e8",
+                  "isShowIcon": true,
+                  "isShowName": true,
+                  "isShowDesc": true,
+                  "isShowMore": false,
+                  "filterTabKey": null,
+                  "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_114/h_111/50248/103682/2026/2/2/392644.png",
+                  "name": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "燎影时刻-连携技"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "label": "",
+                  "desc": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "当有敌人同时处于破防和法术附着状态时可以发动。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "洛茜的连携技可连续发动两次，第一次对目标造成伤害，第二次将消耗目标全部的法术附着，造成伤害并将其击飞。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "当第二次连携技精准衔接时，可额外为目标施加一层破防。"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "moreInfo": "",
+                  "moreBtn": "查看升级效果",
+                  "iconSize": {
+                    "width": "60px",
+                    "height": "60px"
+                  }
+                },
+                {
+                  "key": "0.354111aec5ea08",
+                  "isShowIcon": true,
+                  "isShowName": true,
+                  "isShowDesc": true,
+                  "isShowMore": false,
+                  "filterTabKey": null,
+                  "iconSize": {
+                    "width": "60px",
+                    "height": "60px"
+                  },
+                  "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_112/h_110/50248/103682/2026/2/2/481655.png",
+                  "name": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "“利爪”奇袭-终结技"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "label": "",
+                  "desc": {
+                    "type": "simpleEditor",
+                    "data": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "挥动披风迅捷戳击，短时间内对目标造成多次伤害，最后手持匕首冲向目标发起斩击，造成大量伤害并施加灼热附着。"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "moreInfo": "",
+                  "moreBtn": "查看升级效果"
+                }
+              ]
+            }
+          }
+        ],
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "key": "M5TbS3O3V7P4iGzm",
+        "type": "illustrated-book",
+        "data": [
+          {
+            "key": "0.2603bb8147a58",
+            "type": "tab-info",
+            "data": {
+              "title": "",
+              "tabList": [
+                {
+                  "key": "0.4672705ac7637",
+                  "isShowTopDesc": false,
+                  "isShowBottomDesc": false,
+                  "title": "干员立绘",
+                  "icon": "",
+                  "content": [
+                    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1729/h_1685/50248/103682/2026/2/2/270964.png"
+                  ],
+                  "type": "image"
+                },
+                {
+                  "key": "0.e4c477c92cdf38",
+                  "isShowTopDesc": false,
+                  "isShowBottomDesc": false,
+                  "title": "潜能图",
+                  "icon": "",
+                  "content": [
+                    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1685/h_942/50248/103682/2026/2/2/336154.png",
+                    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1686/h_942/50248/103682/2026/2/2/752579.png",
+                    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1683/h_942/50248/103682/2026/2/2/554523.png"
+                  ],
+                  "type": "image"
+                },
+                {
+                  "key": "0.03fc049592efe",
+                  "isShowTopDesc": false,
+                  "isShowBottomDesc": false,
+                  "title": "专武图",
+                  "icon": "",
+                  "content": [
+                    "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1568/h_769/50248/103682/2026/2/2/474102.png"
+                  ],
+                  "type": "image"
+                }
+              ]
+            }
+          }
+        ],
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "is_favorite": 0,
+    "is_like": 0,
+    "is_unlike": 0,
+    "thumb_list": [
+      "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/2/2/218040.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "//cdnimg-v2.gamekee.com/wiki2.0/images/w_109/h_109/50248/103682/2026/2/2/967357.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "//cdnimg-v2.gamekee.com/wiki2.0/images/w_109/h_110/50248/103682/2026/2/2/190295.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp"
+    ],
+    "model_list": [],
+    "user": {
+      "uid": 103682,
+      "username": "星野源小新",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+      "description": "",
+      "follow_num": 10,
+      "custom_tag": {
+        "tag_name": "",
+        "tag_color": ""
+      },
+      "role_id": 0,
+      "is_super": true,
+      "status": 1,
+      "is_followed": 0,
+      "subscribe_num": 0,
+      "content_at": 3464,
+      "content_num": 1839,
+      "read_num": 5966270,
+      "like_num": 2056
+    },
+    "update_user": {
+      "uid": 103682,
+      "username": "星野源小新",
+      "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+      "description": "",
+      "follow_num": 10,
+      "custom_tag": {
+        "tag_name": "",
+        "tag_color": ""
+      },
+      "role_id": 0,
+      "is_super": true,
+      "status": 1,
+      "is_followed": 0,
+      "subscribe_num": 0,
+      "content_at": 0,
+      "content_num": 0,
+      "read_num": 0,
+      "like_num": 0
+    },
+    "game": {
+      "id": 50248,
+      "name": "明日方舟·终末地",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_200/h_200/50248/103682/2026/0/12/412224.png",
+      "alias": "zmd",
+      "content_count": 928,
+      "follow_count": 330
+    },
+    "themes": null,
+    "seo_format": {
+      "title": "",
+      "desc": "",
+      "key": ""
+    },
+    "video_format": {
+      "cover": "",
+      "video": "",
+      "width": "",
+      "height": "",
+      "duration": 0
+    },
+    "contributor": [
+      {
+        "uid": 103682,
+        "username": "星野源小新",
+        "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg"
+      }
+    ],
+    "vote_list": null,
+    "ban_image_list": null,
+    "is_strategy": false,
+    "is_strategy_v1": false,
+    "entry_data_bind": null,
+    "emoji": [
+      {
+        "id": 6,
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/332900.png",
+        "count": 9,
+        "is_like": false
+      },
+      {
+        "id": 4,
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/652839.png",
+        "count": 0,
+        "is_like": false
+      },
+      {
+        "id": 3,
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/36968.png",
+        "count": 3,
+        "is_like": false
+      },
+      {
+        "id": 12,
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_676/h_676/215/236746/2025/11/15/862842.png",
+        "count": 2,
+        "is_like": false
+      }
+    ],
+    "reward": {
+      "user_count": 0,
+      "last_user_list": null
+    },
+    "content_tj_eq": {
+      "content_id": 0,
+      "content": ""
+    },
+    "content_tj_lineup": {
+      "content_id": 0,
+      "content": "",
+      "content_1": ""
+    },
+    "hot_content_strategies": [
+      {
+        "id": 696877,
+        "name": "汤汤养成攻略",
+        "icon": "",
+        "jump_url": ""
+      },
+      {
+        "id": 695980,
+        "name": "汤汤",
+        "icon": "",
+        "jump_url": ""
+      },
+      {
+        "id": 691095,
+        "name": "干员节奏榜",
+        "icon": "",
+        "jump_url": ""
+      },
+      {
+        "id": 695986,
+        "name": "洛茜",
+        "icon": "",
+        "jump_url": ""
+      }
+    ],
+    "related_strategies": [
+      {
+        "id": 695980,
+        "name": "汤汤",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/12/729791.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691003,
+        "name": "管理员",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/301464.png",
+        "jump_url": ""
+      },
+      {
+        "id": 690760,
+        "name": "骏卫",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/351067.png",
+        "jump_url": ""
+      },
+      {
+        "id": 690770,
+        "name": "别礼",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/612903.png",
+        "jump_url": ""
+      },
+      {
+        "id": 690792,
+        "name": "艾尔黛拉",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/851863.png",
+        "jump_url": ""
+      },
+      {
+        "id": 690798,
+        "name": "伊冯",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/612099.png",
+        "jump_url": ""
+      },
+      {
+        "id": 690817,
+        "name": "莱万汀",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/647159.png",
+        "jump_url": ""
+      },
+      {
+        "id": 690826,
+        "name": "黎风",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/78405.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691006,
+        "name": "洁尔佩塔",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/75509.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691008,
+        "name": "余烬",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/21/89276.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691025,
+        "name": "阿列什",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/272991.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691028,
+        "name": "大潘",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/555001.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691038,
+        "name": "昼雪",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/844230.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691016,
+        "name": "艾维文娜",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/641179.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691040,
+        "name": "塞希",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/152298.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691042,
+        "name": "弧光",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/222375.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691048,
+        "name": "狼卫",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/26676.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691012,
+        "name": "陈千语",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/833197.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691010,
+        "name": "佩丽卡",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/703916.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691015,
+        "name": "安塔尔",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/10456.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691061,
+        "name": "埃特拉",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/710511.png",
+        "jump_url": ""
+      },
+      {
+        "id": 689624,
+        "name": "秋栗",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/489672.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691066,
+        "name": "卡契尔",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/642824.png",
+        "jump_url": ""
+      },
+      {
+        "id": 691058,
+        "name": "萤石",
+        "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/16/320251.png",
+        "jump_url": ""
+      }
+    ]
+  },
+  "user": {
+    "uid": 103682,
+    "username": "星野源小新",
+    "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg",
+    "description": "",
+    "follow_num": 10,
+    "custom_tag": {
+      "tag_name": "",
+      "tag_color": ""
+    },
+    "role_id": 0,
+    "is_super": true,
+    "status": 1,
+    "is_followed": 0,
+    "subscribe_num": 0,
+    "content_at": 3464,
+    "content_num": 1839,
+    "read_num": 5966270,
+    "like_num": 2056
+  },
+  "recommendList": [],
+  "list": [
+    {
+      "id": 786507,
+      "content_id": 695986,
+      "game_id": 50248,
+      "pid": 0,
+      "content": "9W玉许愿满破，不出就弃坑_(K站 [好耶])",
+      "unlike_count": 0,
+      "like_count": 0,
+      "created_at": 1772942780,
+      "is_del": 0,
+      "is_like": 0,
+      "source": 1,
+      "last_ip_area": "辽宁省",
+      "is_top": 0,
+      "is_hide": false,
+      "user": {
+        "uid": 173561,
+        "username": "看我友奈小拳拳捶你胸口",
+        "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/6.png",
+        "custom_tag": {
+          "tag_name": "",
+          "tag_color": ""
+        },
+        "role_id": 0
+      },
+      "to_user": {
+        "uid": 103682,
+        "username": "星野源小新",
+        "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1736/h_1736/215/103682/2025/10/20/668579.jpg"
+      },
+      "nikke": null,
+      "b2d": null,
+      "child": [
+        {
+          "id": 786768,
+          "content_id": 695986,
+          "game_id": 50248,
+          "pid": 786507,
+          "content": "已经可以弃坑了，9W才180抽你就想满，做美梦吧",
+          "unlike_count": 0,
+          "like_count": 8,
+          "created_at": 1773019880,
+          "is_del": 0,
+          "is_like": 0,
+          "source": 1,
+          "last_ip_area": "广东省",
+          "is_top": 0,
+          "is_hide": false,
+          "user": {
+            "uid": 831872,
+            "username": "悦耳踢小白菜",
+            "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/avatar_1.png",
+            "custom_tag": {
+              "tag_name": "",
+              "tag_color": ""
+            },
+            "role_id": 0
+          },
+          "to_user": {
+            "uid": 173561,
+            "username": "看我友奈小拳拳捶你胸口",
+            "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/avatar/1/6.png"
+          },
+          "nikke": null,
+          "b2d": null
+        }
+      ],
+      "child_num": 1
+    }
+  ],
+  "pagination": {
+    "page_no": 1,
+    "limit": 10,
+    "page_total": 1,
+    "total": 2
+  },
+  "isSSRGetData": true,
+  "isShowLimit": false,
+  "modelsList": [
+    {
+      "module": "media",
+      "data": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "gamekee-data-source",
+  "version": "1.0.0",
+  "description": "GameKee Wiki Data Source for Jei-Web",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsx src/index.ts build",
+    "crawl": "tsx src/index.ts crawl",
+    "parse": "tsx src/index.ts parse",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "fs-extra": "^11.2.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,9 @@
+
+node_modules/
+dist/
+data/
+*.log
+.DS_Store
+.env
+debug_entry_list.html
+state.js

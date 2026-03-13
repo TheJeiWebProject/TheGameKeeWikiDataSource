@@ -1,0 +1,71 @@
+name: Update GameKee Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch:
+    inputs:
+      fast_mode:
+        description: 'Fast Mode (No delay, skip existing)'
+        type: boolean
+        default: false
+      force_update:
+        description: 'Force Update (Refetch all)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - run: pnpm install
+
+      - name: Download Previous Raw Data
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: update-data.yml
+          name: gamekee-raw-data
+          path: data/raw/
+          if_no_artifact_found: warn
+
+      - name: Run Crawler
+        run: pnpm run crawl
+        env:
+          CRAWL_DELAY: ${{ github.event.inputs.fast_mode == 'true' && '0' || '2000' }}
+          SKIP_EXISTING: ${{ github.event.inputs.fast_mode == 'true' }}
+          FORCE_UPDATE: ${{ github.event.inputs.force_update == 'true' }}
+
+      - name: Run Parser
+        run: pnpm run parse
+
+      - name: Run Builder
+        run: pnpm run build
+
+      - name: Upload Raw Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: gamekee-raw-data
+          path: data/raw/
+          retention-days: 5
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
+          commit_message: "chore: update gamekee data [skip ci]"
