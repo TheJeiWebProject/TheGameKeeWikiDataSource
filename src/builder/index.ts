@@ -32,7 +32,7 @@ export async function buildPack() {
 
   for (const category of categories) {
     const srcDir = path.join(PARSED_DIR, category);
-    const destCategoryName = CATEGORY_MAP[category];
+    const destCategoryName = CATEGORY_MAP[category]!;
     const destDir = path.join(ITEMS_DIR, destCategoryName);
 
     if (!await fs.pathExists(srcDir)) continue;

@@ -138,8 +138,8 @@ export async function parseEquipment(inputDir: string, outputDir: string, materi
             if (text) {
               const match = text.match(/^(.*)[x×](\d+)$/); // Support x or ×
               if (match) {
-                name = match[1].trim();
-                count = match[2];
+                name = match[1]!.trim();
+                count = match[2]!;
               } else {
                 name = text;
               }
