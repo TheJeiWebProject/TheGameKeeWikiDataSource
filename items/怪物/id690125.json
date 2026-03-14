@@ -1,0 +1,36 @@
+{
+  "id": 690125,
+  "sourceUrl": "https://www.gamekee.com/zmd/690125.html",
+  "name": "酸液源石虫",
+  "description": "-野生的被感染生物，能分泌酸性物质。在受到威胁时会剧烈抖动自身，将背负的源石晶簇抛射出去，恐吓敌人。",
+  "type": "普通敌人",
+  "faction": "野外生物",
+  "distribution": "枢纽区、源石研究园、矿脉源区、供能高地",
+  "drops": [
+    "虫肉"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_306/50248/103682/2026/0/15/376757.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1191/50248/103682/2026/0/15/969779.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": ".胆小的它们会缩进壳中保护自己，向四周无脑发射身上的源石来吓走敌人。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690125"
+  }
+}

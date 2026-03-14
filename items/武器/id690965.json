@@ -1,0 +1,294 @@
+{
+  "id": 690965,
+  "sourceUrl": "https://www.gamekee.com/zmd/690965.html",
+  "name": "使命必达",
+  "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-雷神工业的经典尖端产品，其原型从第一次天使战争时便投入使用。该产品不断迭代至今，强大的火力意味着安全与保障。",
+  "rarity": 6,
+  "type": "施术单元",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_142/50248/586364/2026/0/20/841547.png",
+  "images": [
+    {
+      "title": "普通外观",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1863/h_814/50248/586364/2026/0/20/26785.png"
+    },
+    {
+      "title": "满潜外观",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1866/h_803/50248/586364/2026/0/20/942441.png"
+    }
+  ],
+  "stats": {
+    "基础攻击力": "1级：攻击力+51\n90级：攻击力+500",
+    "意志提升·大": "Rank09：意志+156",
+    "终结技充能效率提升·大": "Rank09：终结技充能效率+46.4%"
+  },
+  "passives": [
+    {
+      "name": "追袭·不辱使命",
+      "description": "Rank09：\n自然伤害+44.8%。\n装备者通过自身连携技造成击飞后，全队造成的法术伤害+28.0%，持续15秒。每有一个被击飞的敌人，全队造成的法术伤害额外+5.6%，最多+22.4%。\n同名效果无法叠加。"
+    },
+    {
+      "name": "武器档案",
+      "description": "前天，我外出拾荒的时候，遇到了一位奇怪的佩洛大姐姐。\n\n她看上去也不像是之前关照过我们的众生长地人。她穿着奇怪的装束，还扶着一块报废的铁疙瘩，她管它叫“摩托”，说是被天使弄坏的。\n\n她问我能不能把我的驮兽借给她。\n\n我不想借给她。\n\n我问她是谁，她说她是一个“信使”。\n\n信使？从来没听过的名字。\n\n她向我解释，在很久很久以前，当星门依旧伫立的时候，信使会带着塔卫二的东西穿过星门到泰拉去，然后再带着泰拉的东西回到塔卫二，交换着双方的思念和寄托。\n\n可是爸爸说，星门早就坏了呀，早就没有泰拉了？\n\n她回答道，赶走天使后，人们又陷入了战争与猜疑，都封闭了自己，就像我脚边的小沙地兽把自己埋在窝里不出来一样。\n\n战争？\n\n人与天使的战争，以及人与人的战争。她告诉我，我和爸爸的聚落或许就是为了躲避战争而定居荒野。\n\n我并不想把驮兽借给她。\n\n她直视着我的眼睛，认真地说，她向我借驮兽是为了去告诉大家，战争已经结束了。\n\n虽然失去了与泰拉的连接，但信使想让塔卫二的大家重新团结在一起，重新信任彼此。\n\n她是战争结束后的第一位信使，她要替一个叫“终末地”的人寄出第一封信——一封代表和平的信。\n\n但我还是不想把驮兽借给她。\n\n她温柔地笑了笑，将漂浮在身上的铁球摘下来，说这是她身上除了那封信之外最值钱的东西，可以先放在我这里抵押，直到她把驮兽还给我。\n\n嗯，一般能漂浮的东西都挺值钱的。\n\n我答应了，把驮兽借给了她，告诉了她我的名字，并给她指了指聚落的方向。\n\n…………\n\n今早起床的时候，有人告诉我，聚落外面拴着我的驮兽，上面有一封信与一件包裹，信上有我的名字。\n\n果然是那个信使姐姐。\n\n她在信里说，抵押在我这儿的东西就不用还她了，算是一份谢礼，感谢我的驮兽让她和信离目的地更近了一步。\n\n信使的时代重新来临了！她的语气似乎很高兴。\n\n包裹里面是一个“通信装置”，附上了一段说明，现在我们都可以用这个“通信装置”呼叫附近的信使们了。\n\n可是我该写信给谁？又该寄去哪儿呢？我从来就没离开过聚落。\n\n那我就先写给那个信使姐姐吧。"
+    }
+  ],
+  "materials": [
+    {
+      "level": "总计",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "252",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/63415.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "4",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/907867.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "1",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/665246.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "23",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/612352.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/118726.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "3",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_183/h_189/50248/103682/2026/1/25/155207.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_189/50248/103682/2026/1/25/604669.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_184/h_191/50248/103682/2026/1/25/897190.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "16",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_188/50248/103682/2026/1/25/267579.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "8",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_192/50248/103682/2026/1/25/166603.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "467090",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/331488.png"
+        }
+      ]
+    },
+    {
+      "level": "1~20级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "8",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/21831.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/321109.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "640",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/596996.png"
+        }
+      ]
+    },
+    {
+      "level": "20级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/317506.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "3",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_183/h_189/50248/103682/2026/1/25/823102.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "2200",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/233697.png"
+        }
+      ]
+    },
+    {
+      "level": "20~40级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "9",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/690798.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "6",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/649693.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "4",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/913783.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "9760",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/879181.png"
+        }
+      ]
+    },
+    {
+      "level": "40级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "18",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/186754.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_189/50248/103682/2026/1/25/151411.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "8500",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/228291.png"
+        }
+      ]
+    },
+    {
+      "level": "40~60级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "18",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/160916.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/785859.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "18610",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/816229.png"
+        }
+      ]
+    },
+    {
+      "level": "60级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "20",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/129071.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_184/h_191/50248/103682/2026/1/25/426702.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "2.5万",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/727015.png"
+        }
+      ]
+    },
+    {
+      "level": "60~80级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "91",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/278986.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "3",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/621128.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "1",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/723969.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "94840",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/236198.png"
+        }
+      ]
+    },
+    {
+      "level": "80级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "30",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/45701.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "16",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_188/50248/103682/2026/1/25/678177.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "8",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_192/50248/103682/2026/1/25/581520.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "9万",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/827200.png"
+        }
+      ]
+    },
+    {
+      "level": "80~90级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "132",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/506958.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "2",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/201150.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "217540",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/655508.png"
+        }
+      ]
+    }
+  ],
+  "key": {
+    "id": "gamekee_690965"
+  }
+}

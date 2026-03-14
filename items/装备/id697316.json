@@ -1,0 +1,122 @@
+{
+  "id": 697316,
+  "sourceUrl": "https://www.gamekee.com/zmd/697316.html",
+  "name": "碾骨腕带",
+  "description": "-本装备由终末地工业参考荒野手工艺品设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-设计灵感来自于碾骨氏族的装备。\n并非每一个走上荒野的人都会变成裂地者，但被荒野束缚住的人永远无法回头。",
+  "rarity": "金色",
+  "type": "护手",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+42"
+        },
+        {
+          "name": "力量",
+          "value": "+65"
+        },
+        {
+          "name": "敏捷",
+          "value": "+43"
+        },
+        {
+          "name": "灼热和自然伤害加成",
+          "value": "+19.2%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+71"
+        },
+        {
+          "name": "敏捷",
+          "value": "+47"
+        },
+        {
+          "name": "灼热和自然伤害加成",
+          "value": "+21.1%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+78"
+        },
+        {
+          "name": "敏捷",
+          "value": "+51"
+        },
+        {
+          "name": "灼热和自然伤害加成",
+          "value": "+23%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+84"
+        },
+        {
+          "name": "敏捷",
+          "value": "+55"
+        },
+        {
+          "name": "灼热和自然伤害加成",
+          "value": "+24.9%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "赤铜装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/748796.png"
+        },
+        {
+          "name": "武陵调度券x1.6万",
+          "count": "?",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/431994.png",
+  "key": {
+    "id": "gamekee_697316"
+  }
+}

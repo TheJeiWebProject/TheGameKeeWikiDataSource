@@ -1,0 +1,36 @@
+{
+  "id": 690021,
+  "sourceUrl": "https://www.gamekee.com/zmd/690021.html",
+  "name": "破潮之像",
+  "description": "-\"阿纳伐克吕丹\"(归档编号:AGM32L)，AGM321的非模式种，个体大小并不统一。大型个体破浪而出的姿态留在了许多人的噩梦中。",
+  "type": "头目敌人",
+  "faction": "天使",
+  "distribution": "暂无数据",
+  "drops": [
+    "速成陈酿"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_137/h_144/50248/103682/2026/0/15/111351.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_889/50248/103682/2026/0/15/87165.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-拥有远程和近战两种状态。\n-近战状态:靠近目标进行近身缠斗。\n-远程状态：保持距离战斗并使用更强的能力进行攻击。\n远程状态下受到更多灼热伤害，但受到其他类型的伤害显著减少。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690021"
+  }
+}

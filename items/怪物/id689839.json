@@ -1,0 +1,36 @@
+{
+  "id": 689839,
+  "sourceUrl": "https://www.gamekee.com/zmd/689839.html",
+  "name": "重刺天使",
+  "description": "-“华丽肯托隆”（归档编号：ARL141），ARL121的非模式种。有时会放弃能量攻击，直接用尾巴近战。",
+  "type": "普通敌人",
+  "faction": "天使",
+  "distribution": "枢纽区、阿伯莉采石场、矿脉源区",
+  "drops": [
+    "高能异香石"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_191/50248/103682/2026/0/14/128880.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2165/h_1312/50248/103682/2026/0/14/546601.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "C",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会在干员脚下伸出源石柱进行攻击。\n-当它被靠近时，会在自身周围召唤石柱保护自己。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_689839"
+  }
+}

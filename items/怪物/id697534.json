@@ -1,0 +1,36 @@
+{
+  "id": 697534,
+  "sourceUrl": "https://www.gamekee.com/zmd/697534.html",
+  "name": "割云翁",
+  "description": "装备了奇异兵器的非法武装人员。当劫云客厌倦了使用手上的奇异灯笼对敌，便会取出短刃，与敌人近身搏杀。",
+  "type": "进阶敌人",
+  "faction": "沧贼",
+  "distribution": "清波寨",
+  "drops": [
+    "竹林虫蛹"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/2/13/665213.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1323/50248/103682/2026/2/13/240893.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "C",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会使用钩锁攻击友方干员，如果不脱困将被持续眩晕。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_697534"
+  }
+}

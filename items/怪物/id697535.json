@@ -1,0 +1,36 @@
+{
+  "id": 697535,
+  "sourceUrl": "https://www.gamekee.com/zmd/697535.html",
+  "name": "断云叟",
+  "description": "-装备了奇异兵器的非法武装人员。劫云客中擅使勾刃的好手，据说技巧精湛到能把云雾切成方方正正的一块。",
+  "type": "精英敌人",
+  "faction": "沧贼",
+  "distribution": "清波寨",
+  "drops": [
+    "竹林虫蛹"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_186/50248/103682/2026/2/13/974016.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1330/50248/103682/2026/2/13/520453.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "B",
+    "灼热抗性": "C",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会使用钩锁攻击友方干员，如果不脱困将被持续眩晕。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_697535"
+  }
+}

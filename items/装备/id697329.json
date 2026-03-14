@@ -1,0 +1,122 @@
+{
+  "id": 697329,
+  "sourceUrl": "https://www.gamekee.com/zmd/697329.html",
+  "name": "轻超域腕表",
+  "description": "-本装备由轻超域技术实验室设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-轻巧的实验型防护装备。\n“部分消费者质疑本实验室产品会导致使用者的血液在一定程度上发生异变，这完全是无稽之谈。",
+  "rarity": "金色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+21"
+        },
+        {
+          "name": "力量",
+          "value": "+32"
+        },
+        {
+          "name": "敏捷",
+          "value": "+21"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+41.4%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+35"
+        },
+        {
+          "name": "敏捷",
+          "value": "+23"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+45.5%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+38"
+        },
+        {
+          "name": "敏捷",
+          "value": "+25"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+49.7%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+41"
+        },
+        {
+          "name": "敏捷",
+          "value": "+27"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+53.8%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "赤铜装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/748796.png"
+        },
+        {
+          "name": "武陵调度券x1.6万",
+          "count": "?",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/295216.png",
+  "key": {
+    "id": "gamekee_697329"
+  }
+}

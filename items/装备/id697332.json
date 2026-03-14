@@ -1,0 +1,122 @@
+{
+  "id": 697332,
+  "sourceUrl": "https://www.gamekee.com/zmd/697332.html",
+  "name": "脉冲式探针",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-设计新颖的装备。\n它能在黑暗的冻雾中找到些许失落的痕迹。",
+  "rarity": "金色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+21"
+        },
+        {
+          "name": "智识",
+          "value": "+32"
+        },
+        {
+          "name": "敏捷",
+          "value": "+21"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+41"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "智识",
+          "value": "+35"
+        },
+        {
+          "name": "敏捷",
+          "value": "+23"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+46"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "智识",
+          "value": "+38"
+        },
+        {
+          "name": "敏捷",
+          "value": "+25"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+50"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "智识",
+          "value": "+41"
+        },
+        {
+          "name": "敏捷",
+          "value": "+27"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+54"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "赤铜装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/748796.png"
+        },
+        {
+          "name": "武陵调度券x1.6万",
+          "count": "?",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/779072.png",
+  "key": {
+    "id": "gamekee_697332"
+  }
+}

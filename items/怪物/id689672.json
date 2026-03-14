@@ -1,0 +1,36 @@
+{
+  "id": 689672,
+  "sourceUrl": "https://www.gamekee.com/zmd/689672.html",
+  "name": "大角天使",
+  "description": "-“克利俄松”（归档编号：ACL071），能用角冲撞敌人。它们是最早被记录的天使形成模式之一，于各处都较常见。",
+  "type": "普通敌人",
+  "faction": "天使",
+  "distribution": "广泛分布于四号谷地各处",
+  "drops": [
+    "坚硬异香石"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_192/50248/103682/2026/0/14/449389.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2068/h_1175/50248/103682/2026/0/14/262421.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "无"
+    }
+  ],
+  "key": {
+    "id": "gamekee_689672"
+  }
+}

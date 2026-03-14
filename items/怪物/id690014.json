@@ -1,0 +1,36 @@
+{
+  "id": 690014,
+  "sourceUrl": "https://www.gamekee.com/zmd/690014.html",
+  "name": "跂布晶城",
+  "description": "-\"图利奥隆\"(归档编号:ACL156)，光环被正面盾牌形结构完全保护的形成模式，能够使用能量将远处的目标拖拽至身前，需要当心。",
+  "type": "头目敌人",
+  "faction": "天使",
+  "distribution": "暂无数据",
+  "drops": [
+    "天然晶城锭"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_137/h_144/50248/103682/2026/0/15/11888.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_889/50248/103682/2026/0/15/49850.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "C",
+    "电磁抗性": "D",
+    "寒冷抗性": "C",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-跂步晶城拥有通常和架盾两种形态。\n-通常状态：拥有把远处干员拉拽到面前的能力。\n-架盾状态：正面和侧面会反弹攻击，同时暴露背后的弱点。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690014"
+  }
+}

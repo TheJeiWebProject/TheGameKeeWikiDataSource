@@ -1,0 +1,36 @@
+{
+  "id": 690036,
+  "sourceUrl": "https://www.gamekee.com/zmd/690036.html",
+  "name": "白垩界卫",
+  "description": "-未归档。因形成特征，推定为天使。它的形成模式经过了重组，却仍在模仿聂菲斯的外形。所有进一步推定结论均判断为不可靠。",
+  "type": "领袖敌人",
+  "faction": "天使",
+  "distribution": "供能高地",
+  "drops": [
+    "无"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_143/50248/103682/2026/0/15/127795.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_890/50248/103682/2026/0/15/760705.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-只有击杀全部的白垩附肢，沉眠状态下的白垩界卫才会暂时露出可被攻击的核心部位。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690036"
+  }
+}

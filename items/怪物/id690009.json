@@ -1,0 +1,36 @@
+{
+  "id": 690009,
+  "sourceUrl": "https://www.gamekee.com/zmd/690009.html",
+  "name": "肖像天使",
+  "description": "-\"欧墨萨隆\"(归档编号:AGL371)，具有模仿人类躯体或某个部位的形成模式，罕见而危险。部分个体能引导超域能量。",
+  "type": "精英敌人",
+  "faction": "天使",
+  "distribution": "",
+  "drops": [
+    "导能肖像石"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_142/50248/103682/2026/0/15/595505.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50248/103682/2026/1/25/555179.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "C",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-拥有多种强力的砸击手段，但施放中转向较慢，是很好的绕后进攻时机。\n-使用身体组合成各种形态，在战场中穿梭位移。\n-会尝试禁锢干员！迅速打断是不错的应对方案。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690009"
+  }
+}

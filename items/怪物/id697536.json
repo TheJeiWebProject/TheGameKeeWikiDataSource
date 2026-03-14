@@ -1,0 +1,36 @@
+{
+  "id": 697536,
+  "sourceUrl": "https://www.gamekee.com/zmd/697536.html",
+  "name": "过堂风",
+  "description": "-装备了基础远程武器的非法武装人员。眼力更强，双手更巧。一箭破门，穿堂过室，卷走几多钱财。",
+  "type": "普通敌人",
+  "faction": "沧贼",
+  "distribution": "清波寨",
+  "drops": [
+    "新笋"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/2/13/206509.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1310/50248/103682/2026/2/13/150016.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会发射各种箭矢和投掷炸弹进行远程牵制攻击。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_697536"
+  }
+}

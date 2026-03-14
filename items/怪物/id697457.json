@@ -1,0 +1,36 @@
+{
+  "id": 697457,
+  "sourceUrl": "https://www.gamekee.com/zmd/697457.html",
+  "name": "劫云客",
+  "description": "-装备了奇异兵器的非法武装人员。劫云客的兵器形似灯笼，看似无害，但十步之外便足以取人首级，大意不得。",
+  "type": "进阶敌人",
+  "faction": "沧贼",
+  "distribution": "清波寨",
+  "drops": [
+    "竹林虫蛹"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_142/h_143/50248/103682/2026/2/12/930172.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50248/103682/2026/2/12/92892.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "C",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-可以喷出干扰视线的烟雾。在烟雾内干员的视野会缩减，移动速度下降且无法进行闪避。\n-自身的战斗能力相对薄弱，可以考虑优先针对。\n-绿色的烟雾可以为其他敌人提供治疗。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_697457"
+  }
+}

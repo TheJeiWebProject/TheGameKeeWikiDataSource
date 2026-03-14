@@ -1,0 +1,106 @@
+{
+  "id": 697326,
+  "sourceUrl": "https://www.gamekee.com/zmd/697326.html",
+  "name": "点剑定位信标",
+  "description": "-本装备由宏山选剑局设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-选剑局早期向市场推广的产品之一。\n绝大部分侵蚀环境极度危险，行差踏错之下，迷途者再难回归一一如同昔年武陵的事故。",
+  "rarity": "金色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+21"
+        },
+        {
+          "name": "力量",
+          "value": "+41"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+41"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+45"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+46"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+49"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+50"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+53"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+54"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "赤铜装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/748796.png"
+        },
+        {
+          "name": "武陵调度券x1.6万",
+          "count": "?",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/492347.png",
+  "key": {
+    "id": "gamekee_697326"
+  }
+}

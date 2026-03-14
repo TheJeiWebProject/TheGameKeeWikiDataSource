@@ -1,0 +1,122 @@
+{
+  "id": 689768,
+  "sourceUrl": "https://www.gamekee.com/zmd/689768.html",
+  "name": "动火用储能匣",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-耐火性极强的装备。\n动火用储能匣也可以被视为一个微型发电站，它能够有效利用环境高温，为使用者提供能源。",
+  "rarity": "金色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+21"
+        },
+        {
+          "name": "力量",
+          "value": "+32"
+        },
+        {
+          "name": "敏捷",
+          "value": "+21"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+41"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+35"
+        },
+        {
+          "name": "敏捷",
+          "value": "+23"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+45.1"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+38"
+        },
+        {
+          "name": "敏捷",
+          "value": "+25"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+49.3"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+41"
+        },
+        {
+          "name": "敏捷",
+          "value": "+27"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+53.4"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/14/589361.png",
+  "key": {
+    "id": "gamekee_689768"
+  }
+}

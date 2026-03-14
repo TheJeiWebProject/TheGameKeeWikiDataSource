@@ -1,0 +1,1011 @@
+{
+  "id": 691003,
+  "sourceUrl": "https://www.gamekee.com/zmd/691003.html",
+  "name": "管理员",
+  "rarity": 6,
+  "profession": "近卫",
+  "element": "物理",
+  "weaponType": "单手剑",
+  "description": "",
+  "tags": [
+    "猛击",
+    "控制"
+  ],
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/0/14/463856.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/27/85982.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/103682/2026/0/18/736204.png",
+  "stats": {
+    "hp": {
+      "min": "500",
+      "max": "5270"
+    },
+    "atk": {
+      "min": "30",
+      "max": "306"
+    },
+    "def": {
+      "min": "0",
+      "max": "0"
+    }
+  },
+  "skills": [
+    {
+      "type": "Normal",
+      "name": "锁闭序列",
+      "description": "当小队内其他干员的连携技造成伤害时可以发动。\n冲到敌人身边，对其造成*black:物理伤害*，并附着**#源石结晶#**，在一段时间内将其封印。施加***black:#物理异常#***和***black:#破防#***会消耗**#源石结晶#**并额外造成*black:物理伤害*。",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/18/697702.png",
+      "video": "",
+      "levels": [
+        {
+          "level": 1,
+          "value": "15秒"
+        },
+        {
+          "level": 2,
+          "value": "100%"
+        },
+        {
+          "level": 3,
+          "value": "400%"
+        },
+        {
+          "level": 4,
+          "value": "10"
+        },
+        {
+          "level": 5,
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "type": "Skill",
+      "name": "构成序列",
+      "description": "使用源石技艺冲击前方一定范围内的敌人，造成*black:物理伤害*和***black:#猛击#***。",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/18/79193.png",
+      "video": "",
+      "levels": [
+        {
+          "level": 1,
+          "value": "100"
+        },
+        {
+          "level": 2,
+          "value": "350%"
+        },
+        {
+          "level": 3,
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "type": "Ultimate",
+      "name": "轰击序列",
+      "description": "使用源石技艺轰击地面，对前方扇形范围内的敌人造成大量*black:物理伤害*。如果敌人身上附着**#源石结晶#**，则消耗**#源石结晶#**并额外造成一次*black:物理伤害*。",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/18/900664.png",
+      "video": "",
+      "levels": [
+        {
+          "level": 1,
+          "value": "80"
+        },
+        {
+          "level": 2,
+          "value": "10秒"
+        },
+        {
+          "level": 3,
+          "value": "800%"
+        },
+        {
+          "level": 4,
+          "value": "600%"
+        },
+        {
+          "level": 5,
+          "value": "25"
+        }
+      ]
+    }
+  ],
+  "talents": [
+    {
+      "name": "本质瓦解",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/18/690461.png",
+      "description": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "当敌人附着的**源石结晶**被消耗后，自身攻击力+**15**%，持续15秒，该效果无法叠加。",
+          "materials": [
+            {
+              "name": "协议棱柱",
+              "count": "12"
+            },
+            {
+              "name": "折金票",
+              "count": "2400"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "description": "当敌人附着的**源石结晶**被消耗后，自身攻击力+**30**%，持续15秒，该效果无法叠加。",
+          "materials": [
+            {
+              "name": "协议棱柱",
+              "count": "40"
+            },
+            {
+              "name": "折金票",
+              "count": "8600"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "description": "",
+          "materials": []
+        }
+      ]
+    },
+    {
+      "name": "现实静滞",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/18/405482.png",
+      "description": "",
+      "upgrades": [
+        {
+          "level": 1,
+          "description": "附着**源石结晶**的敌人受到的*black:物理伤害*+**10**%。",
+          "materials": [
+            {
+              "name": "协议棱柱",
+              "count": "48"
+            },
+            {
+              "name": "折金票",
+              "count": "1万"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "description": "附着**源石结晶**的敌人受到的*black:物理伤害*+**20**%。",
+          "materials": [
+            {
+              "name": "协议棱柱组",
+              "count": "28"
+            },
+            {
+              "name": "折金票",
+              "count": "2.4万"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "description": "",
+          "materials": []
+        }
+      ]
+    },
+    {
+      "name": "游刃",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/21/265753.png",
+      "upgrades": [
+        {
+          "level": 1,
+          "nlz": "+10",
+          "xld": "20%",
+          "materials": [
+            {
+              "name": "协议棱柱",
+              "count": "5"
+            },
+            {
+              "name": "折金票",
+              "count": "1000"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "nlz": "+15",
+          "xld": "50%",
+          "materials": [
+            {
+              "name": "协议棱柱",
+              "count": "10"
+            },
+            {
+              "name": "折金票",
+              "count": "1800"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "nlz": "+15",
+          "xld": "100%",
+          "materials": [
+            {
+              "name": "协议棱柱组",
+              "count": "10"
+            },
+            {
+              "name": "折金票",
+              "count": "6000"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "nlz": "+20",
+          "xld": "100%",
+          "materials": [
+            {
+              "name": "协议棱柱组",
+              "count": "20"
+            },
+            {
+              "name": "折金票",
+              "count": "1.2万"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "baseSkills": [],
+  "potential": [
+    {
+      "rank": 1,
+      "name": "最后的苏醒",
+      "description": "战技构成序列消耗**源石结晶**时，**返还**50点技力。"
+    },
+    {
+      "rank": 2,
+      "name": "权能映射",
+      "description": "天赋**本质瓦解**效果加强；自身获得攻击力提升时，其他友方干员获得一半的攻击力提升效果。"
+    },
+    {
+      "rank": 3,
+      "name": "？？？",
+      "description": "？？？"
+    },
+    {
+      "rank": 4,
+      "name": "？？？",
+      "description": "？？？"
+    },
+    {
+      "rank": 5,
+      "name": "？？？",
+      "description": "？？？"
+    }
+  ],
+  "ascension": [
+    {
+      "rank": 1,
+      "level": "20",
+      "materials": [
+        {
+          "name": "协议圆盘",
+          "count": "8"
+        },
+        {
+          "name": "轻红柱状菌",
+          "count": "3"
+        },
+        {
+          "name": "折金票",
+          "count": "1600"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "level": "40",
+      "materials": [
+        {
+          "name": "协议圆盘",
+          "count": "25"
+        },
+        {
+          "name": "中红柱状菌",
+          "count": "5"
+        },
+        {
+          "name": "折金票",
+          "count": "6500"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "level": "60",
+      "materials": [
+        {
+          "name": "协议圆盘组",
+          "count": "24"
+        },
+        {
+          "name": "重红柱状菌",
+          "count": "5"
+        },
+        {
+          "name": "折金票",
+          "count": "1.8万"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "level": "80",
+      "materials": [
+        {
+          "name": "协议圆盘组",
+          "count": "36"
+        },
+        {
+          "name": "超距辉映管",
+          "count": "20"
+        },
+        {
+          "name": "血菌",
+          "count": "8"
+        }
+      ]
+    }
+  ],
+  "archive": {
+    "base": "【代号】管理员\n【性别】■■\n【身份认证】■■\n【生日】■■\n【种族】■■\n\n你什么都回忆不起来。\n记忆像是被揉碎的梦境，只等随便某个念头兴起，便无影无踪。\n这让你偶尔焦躁，偶尔担忧，也让你有了一些空间思考。\n但更多时候，你无暇多想，你选择相信眼前的人，只需前行。\n也许记忆已经被你短暂地抛诸脑后……\n……所以，你什么都回忆不起来。",
+    "personnel": "你过去的生命贯穿了塔卫二至今的历史……",
+    "docs": [
+      "……那么，未来呢？",
+      "？？？",
+      "？？？",
+      "？？？"
+    ]
+  },
+  "profile": {
+    "expertise": [
+      {
+        "name": "专长·一",
+        "desc": "？？？",
+        "type": "？？？"
+      },
+      {
+        "name": "专长·二",
+        "desc": "？？？",
+        "type": "？？？"
+      }
+    ],
+    "hobbies": [
+      {
+        "name": "爱好·一",
+        "desc": "？？？",
+        "type": "？？？"
+      },
+      {
+        "name": "爱好·二",
+        "desc": "？？？",
+        "type": "？？？"
+      }
+    ],
+    "gifts": []
+  },
+  "weaponBreakMaterials": {
+    "normal": [
+      {
+        "rank": 2,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "6"
+          },
+          {
+            "name": "晶化多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "1000"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "12"
+          },
+          {
+            "name": "晶化多齿叶",
+            "count": "2"
+          },
+          {
+            "name": "折金票",
+            "count": "2700"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "16"
+          },
+          {
+            "name": "纯晶多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "3200"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "21"
+          },
+          {
+            "name": "纯晶多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "4200"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "27"
+          },
+          {
+            "name": "纯晶多齿叶",
+            "count": "2"
+          },
+          {
+            "name": "折金票",
+            "count": "5400"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "materials": [
+          {
+            "name": "协议棱柱组",
+            "count": "6"
+          },
+          {
+            "name": "至晶多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "8200"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "materials": [
+          {
+            "name": "协议棱柱组",
+            "count": "8"
+          },
+          {
+            "name": "至晶多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "1.05万"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "materials": [
+          {
+            "name": "协议棱柱组",
+            "count": "15"
+          },
+          {
+            "name": "至晶多齿叶",
+            "count": "2"
+          },
+          {
+            "name": "折金票",
+            "count": "1.8万"
+          }
+        ]
+      }
+    ],
+    "end": [
+      {
+        "rank": 2,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "6"
+          },
+          {
+            "name": "晶化多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "1000"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "12"
+          },
+          {
+            "name": "晶化多齿叶",
+            "count": "2"
+          },
+          {
+            "name": "折金票",
+            "count": "2700"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "16"
+          },
+          {
+            "name": "纯晶多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "3200"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "21"
+          },
+          {
+            "name": "纯晶多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "4200"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "materials": [
+          {
+            "name": "协议棱柱",
+            "count": "27"
+          },
+          {
+            "name": "纯晶多齿叶",
+            "count": "2"
+          },
+          {
+            "name": "折金票",
+            "count": "5400"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "materials": [
+          {
+            "name": "协议棱柱组",
+            "count": "6"
+          },
+          {
+            "name": "至晶多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "8200"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "materials": [
+          {
+            "name": "协议棱柱组",
+            "count": "8"
+          },
+          {
+            "name": "至晶多齿叶",
+            "count": "1"
+          },
+          {
+            "name": "折金票",
+            "count": "1.05万"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "materials": [
+          {
+            "name": "协议棱柱组",
+            "count": "15"
+          },
+          {
+            "name": "至晶多齿叶",
+            "count": "2"
+          },
+          {
+            "name": "折金票",
+            "count": "1.8万"
+          }
+        ]
+      }
+    ],
+    "skillMaterials": {
+      "normal": [
+        {
+          "skillId": 1,
+          "levels": [
+            {
+              "level": 1,
+              "materials": {
+                "name": "协议棱柱组",
+                "count": "15"
+              }
+            },
+            {
+              "level": 2,
+              "materials": {
+                "name": "存续的痕迹",
+                "count": "1"
+              }
+            },
+            {
+              "level": 3,
+              "materials": {
+                "name": "D96钢样品四",
+                "count": "6"
+              }
+            },
+            {
+              "level": 4,
+              "materials": {
+                "name": "岩天使叶",
+                "count": "3"
+              }
+            },
+            {
+              "level": 5,
+              "materials": {
+                "name": "折金票",
+                "count": "2.4万"
+              }
+            }
+          ]
+        },
+        {
+          "skillId": 2,
+          "levels": [
+            {
+              "level": 1,
+              "materials": {
+                "name": "协议棱柱组",
+                "count": "24"
+              }
+            },
+            {
+              "level": 2,
+              "materials": {
+                "name": "存续的痕迹",
+                "count": "2"
+              }
+            },
+            {
+              "level": 3,
+              "materials": {
+                "name": "D96钢样品四",
+                "count": "16"
+              }
+            },
+            {
+              "level": 4,
+              "materials": {
+                "name": "岩天使叶",
+                "count": "6"
+              }
+            },
+            {
+              "level": 5,
+              "materials": {
+                "name": "折金票",
+                "count": "3万"
+              }
+            }
+          ]
+        },
+        {
+          "skillId": 3,
+          "levels": [
+            {
+              "level": 1,
+              "materials": {
+                "name": "协议棱柱组",
+                "count": "50"
+              }
+            },
+            {
+              "level": 2,
+              "materials": {
+                "name": "存续的痕迹",
+                "count": "3"
+              }
+            },
+            {
+              "level": 3,
+              "materials": {
+                "name": "D96钢样品四",
+                "count": "36"
+              }
+            },
+            {
+              "level": 4,
+              "materials": {
+                "name": "岩天使叶",
+                "count": "12"
+              }
+            },
+            {
+              "level": 5,
+              "materials": {
+                "name": "折金票",
+                "count": "6.5万"
+              }
+            }
+          ]
+        }
+      ],
+      "end": [
+        {
+          "skillId": 1,
+          "levels": [
+            {
+              "level": 1,
+              "materials": {
+                "name": "协议棱柱组",
+                "count": "15"
+              }
+            },
+            {
+              "level": 2,
+              "materials": {
+                "name": "存续的痕迹",
+                "count": "1"
+              }
+            },
+            {
+              "level": 3,
+              "materials": {
+                "name": "快子遴捡晶格",
+                "count": "6"
+              }
+            },
+            {
+              "level": 4,
+              "materials": {
+                "name": "岩天使叶",
+                "count": "3"
+              }
+            },
+            {
+              "level": 5,
+              "materials": {
+                "name": "折金票",
+                "count": "2.4万"
+              }
+            }
+          ]
+        },
+        {
+          "skillId": 2,
+          "levels": [
+            {
+              "level": 1,
+              "materials": {
+                "name": "协议棱柱组",
+                "count": "24"
+              }
+            },
+            {
+              "level": 2,
+              "materials": {
+                "name": "存续的痕迹",
+                "count": "2"
+              }
+            },
+            {
+              "level": 3,
+              "materials": {
+                "name": "快子遴捡晶格",
+                "count": "16"
+              }
+            },
+            {
+              "level": 4,
+              "materials": {
+                "name": "岩天使叶",
+                "count": "6"
+              }
+            },
+            {
+              "level": 5,
+              "materials": {
+                "name": "折金票",
+                "count": "3万"
+              }
+            }
+          ]
+        },
+        {
+          "skillId": 3,
+          "levels": [
+            {
+              "level": 1,
+              "materials": {
+                "name": "协议棱柱组",
+                "count": "50"
+              }
+            },
+            {
+              "level": 2,
+              "materials": {
+                "name": "存续的痕迹",
+                "count": "3"
+              }
+            },
+            {
+              "level": 3,
+              "materials": {
+                "name": "快子遴捡晶格",
+                "count": "36"
+              }
+            },
+            {
+              "level": 4,
+              "materials": {
+                "name": "岩天使叶",
+                "count": "12"
+              }
+            },
+            {
+              "level": 5,
+              "materials": {
+                "name": "折金票",
+                "count": "6.5万"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "voices": [
+    {
+      "title": "行动准备1",
+      "text": "源石在歌唱。",
+      "audio": {
+        "zh": "",
+        "jp": "",
+        "en": ""
+      }
+    },
+    {
+      "title": "行动准备2",
+      "text": "终末地一定会继续前行。",
+      "audio": {
+        "zh": "",
+        "jp": "",
+        "en": ""
+      }
+    },
+    {
+      "title": "编入队伍1",
+      "text": "帝江号，我已就位。",
+      "audio": {}
+    },
+    {
+      "title": "编入队伍2",
+      "text": "该出发了。",
+      "audio": {}
+    },
+    {
+      "title": "更换武器",
+      "text": "还不赖。",
+      "audio": {}
+    },
+    {
+      "title": "更换装备",
+      "text": "这就是工业的成果。",
+      "audio": {}
+    },
+    {
+      "title": "激活天赋阵列",
+      "text": "熟悉的感觉……",
+      "audio": {}
+    },
+    {
+      "title": "观看作战记录",
+      "text": "我不会再忘记他们的身影。",
+      "audio": {}
+    },
+    {
+      "title": "精英化晋升1",
+      "text": "更进一步。",
+      "audio": {}
+    },
+    {
+      "title": "精英化晋升2",
+      "text": "我会保护终末地的。",
+      "audio": {}
+    },
+    {
+      "title": "精英化晋升3",
+      "text": "过去和现在……必须合二为一。",
+      "audio": {}
+    },
+    {
+      "title": "精英化晋升4",
+      "text": "我听见了她的声音，像是梦中的呢喃。我常在梦中遇见一片无垠的海，令人悲伤，令人怀念……也让我再一次下定决心。",
+      "audio": {}
+    },
+    {
+      "title": "干员报道",
+      "text": "",
+      "audio": {}
+    },
+    {
+      "title": "待命1",
+      "text": "还在等什么吗？",
+      "audio": {}
+    },
+    {
+      "title": "待命2",
+      "text": "源石会开辟道路。",
+      "audio": {}
+    }
+  ],
+  "key": {
+    "id": "gamekee_691003"
+  }
+}

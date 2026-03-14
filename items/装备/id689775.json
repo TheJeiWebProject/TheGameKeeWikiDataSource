@@ -1,0 +1,122 @@
+{
+  "id": 689775,
+  "sourceUrl": "https://www.gamekee.com/zmd/689775.html",
+  "name": "拓荒耐蚀手套",
+  "description": "-本装备由北进重工支援所设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-拓荒者系列装备的设计目的是使一支三至五人小队能够拥有正面歼灭小股天使集群的作战能力。",
+  "rarity": "金色",
+  "type": "护手",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+42"
+        },
+        {
+          "name": "敏捷",
+          "value": "+65"
+        },
+        {
+          "name": "智识",
+          "value": "+43"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+34.5%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "敏捷",
+          "value": "+71"
+        },
+        {
+          "name": "智识",
+          "value": "+47"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+38%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "敏捷",
+          "value": "+78"
+        },
+        {
+          "name": "智识",
+          "value": "+51"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+41.4%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "敏捷",
+          "value": "+84"
+        },
+        {
+          "name": "智识",
+          "value": "+55"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+44.9%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/14/295566.png",
+  "key": {
+    "id": "gamekee_689775"
+  }
+}

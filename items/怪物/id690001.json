@@ -1,0 +1,36 @@
+{
+  "id": 690001,
+  "sourceUrl": "https://www.gamekee.com/zmd/690001.html",
+  "name": "大角天使α",
+  "description": "-\"克利俄松.阿纳翁\"(归档编号:ACLO71a)，ACLO71的激发种。溢出的能量给了它们标志性的亮红外观，比模式种更为坚固、灵活。",
+  "type": "普通敌人",
+  "faction": "天使",
+  "distribution": "供能高地",
+  "drops": [
+    "坚硬异香石"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_143/50248/103682/2026/0/15/842258.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50248/103682/2026/1/25/226994.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "无"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690001"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-03-14T06:13:53.437Z",
+  "pack": {
+    "packId": "gamekee",
+    "gameId": "zmd",
+    "displayName": "GameKee Wiki Data",
+    "version": "2026-03-14"
+  },
+  "stats": {
+    "items": 627,
+    "categories": [
+      "干员",
+      "武器",
+      "装备",
+      "怪物",
+      "材料"
+    ],
+    "recipeTypes": 0,
+    "recipes": 0
+  }
+}

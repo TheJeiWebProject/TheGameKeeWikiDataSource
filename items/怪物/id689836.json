@@ -1,0 +1,36 @@
+{
+  "id": 689836,
+  "sourceUrl": "https://www.gamekee.com/zmd/689836.html",
+  "name": "刚角天使",
+  "description": "-“提利索隆”（归档编号：ACL072），ACL071的非模式种。它们能够利用周围环境，表现出一定的决策能力。",
+  "type": "普通敌人",
+  "faction": "天使",
+  "distribution": "广泛分布在四号谷地各处",
+  "drops": [
+    "坚硬异香石"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_191/50248/103682/2026/0/14/515864.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2413/h_1182/50248/103682/2026/0/14/858520.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "C",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "无"
+    }
+  ],
+  "key": {
+    "id": "gamekee_689836"
+  }
+}

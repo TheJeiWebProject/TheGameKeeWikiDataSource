@@ -1,0 +1,56 @@
+{
+  "id": 689972,
+  "sourceUrl": "https://www.gamekee.com/zmd/689972.html",
+  "name": "简易手甲",
+  "description": "-本装备为临时制品，未通过终末地工业产品检验流程验证，防御能力有限。\n-结构简单的初级护甲。\n它在心理上给人的鼓励远大于它的实际防御性能。",
+  "rarity": "白色",
+  "type": "护手",
+  "manufacturer": "四号谷地",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.10）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+6"
+        },
+        {
+          "name": "力量",
+          "value": "+11"
+        },
+        {
+          "name": "敏捷",
+          "value": "+7"
+        },
+        {
+          "name": "生命值",
+          "value": "+77"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "原木",
+          "count": "2",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/8912.png"
+        },
+        {
+          "name": "晶体外壳",
+          "count": "10",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/551597.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/418905.png",
+  "key": {
+    "id": "gamekee_689972"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 690043,
+  "sourceUrl": "https://www.gamekee.com/zmd/690043.html",
+  "name": "碾骨焰术师",
+  "description": "-掌握源石技艺的裂地者武装人员。他们操纵塑能转换系源石技艺，在战场上播撒烈焰，是不折不扣的高威胁目标。",
+  "type": "进阶敌人",
+  "faction": "裂地者",
+  "distribution": "广泛分布在四号谷地各处",
+  "drops": [
+    "软骨碎屑"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_144/50248/103682/2026/0/15/596890.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_886/50248/103682/2026/0/15/970651.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "B",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-拥有强大的远程攻击手段，能够造成超域伤害，但移动能力较差。\n-会使地面喷出雾火造成超域伤害，注意躲避。\n-被靠近时会瞬间移动到远处。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690043"
+  }
+}

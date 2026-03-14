@@ -1,0 +1,36 @@
+{
+  "id": 690127,
+  "sourceUrl": "https://www.gamekee.com/zmd/690127.html",
+  "name": "火雾源石虫",
+  "description": "-野生的被感染生物，体温极高。它在濒死时会发生爆炸，沸腾的酸性体液与活性源石粉尘将席卷周边的一切。",
+  "type": "普通敌人",
+  "faction": "野外生物",
+  "distribution": "景玉谷、武陵城",
+  "drops": [
+    "虫肉"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_306/50248/103682/2026/0/15/911748.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2543/h_1184/50248/103682/2026/0/15/547246.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "C",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-在生命值较低时会自爆。自爆会在被命中干员身上留下不稳定化合物，干员再次受到伤害时，这些化合物会爆炸。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690127"
+  }
+}

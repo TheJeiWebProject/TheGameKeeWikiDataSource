@@ -1,0 +1,56 @@
+{
+  "id": 689884,
+  "sourceUrl": "https://www.gamekee.com/zmd/689884.html",
+  "name": "蚀电防护手套·壹型",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-格外牢固的手套。\n目前人类还未研发出能够有效耐受侵蚀的防护服，现役防护装备绝大多数仅能应对侵蚀次生灾害。",
+  "rarity": "紫色",
+  "type": "护手",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.50）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+30"
+        },
+        {
+          "name": "意志",
+          "value": "+46"
+        },
+        {
+          "name": "敏捷",
+          "value": "+30"
+        },
+        {
+          "name": "攻击力",
+          "value": "+12.3%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "高晶装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/311564.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "9600",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/727472.png",
+  "key": {
+    "id": "gamekee_689884"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 690056,
+  "sourceUrl": "https://www.gamekee.com/zmd/690056.html",
+  "name": "精锐劫掠者",
+  "description": "-受雾火强化，装备近战武器的裂地者精锐武装人员。他们的装备、体能与白刃战技术得到了全面强化。",
+  "type": "普通敌人",
+  "faction": "裂地者",
+  "distribution": "特定协议空间",
+  "drops": [
+    "无"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_138/h_144/50248/103682/2026/0/15/961025.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_888/50248/103682/2026/0/15/291408.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "无"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690056"
+  }
+}

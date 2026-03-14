@@ -1,0 +1,36 @@
+{
+  "id": 690062,
+  "sourceUrl": "https://www.gamekee.com/zmd/690062.html",
+  "name": "精锐行刑人",
+  "description": "-受雾火强化，装备重型斩击斧的裂地者精锐武装人员，体型高大。他们通常是碾骨氏族袭掠队伍的首领。",
+  "type": "精英敌人",
+  "faction": "裂地者",
+  "distribution": "枢纽区、谷地通道、源石研究园、供能高地",
+  "drops": [
+    "崩碎斧刃"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_144/50248/103682/2026/0/15/535052.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50248/103682/2026/1/25/324203.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-他的抓取会造成大量伤害，若有干员被他抓住，可尽快用其他干员施放技能打断来解救。\n-他的蓄力二连抡斧不易闪避，尽快打断来应对。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690062"
+  }
+}

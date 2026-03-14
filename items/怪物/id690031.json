@@ -1,0 +1,36 @@
+{
+  "id": 690031,
+  "sourceUrl": "https://www.gamekee.com/zmd/690031.html",
+  "name": "晶锥天使δ",
+  "description": "-“戴法斯塔格兰.狄涅同\"(归档编号:ARM3158)，ARM315的激流种。在日照下会发出璀璨的紫光，在塔罗斯的反光照射下则是另一副模样。",
+  "type": "普通敌人",
+  "faction": "天使",
+  "distribution": "武陵城",
+  "drops": [
+    "天然气泡水"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_144/50248/103682/2026/0/15/572906.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_886/50248/103682/2026/0/15/730929.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-发射的子弹命中时会对干员施加寒冷附着。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690031"
+  }
+}

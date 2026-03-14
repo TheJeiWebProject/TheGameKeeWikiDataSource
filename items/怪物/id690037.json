@@ -1,0 +1,36 @@
+{
+  "id": 690037,
+  "sourceUrl": "https://www.gamekee.com/zmd/690037.html",
+  "name": "白垩附肢",
+  "description": "-未归档。因形成特征，推定为天使。外观上自本体延伸而出，实则由形成位置延伸至本体，推定此为扰敌策略。",
+  "type": "领袖敌人",
+  "faction": "天使",
+  "distribution": "",
+  "drops": [
+    "无"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_137/h_143/50248/103682/2026/0/15/441722.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_890/50248/103682/2026/0/15/57225.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-有的白垩附肢擅长攻击近距离的敌人，它们会疯狂锤击地面。\n-有的白垩附肢擅长攻击远距离的敌人，它们把自己的末端碎裂为侵蚀，抛射向人。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690037"
+  }
+}

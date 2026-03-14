@@ -1,0 +1,122 @@
+{
+  "id": 689751,
+  "sourceUrl": "https://www.gamekee.com/zmd/689751.html",
+  "name": "M.I.警用罩衣",
+  "description": "-本装备由梅什科工业设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-M.1.警用系列装备。\n在战争结束后，梅什科工业调整了生产线，以优秀的轻量化工艺获得了城市警用装备的供应资格。",
+  "rarity": "金色",
+  "type": "护甲",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+56"
+        },
+        {
+          "name": "智识",
+          "value": "+87"
+        },
+        {
+          "name": "敏捷",
+          "value": "+58"
+        },
+        {
+          "name": "普通攻击伤害加成",
+          "value": "+13.8%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "智识",
+          "value": "+95"
+        },
+        {
+          "name": "敏捷",
+          "value": "+63"
+        },
+        {
+          "name": "普通攻击伤害加成",
+          "value": "+15.2%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "智识",
+          "value": "+104"
+        },
+        {
+          "name": "敏捷",
+          "value": "+69"
+        },
+        {
+          "name": "普通攻击伤害加成",
+          "value": "+16.6%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "智识",
+          "value": "+113"
+        },
+        {
+          "name": "敏捷",
+          "value": "+75"
+        },
+        {
+          "name": "普通攻击伤害加成",
+          "value": "+17.9%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/14/614209.png",
+  "key": {
+    "id": "gamekee_689751"
+  }
+}

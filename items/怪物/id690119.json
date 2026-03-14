@@ -1,0 +1,36 @@
+{
+  "id": 690119,
+  "sourceUrl": "https://www.gamekee.com/zmd/690119.html",
+  "name": "潜地虬兽",
+  "description": "能够喷吐强腐蚀性液体的野兽，大部分时间会潜于地下。它会以酸液腐蚀金属，并将之吞入腹中，因此与之交战需要保护好武器。",
+  "type": "进阶敌人",
+  "faction": "野外生物",
+  "distribution": "广泛分布于四号谷地各处",
+  "drops": [
+    "虬兽的须"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_306/50248/103682/2026/0/15/261266.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1184/50248/103682/2026/0/15/38918.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-小心它喷出的毒液，陷入其中会持续受到超域伤害"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690119"
+  }
+}

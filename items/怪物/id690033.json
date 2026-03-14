@@ -1,0 +1,36 @@
+{
+  "id": 690033,
+  "sourceUrl": "https://www.gamekee.com/zmd/690033.html",
+  "name": "潮行天使δ",
+  "description": "-\"杰那克吕丹.狄涅同\"(归档编号:AGM321)，AGM321的激流种。内部构成物质流转激烈，在夜间出现时，其外形会显得尤为可怖。",
+  "type": "精英敌人",
+  "faction": "天使",
+  "distribution": "景玉谷、武陵城",
+  "drops": [
+    "甜腻黑水"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_143/50248/103682/2026/0/15/70305.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50248/103682/2026/1/25/835099.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会使用带寒冷附着的能力进行攻击，在攻击命中时冻结干员。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690033"
+  }
+}

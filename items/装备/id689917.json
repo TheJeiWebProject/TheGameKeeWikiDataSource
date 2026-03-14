@@ -1,0 +1,56 @@
+{
+  "id": 689917,
+  "sourceUrl": "https://www.gamekee.com/zmd/689917.html",
+  "name": "集成化轻甲",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-结构简单的模块化轻型防护装备。\n它诞生在集成工业系统相关设备的试运行过程中，因几个尝试混合生产线的随手为之而生。",
+  "rarity": "绿色",
+  "type": "护甲",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.28）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+22"
+        },
+        {
+          "name": "智识",
+          "value": "+30"
+        },
+        {
+          "name": "意志",
+          "value": "+30"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+8.1%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "紫晶装备原件",
+          "count": "20",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/67779.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "160",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/364294.png",
+  "key": {
+    "id": "gamekee_689917"
+  }
+}

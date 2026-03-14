@@ -1,0 +1,56 @@
+{
+  "id": 689886,
+  "sourceUrl": "https://www.gamekee.com/zmd/689886.html",
+  "name": "蚀电防护电池·壹型",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-重量略大的电池。\n经验丰富的工人可以在十分钟内将这种源石电池改装成榴弹。",
+  "rarity": "紫色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.50）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+15"
+        },
+        {
+          "name": "意志",
+          "value": "+23"
+        },
+        {
+          "name": "敏捷",
+          "value": "+15"
+        },
+        {
+          "name": "治疗效率加成",
+          "value": "+14.7%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "高晶装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/311564.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "9600",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/481665.png",
+  "key": {
+    "id": "gamekee_689886"
+  }
+}

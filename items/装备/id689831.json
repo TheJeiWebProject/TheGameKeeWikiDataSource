@@ -1,0 +1,56 @@
+{
+  "id": 689831,
+  "sourceUrl": "https://www.gamekee.com/zmd/689831.html",
+  "name": "天灾防护手套",
+  "description": "-本装备由特里格拉夫军工厂设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-源石研究园种植作业中会使用的外骨骼装备。\n重点调整了指关节部位的支撑结构，同时提高了抓握能力，能在源石晶簇切割搬运的过程中高效辅助作业。",
+  "rarity": "紫色",
+  "type": "护手",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.50）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+30"
+        },
+        {
+          "name": "意志",
+          "value": "+46"
+        },
+        {
+          "name": "智识",
+          "value": "+30"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+24"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "高晶装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/311564.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "9600",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/14/715243.png",
+  "key": {
+    "id": "gamekee_689831"
+  }
+}

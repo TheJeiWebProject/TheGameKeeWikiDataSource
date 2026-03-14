@@ -1,0 +1,36 @@
+{
+  "id": 690072,
+  "sourceUrl": "https://www.gamekee.com/zmd/690072.html",
+  "name": "穿林箭",
+  "description": "-装备了基础远程武器的非法武装人员。他的箭术在竹林中练就，一箭穿林，不沾片叶。",
+  "type": "普通敌人",
+  "faction": "沧贼",
+  "distribution": "武陵城",
+  "drops": [
+    "新笋"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_138/h_143/50248/103682/2026/0/15/51708.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50248/103682/2026/1/25/20230.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会发射各种箭矢和投掷炸弹进行远程牵制攻击"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690072"
+  }
+}

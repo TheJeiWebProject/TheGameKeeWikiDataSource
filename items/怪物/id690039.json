@@ -1,0 +1,36 @@
+{
+  "id": 690039,
+  "sourceUrl": "https://www.gamekee.com/zmd/690039.html",
+  "name": "碾骨劫掠者",
+  "description": "-装备基础近战武器的裂地者武装人员。他们是组成裂地者团体的\"大多数\"，装备简陋，但常常成群出现。",
+  "type": "普通敌人",
+  "faction": "裂地者",
+  "distribution": "",
+  "drops": [
+    "草籽干粉"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_144/50248/103682/2026/0/15/513557.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_889/50248/103682/2026/0/15/715249.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "无"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690039"
+  }
+}

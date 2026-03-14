@@ -1,0 +1,36 @@
+{
+  "id": 697537,
+  "sourceUrl": "https://www.gamekee.com/zmd/697537.html",
+  "name": "莫惜命",
+  "description": "-活动在武陵辖地上的非法武装人员。他们通过私设关卡、走私违禁品牟取利益，个别暴徒甚至会威胁到路人性命。",
+  "type": "普通敌人",
+  "faction": "沧贼",
+  "distribution": "清波寨",
+  "drops": [
+    "新笋"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/2/13/553206.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1309/50248/103682/2026/2/13/263876.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "无"
+    }
+  ],
+  "key": {
+    "id": "gamekee_697537"
+  }
+}

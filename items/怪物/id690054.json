@@ -1,0 +1,36 @@
+{
+  "id": 690054,
+  "sourceUrl": "https://www.gamekee.com/zmd/690054.html",
+  "name": "雾火牙兽",
+  "description": "-浸染雾火的牙兽。当这种诡异的小型危险生物成群行动时，能对全副武装的外勤小队造成巨大的威胁。",
+  "type": "普通敌人",
+  "faction": "裂地者",
+  "distribution": "阿伯莉采石场",
+  "drops": [
+    "刺鼻干肉"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_142/50248/103682/2026/0/15/576263.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_886/50248/103682/2026/0/15/619380.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "C",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-比起普通牙兽更加凶猛但理智更低，若躲开它的全力扑击，它就会摔倒在地上。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690054"
+  }
+}

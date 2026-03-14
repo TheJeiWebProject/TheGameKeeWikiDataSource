@@ -1,0 +1,36 @@
+{
+  "id": 690049,
+  "sourceUrl": "https://www.gamekee.com/zmd/690049.html",
+  "name": "雾火爪牙",
+  "description": "-浸染雾火的裂地者武装人员。汲取雾火并不一定是一件幸运的事，这些裂地者遭到了严重的扭曲。",
+  "type": "普通敌人",
+  "faction": "裂地者",
+  "distribution": "阿伯莉采石场",
+  "drops": [
+    "刺鼻干肉"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_138/h_143/50248/103682/2026/0/15/953267.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_887/50248/103682/2026/0/15/584968.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "C",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-若躲开它的连续撕咬，它就会摔倒在地上。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690049"
+  }
+}

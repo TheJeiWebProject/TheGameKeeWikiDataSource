@@ -1,0 +1,56 @@
+{
+  "id": 689904,
+  "sourceUrl": "https://www.gamekee.com/zmd/689904.html",
+  "name": "巡行信使手电·贰型",
+  "description": "-本装备由终末地工业参考荒野手工艺品设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-坚固的照明手电。\n它尾部的尖锥偶尔会被用来破开一些尘封的古物。",
+  "rarity": "紫色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.50）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+15"
+        },
+        {
+          "name": "敏捷",
+          "value": "+23"
+        },
+        {
+          "name": "力量",
+          "value": "+15"
+        },
+        {
+          "name": "终结技伤害加成",
+          "value": "+36.8%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "高晶装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/311564.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "9600",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/626723.png",
+  "key": {
+    "id": "gamekee_689904"
+  }
+}

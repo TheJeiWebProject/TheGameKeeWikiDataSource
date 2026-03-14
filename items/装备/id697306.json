@@ -1,0 +1,106 @@
+{
+  "id": 697306,
+  "sourceUrl": "https://www.gamekee.com/zmd/697306.html",
+  "name": "拓荒分析仪",
+  "description": "-本装备由北进重工支援所设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-拓荒者系列辅助装备安全性分析仪器一一它能够以图像识别的方式，对未知物做出基础安全性评估。",
+  "rarity": "金色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+21"
+        },
+        {
+          "name": "力量",
+          "value": "+41"
+        },
+        {
+          "name": "终结技伤害加成",
+          "value": "+51.8%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+45"
+        },
+        {
+          "name": "终结技伤害加成",
+          "value": "+56.9%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+49"
+        },
+        {
+          "name": "终结技伤害加成",
+          "value": "+62.1%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+53"
+        },
+        {
+          "name": "终结技伤害加成",
+          "value": "+67.3%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "赤铜装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/748796.png"
+        },
+        {
+          "name": "武陵调度券x1.6万",
+          "count": "?",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/973429.png",
+  "key": {
+    "id": "gamekee_697306"
+  }
+}

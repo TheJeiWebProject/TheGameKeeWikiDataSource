@@ -1,0 +1,25 @@
+{
+  "packId": "gamekee",
+  "gameId": "zmd",
+  "displayName": "GameKee Wiki Data",
+  "version": "2026-03-14",
+  "files": {
+    "items": "items/",
+    "itemsIndex": "itemsIndex.json",
+    "itemsLite": "itemsLite.json",
+    "recipeTypes": "recipeTypes.json",
+    "recipes": "recipes.json"
+  },
+  "planner": {
+    "targetRatePresets": {
+      "halfPerMinute": 3,
+      "fullPerMinute": 6
+    }
+  },
+  "startupDialog": {
+    "id": "gamekee-data-notice-v1",
+    "title": "数据说明",
+    "message": "本数据包由 GameKee Wiki 抓取生成。数据仅供参考，请以游戏内为准。",
+    "confirmText": "我知道了"
+  }
+}

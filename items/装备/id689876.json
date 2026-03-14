@@ -1,0 +1,56 @@
+{
+  "id": 689876,
+  "sourceUrl": "https://www.gamekee.com/zmd/689876.html",
+  "name": "蚀电防护背心",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-牢固的防护背心。\n\"在抢修现场必须穿好防护装备，不然你就会看到受损设备向你大声呼救.....别给医生添麻烦，好吗?\"",
+  "rarity": "蓝色",
+  "type": "护甲",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.36）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+28"
+        },
+        {
+          "name": "意志",
+          "value": "+44"
+        },
+        {
+          "name": "敏捷",
+          "value": "+29"
+        },
+        {
+          "name": "生命值",
+          "value": "+10.5%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "蓝铁装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/83938.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "1200",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/432553.png",
+  "key": {
+    "id": "gamekee_689876"
+  }
+}

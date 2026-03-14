@@ -1,0 +1,36 @@
+{
+  "id": 690145,
+  "sourceUrl": "https://www.gamekee.com/zmd/690145.html",
+  "name": "残暴原生钳兽",
+  "description": "-野生的被感染生物，背负大量源石晶簇，体型巨大。甲壳较之普通个体更厚，背负的源石晶簇活性更强。",
+  "type": "普通敌人",
+  "faction": "野外生物",
+  "distribution": "枢纽区、源石研究园、供能高地",
+  "drops": [
+    "虫肉"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_304/50248/103682/2026/0/15/852481.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1205/50248/103682/2026/0/15/905015.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-通常成群结队出现，小心它们锋利的前肢。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690145"
+  }
+}

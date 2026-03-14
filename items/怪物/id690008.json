@@ -1,0 +1,36 @@
+{
+  "id": 690008,
+  "sourceUrl": "https://www.gamekee.com/zmd/690008.html",
+  "name": "岗哨天使",
+  "description": "-\"弗洛萨隆\"(归档编号:ARS316)，形成模式被认为在模仿人类的哨戒炮。射程远，但形成后从不移动。",
+  "type": "精英敌人",
+  "faction": "天使",
+  "distribution": "特定协议空间",
+  "drops": [
+    "无"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_142/50248/103682/2026/0/15/351920.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1851/h_918/50248/103682/2026/0/15/990057.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "C",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-拥有超远射程且威力巨大，努力躲避它的炮火才能继续前进。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690008"
+  }
+}

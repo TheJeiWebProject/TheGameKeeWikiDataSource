@@ -1,0 +1,52 @@
+{
+  "id": 689911,
+  "sourceUrl": "https://www.gamekee.com/zmd/689911.html",
+  "name": "重装信使陀螺",
+  "description": "-本装备由终末地工业参考荒野手工艺品设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-小巧的解压玩具。\n根据权威统计，约有百分之八十的信使会把这样的小玩具改装成微型爆破飞镖。",
+  "rarity": "蓝色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.36）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+10"
+        },
+        {
+          "name": "力量",
+          "value": "+21"
+        },
+        {
+          "name": "攻击力",
+          "value": "+10.5%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "蓝铁装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/83938.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "1200",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/342390.png",
+  "key": {
+    "id": "gamekee_689911"
+  }
+}

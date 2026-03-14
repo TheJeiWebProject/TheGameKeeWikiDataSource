@@ -1,0 +1,56 @@
+{
+  "id": 689954,
+  "sourceUrl": "https://www.gamekee.com/zmd/689954.html",
+  "name": "矿场手甲·壹型",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-多用于矿场作业的防护装备。\n《四号谷地安全防护标准》要求劳动保护装备至少需要软性保护及硬性保护两层防护结构。",
+  "rarity": "蓝色",
+  "type": "护手",
+  "manufacturer": "四号谷地",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.36）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+21"
+        },
+        {
+          "name": "力量",
+          "value": "+36"
+        },
+        {
+          "name": "智识",
+          "value": "+24"
+        },
+        {
+          "name": "攻击力",
+          "value": "+9.5%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "蓝铁装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/83938.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "1200",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/756118.png",
+  "key": {
+    "id": "gamekee_689954"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": 689977,
+  "sourceUrl": "https://www.gamekee.com/zmd/689977.html",
+  "name": "纾难识别牌·壹型",
+  "description": "-本装备由宏山选剑局设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-象征着艰辛前路的装备。\n\"事未竟，路犹长。\"",
+  "rarity": "金色",
+  "type": "配件",
+  "manufacturer": "武陵",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+21"
+        },
+        {
+          "name": "敏捷",
+          "value": "+43"
+        },
+        {
+          "name": "连携技伤害加成",
+          "value": "+43.2%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "敏捷",
+          "value": "+47"
+        },
+        {
+          "name": "连携技伤害加成",
+          "value": "+47.5%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "敏捷",
+          "value": "+51"
+        },
+        {
+          "name": "连携技伤害加成",
+          "value": "+51.8%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "敏捷",
+          "value": "+55"
+        },
+        {
+          "name": "连携技伤害加成",
+          "value": "+56.2%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/615488.png",
+  "key": {
+    "id": "gamekee_689977"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 690023,
+  "sourceUrl": "https://www.gamekee.com/zmd/690023.html",
+  "name": "潮行天使",
+  "description": "-\"杰那克吕丹\"(归档编号:AGM321)，其头部和腿部带有类人特征，从这种形成模式的发现开始，是否类人成为了判断天使强度的\n一条不成文标准。",
+  "type": "精英敌人",
+  "faction": "天使",
+  "distribution": "暂无数据",
+  "drops": [
+    "甜腻黑水"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_141/50248/103682/2026/0/15/973546.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_916/50248/103682/2026/0/15/3913.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会使用带寒冷附着的能力进行攻击，在攻击命中时冻结干员。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690023"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 689747,
+  "sourceUrl": "https://www.gamekee.com/zmd/689747.html",
+  "name": "50式应龙雷达",
+  "description": "-本装备由宏山选剑局设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-应龙特勤队所配装备的民用版，缺少了关键力量，但具备了普适性。\n优化设计完成那天，他提起笔，在设计图边留下几个字一\"天坼地裂，我亦胜之\"。",
+  "rarity": "金色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+21"
+        },
+        {
+          "name": "力量",
+          "value": "+32"
+        },
+        {
+          "name": "意志",
+          "value": "+21"
+        },
+        {
+          "name": "物理伤害加成",
+          "value": "+23%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+35"
+        },
+        {
+          "name": "意志",
+          "value": "+23"
+        },
+        {
+          "name": "物理伤害加成",
+          "value": "+25.3%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+38"
+        },
+        {
+          "name": "意志",
+          "value": "+25"
+        },
+        {
+          "name": "物理伤害加成",
+          "value": "+27.6%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+41"
+        },
+        {
+          "name": "意志",
+          "value": "+27"
+        },
+        {
+          "name": "物理伤害加成",
+          "value": "+29.9%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/14/73894.png",
+  "key": {
+    "id": "gamekee_689747"
+  }
+}

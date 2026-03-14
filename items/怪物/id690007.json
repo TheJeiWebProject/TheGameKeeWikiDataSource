@@ -1,0 +1,36 @@
+{
+  "id": 690007,
+  "sourceUrl": "https://www.gamekee.com/zmd/690007.html",
+  "name": "重刺天使α",
+  "description": "-\"华丽肯托隆.阿纳翁\"(归档编号:ARL141a)，ARL141的激发种。保留了原本多变的攻击方式，提高了形成模式的坚固度，危险。",
+  "type": "进阶敌人",
+  "faction": "天使",
+  "distribution": "枢纽区、供能高地",
+  "drops": [
+    "高能异香石"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_143/50248/103682/2026/0/15/241973.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50248/103682/2026/1/25/120442.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "C",
+    "灼热抗性": "C",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会在干员脚下伸出源石柱进行攻击。\n-当它被靠近时，会在自身周围召唤石柱保护自己。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690007"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 689735,
+  "sourceUrl": "https://www.gamekee.com/zmd/689735.html",
+  "name": "长息辅助臂",
+  "description": "-本装备由宏山选剑局设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-某位\"疯狂\"天师的遗世之作。\n.....据说这位疯狂天师在乌萨斯厨师端上桌的火锅中看到了一种\"生生不息的循环\"，成功将长息装甲的续航时间提高了一倍。",
+  "rarity": "金色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+42"
+        },
+        {
+          "name": "意志",
+          "value": "+32"
+        },
+        {
+          "name": "智识",
+          "value": "+21"
+        },
+        {
+          "name": "终结技充能效率",
+          "value": "+24.6%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "意志",
+          "value": "+35"
+        },
+        {
+          "name": "智识",
+          "value": "+23"
+        },
+        {
+          "name": "终结技充能效率",
+          "value": "+27.1%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "意志",
+          "value": "+38"
+        },
+        {
+          "name": "智识",
+          "value": "+25"
+        },
+        {
+          "name": "终结技充能效率",
+          "value": "+29.6%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "意志",
+          "value": "+41"
+        },
+        {
+          "name": "智识",
+          "value": "+27"
+        },
+        {
+          "name": "终结技充能效率",
+          "value": "+32%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/14/371229.png",
+  "key": {
+    "id": "gamekee_689735"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "id": 696985,
+  "sourceUrl": "https://www.gamekee.com/zmd/696985.html",
+  "name": "望乡",
+  "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-宏山选剑局研发的铳械。为贴合宏科院武装力量的基本方针，在设计时特别减轻了重量，优化了持握手感。",
+  "rarity": 6,
+  "type": "手铳",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_142/50248/103682/2026/2/12/95876.png",
+  "images": [
+    {
+      "title": "普通外观",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_877/50248/103682/2026/2/12/188738.png"
+    },
+    {
+      "title": "满潜外观",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_884/50248/103682/2026/2/12/254355.png"
+    }
+  ],
+  "stats": {
+    "基础攻击力": "1级：攻击力+50\n90级：攻击力+490",
+    "敏捷提升·大": "Rank09：敏捷+156",
+    "寒冷伤害提升·大": "Rank09：寒冷伤害+43.3%"
+  },
+  "passives": [
+    {
+      "name": "压制·旧时月",
+      "description": "Rank09：\n攻击力+19.6%。\n装备者释放连携技后，战技造成的寒冷和自然伤害+22.4%，持续20秒。\n※同名效果最多叠加2层，每层单独计算持续时间。"
+    },
+    {
+      "name": "武器档案",
+      "description": "“做些月饼吧。”我突然说。 伊森明显愣了一下，但在他背后，沃尔科夫把酒瓶放下，猛地拍起大腿，顺着我的话喊了起来：“做月饼！朋友们！做月饼吧！” 伊森先是扇了扇风，试图把空气中的酒味扇走，未果后索性放弃了。他向沃尔科夫提问，试图让他说出月饼到底是什么东西，以确定他没有喝醉，但不幸的是，沃尔科夫只能磕磕巴巴地重复着“是一种饼，我们乌萨斯工团也有饼”这样的醉话。于是他又看向我。 \n“我是开……” \n“好。”\n 我甚至没有把“玩笑”两个字说出口，伊森就表示了支持。\n他对炎国历史、习俗比我这个炎国人还了解，应该很清楚距离中秋节还有一个半月，所谓做月饼只是我随口说出的胡话。但此刻，我理解这个仿佛把全哥伦比亚的严肃性都汇聚在自己身上的男人为什么会陪着我们一起发疯。 \n因为天使战争结束了。 \n一段时间之前，战胜的消息突然从前线传到了我们这座通信哨站——管理员和四十位英雄冲进了极光壁，解决了敌人，人类终于从天使战争中解脱了出来。一开始我们并不相信这件事，但连续数日都仅有寥寥几个锚点飞过头顶，冲击哨站的天使也少得可怜，这些事实让我们意识到战争或许真的结束了。 可惜的是，它没有这么容易从我们的心里离去。 \n我们三个人似乎已经没有办法适应战争结束的生活，我会看着自己的断手发呆，沃尔科夫会偷喝防冻液，而伊森会写日记，但我瞥见过那些文字——死亡、战友、故乡……只有不成句的词在纸上堆砌。可这些词却能割伤我，很多年过去了，我从青涩的少年，到了如今的中年，侥幸还活着……那么，付出了怎样的代价，忘记了什么东西？我试着回忆尚蜀老宅的石阶，试着回忆中秋时祖父母制作月饼的步骤，试着回忆第一个死在我眼前的战友……这些早已模糊不堪。 \n我忽然觉得做月饼这种想法无比可笑，塔卫二没有月亮，被称为月亮的是塔卫一，就算天师府的诸位同僚对着万年历将大炎的节日完全照搬到了塔卫二，又有什么用呢？月亮是假的，连二十四节气也对不上气候……这里不是我们的家，我们早已是没有归处的游魂。令我们恐惧的是塔卫二本身，在无数个噩梦中，有新的怪物从海中来，有新的怪物从星空中来，我们的昂扬壮志早就在向南撤退的行程中被碾得粉碎。 \n“做些月饼吧。”\n但我仍在坚持。 伊森用低筋面粉做了饼皮，我将能量棒碾碎，混上巧克力做成了馅料，沃尔科夫……他用源石技艺将水冻结成冰，勉强制成了模具。\n两小时后，我们围坐在一起，开始艰难地嚼食仅有一丝甜味和暖意的褐色面团，沃尔科夫表示原来正宗的月饼是这种味道，我想了想，把一些污言秽语压了下去。\n又过了两个小时，我仰面在雪地上醒来——防冻液确实不是什么人都能喝上几口的。\n“月亮”闯进我的眼睛，我忽然觉得苍白的塔卫一要比泰拉的月亮更明亮一些，可惜，有关故乡月亮的记忆也很模糊了。但这好像无伤大雅吧？防冻液中的醇对我窃窃私语。是啊，我回答它，我们已经拥有了新的月亮，在陌生的土地上，人类已站稳了脚跟。\n 直至此时，我终于感受到了战争的离去，这颗星球仍令我恐惧，但我心中也有微小的希望萌发出来。我走回哨站，听着沃尔科夫和伊森聊起新收到的情报，难民营的小规模冲突，还有其他哨站也在悄悄交换节日祝福……战争离去，未知且庞大的塔卫二正等待着我们，从今往后，就是重新建设未来的时代，人类再一次拥有了希望，我如此相信。\n ——耻辱战争爆发前夜，某位天师的日记"
+    }
+  ],
+  "materials": [
+    {
+      "level": "总计",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "252",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/63415.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "4",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/907867.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "1",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/665246.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "23",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/612352.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/118726.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "3",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_183/h_189/50248/103682/2026/1/25/155207.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_189/50248/103682/2026/1/25/604669.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_184/h_191/50248/103682/2026/1/25/897190.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "16",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_188/50248/103682/2026/2/12/693405.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "8",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/2/12/651204.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "467090",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/331488.png"
+        }
+      ]
+    },
+    {
+      "level": "1~20级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "8",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/21831.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/321109.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "640",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/596996.png"
+        }
+      ]
+    },
+    {
+      "level": "20级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/317506.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "3",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_183/h_189/50248/103682/2026/1/25/823102.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "2200",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/233697.png"
+        }
+      ]
+    },
+    {
+      "level": "20~40级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "9",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/690798.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "6",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/649693.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "4",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/913783.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "9760",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/879181.png"
+        }
+      ]
+    },
+    {
+      "level": "40级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "18",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/186754.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_189/50248/103682/2026/1/25/151411.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "8500",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/228291.png"
+        }
+      ]
+    },
+    {
+      "level": "40~60级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "18",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/160916.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/785859.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "18610",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/816229.png"
+        }
+      ]
+    },
+    {
+      "level": "60级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "20",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/129071.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_184/h_191/50248/103682/2026/1/25/426702.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "2.5万",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/727015.png"
+        }
+      ]
+    },
+    {
+      "level": "60~80级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "91",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/278986.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "3",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/621128.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "1",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/723969.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "94840",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/236198.png"
+        }
+      ]
+    },
+    {
+      "level": "80级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "30",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/45701.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "16",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_188/50248/103682/2026/2/12/488168.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "8",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/2/12/107029.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "9万",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/827200.png"
+        }
+      ]
+    },
+    {
+      "level": "80~90级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "132",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/506958.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "2",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/201150.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "217540",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/655508.png"
+        }
+      ]
+    }
+  ],
+  "key": {
+    "id": "gamekee_696985"
+  }
+}

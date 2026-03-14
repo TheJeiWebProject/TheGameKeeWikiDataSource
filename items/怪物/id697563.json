@@ -1,0 +1,36 @@
+{
+  "id": 697563,
+  "sourceUrl": "https://www.gamekee.com/zmd/697563.html",
+  "name": "开天将",
+  "description": "-装备了重型武器的非法武装人员。开天难成，一众背负四联装发射器的武装人员中，只有足够强者才能获得“开天”之名。",
+  "type": "精英敌人",
+  "faction": "沧贼",
+  "distribution": "清波寨",
+  "drops": [
+    "清波竹林"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_187/50248/103682/2026/2/13/487774.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50248/103682/2026/2/13/564790.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "C",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "C"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会抡重炮进行近战攻击，也会发射烟花进行远程攻击。被牛角顶起的话，可能会看到巨大的烟花！\n-从他的后面进攻的话，要小心他用蹄子踹你!"
+    }
+  ],
+  "key": {
+    "id": "gamekee_697563"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "id": 691070,
+  "sourceUrl": "https://www.gamekee.com/zmd/691070.html",
+  "name": "探骊",
+  "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-宏山选剑局研发的制式大剑。剑身使用了新型特种涂料，防护能力优良，即使处于极端恶劣环境下也能免受影响。",
+  "rarity": 5,
+  "type": "双手剑",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_144/50248/462381/2026/0/21/83359.png",
+  "images": [
+    {
+      "title": "普通外观",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1880/h_846/50248/462381/2026/0/21/375651.png"
+    },
+    {
+      "title": "满潜外观",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1831/h_860/50248/462381/2026/0/21/831957.png"
+    }
+  ],
+  "stats": {
+    "基础攻击力": "1级：攻击力+42\n90级：攻击力+411",
+    "力量提升·中": "Rank09：力量+124",
+    "终结技充能效率提升·中": "Rank09：终结技充能效率+37.1%"
+  },
+  "passives": [
+    {
+      "name": "迸发·钩玄猎秘",
+      "description": "Rank09：\n主能力+14.0%。\n装备者造成法术爆发后，攻击力+16.8%，持续30秒。\n同名效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。"
+    },
+    {
+      "name": "武器档案",
+      "description": "“实验数据还是对不上吗？”\n\n他垂着头，感觉到导师那审视的目光又一次沉重地打在了他身上。\n\n接着就是一声更重的叹息。\n\n“唉，子源，我记得你做这个‘息壤功率转换’的项目也已经三年了吧？”\n\n他点点头，低声补充了一句。\n\n“嗯，三年四个月零八天了。”\n\n“那你知道你隔壁组的师兄，还有和你一样是做息壤研究方向的明枢，他们手上的项目进度如何吗？”\n\n“……知道。”\n\n“那我也没什么能说的了，你自己……再好好考虑下吧。师生一场，我会帮你留一个转项目的名额的。”\n\n \n\n离开研究所的时候，天色已经不早，约莫是放学的时间，沿街时不时能看到几个小学徒结伴而行。\n\n而他只是像往常那样，沿着方兴衢往里走，在第二个拐角转弯，又走了七八步，才踏入这家铺面不大的面馆。\n\n“老板，一碗焖肉面，不要葱花。”\n\n他坐在最常坐的那个位置，点了自己最常吃的面，然后看着店主也像往常那样什么都没说，利落地下好一碗端上了桌。\n\n可才吃下第一口，他就皱了眉——只觉得面硬得不行，焖肉也腻了太多。\n\n“这味道……怎么变了这么多？换师傅了吗？”\n\n店主瞥了他一眼，笑了笑，难得接了话。\n\n“年轻人，我家的面从浇头到面条全是我自己做的，和你昨天吃的那碗也没什么区别。我看不是面的味道变了，是你吃面的心变了……既然都没心思吃这碗面，何必要来呢？”\n\n他先是沉默，随即摇摇头。\n\n“老人家，你不明白……我做了那么一件事整整三年，坚持了整整三年，所以到了该结束的时候，就算没了心思，我也不想缺了哪一环……况且，这面的味道确实不如昨天。”\n\n“哈，你这小子倒是嘴硬，分明是你自己舍不得，却还怪到我这面上了。”\n\n他苦笑，倒是没继续争辩下去。\n\n“就当是我舍不得吧，但我又能怎么办呢……\n\n“别人的项目才几个月就有了看得见的阶段成果，探了骊也得了珠，只有我……一个项目做了三年，还是不得其门而入……\n\n“再不换个项目，怕是要自取其辱了。”\n\n也顾不上店主听不听得懂，他竟然一口气将从没敢在导师、组员面前说的苦水都吐完了。\n\n店主听了却敛了笑，认真地看向他。\n\n“所以，你只是因为没能‘得珠’，就想半途而废了？”\n\n“我……”他愣了愣，没能反驳。\n\n“看你的样子，应该也是学材料的……那这三年你还记得你积累了多少次实验经验？尝试过多少种替换方案？留下过多少卷参考数据吗？”\n\n“记得……353次、172种、561——不，算上最新一次，是562卷。”他有点艰难地说出了这么一串数字，忽然感觉心中一松。\n\n“你看，这么多的东西，难道不是只属于你的另一份珍宝吗？”\n\n“相较于最终结果，过程中积累的经验一样很重要吗……”\n\n他有些恍然，若有所思地感叹道。\n\n“说来惭愧，我当了快八年的天师学徒，竟然今天才因为您的这番话明白了这么简单的道理……真的是受教了。”\n\n店主却是摆了摆手，像是想起了什么往事，将目光投向望不见终点的远处。\n\n“客套话就免了，这里可没人爱听……我不过是见不得你这样的年轻人，明明还有很长的路能走，偏觉得自己走到了头。\n\n“不像我那几个学生，就算真走到了头，他们也敢不要命地朝前冲，硬生生给自己再闯出一条路来……”\n\n老人的嘴角不知何时带出了几分笑意，虽然很快就如面汤刚出锅时的热气那样散去了。\n\n“只是运气都不太好……十年前嬉皮笑脸地对我说‘老师，等我们去把裂隙关了就回来交结业论文’的小混蛋们，最后一个都没回来……”\n\n \n\n“十年前……？您说的……莫非是……”\n\n \n\n“都是些陈芝麻烂谷子的伤心事……不提了！\n\n“唉，你小子傻愣在那儿干什么！还不快把这碗面吃了？\n\n“等面坨了，就真要变味儿咯！”"
+    }
+  ],
+  "materials": [
+    {
+      "level": "总计",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "252",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/63415.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "4",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/907867.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "1",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/665246.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "23",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/612352.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/118726.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "3",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_183/h_189/50248/103682/2026/1/25/155207.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_189/50248/103682/2026/1/25/604669.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_184/h_191/50248/103682/2026/1/25/897190.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "16",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_190/50248/103682/2026/1/25/957612.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "8",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/696164.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "467090",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/331488.png"
+        }
+      ]
+    },
+    {
+      "level": "1~20级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "8",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/21831.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/321109.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "640",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/596996.png"
+        }
+      ]
+    },
+    {
+      "level": "20级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/317506.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "3",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_183/h_189/50248/103682/2026/1/25/823102.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "2200",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/233697.png"
+        }
+      ]
+    },
+    {
+      "level": "20~40级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "9",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/690798.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "6",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/649693.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "4",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/913783.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "9760",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/879181.png"
+        }
+      ]
+    },
+    {
+      "level": "40级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "18",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/186754.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_189/50248/103682/2026/1/25/151411.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "8500",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/228291.png"
+        }
+      ]
+    },
+    {
+      "level": "40~60级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "18",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/160916.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/785859.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "18610",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/816229.png"
+        }
+      ]
+    },
+    {
+      "level": "60级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "20",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/129071.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "5",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_184/h_191/50248/103682/2026/1/25/426702.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "2.5万",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/727015.png"
+        }
+      ]
+    },
+    {
+      "level": "60~80级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "91",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/278986.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "3",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/621128.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "1",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/723969.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "94840",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/236198.png"
+        }
+      ]
+    },
+    {
+      "level": "80级突破",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "30",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/45701.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "16",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_190/50248/103682/2026/1/25/963879.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "8",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/493111.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "9万",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/827200.png"
+        }
+      ]
+    },
+    {
+      "level": "80~90级",
+      "items": [
+        {
+          "name": "Unknown",
+          "count": "132",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/506958.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "2",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/201150.png"
+        },
+        {
+          "name": "Unknown",
+          "count": "217540",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/655508.png"
+        }
+      ]
+    }
+  ],
+  "key": {
+    "id": "gamekee_691070"
+  }
+}

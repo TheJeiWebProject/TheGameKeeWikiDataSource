@@ -1,0 +1,56 @@
+{
+  "id": 689873,
+  "sourceUrl": "https://www.gamekee.com/zmd/689873.html",
+  "name": "阿伯莉照明器",
+  "description": "-本装备由特里格拉夫军工厂设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-针对阿伯莉采石场作业情况做出了调整的新型防护装甲。\n“它就那样嵌在岩石中，就像我只是挖出了混凝土里的一截钢筋，但......但我好像听到它在对我说话......\"",
+  "rarity": "紫色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.50）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+15"
+        },
+        {
+          "name": "智识",
+          "value": "+23"
+        },
+        {
+          "name": "力量",
+          "value": "+15"
+        },
+        {
+          "name": "终结技充能效率",
+          "value": "+17.5%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "高晶装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/311564.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "9600",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/950882.png",
+  "key": {
+    "id": "gamekee_689873"
+  }
+}

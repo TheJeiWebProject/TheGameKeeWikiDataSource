@@ -1,0 +1,52 @@
+{
+  "id": 689924,
+  "sourceUrl": "https://www.gamekee.com/zmd/689924.html",
+  "name": "集成化重甲片",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-结构简单的模块化重型防护装备。\n如果想要提升防御性能，就无法控制住激增的重量，算是这套装备最严重的痛点。",
+  "rarity": "绿色",
+  "type": "护甲",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.28）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+8"
+        },
+        {
+          "name": "力量",
+          "value": "+16"
+        },
+        {
+          "name": "全伤害减免",
+          "value": "+7.5%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "紫晶装备原件",
+          "count": "20",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/67779.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "160",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/960467.png",
+  "key": {
+    "id": "gamekee_689924"
+  }
+}

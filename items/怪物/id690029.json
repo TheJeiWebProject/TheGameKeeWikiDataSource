@@ -1,0 +1,36 @@
+{
+  "id": 690029,
+  "sourceUrl": "https://www.gamekee.com/zmd/690029.html",
+  "name": "浊流天使δ",
+  "description": "-\"托雷格兰.狄涅同\"(归档编号:ACM3115)，ACM311的激流种。对能量的运用形式特殊，内部温度显著低于构成物质的冰点。",
+  "type": "普通敌人",
+  "faction": "天使",
+  "distribution": "武陵城",
+  "drops": [
+    "坚韧的水"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_143/50248/103682/2026/0/15/864358.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_889/50248/103682/2026/0/15/747813.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "C",
+    "寒冷抗性": "C",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "-会从远处快速接近，攻击命中时对干员施加寒冷附着。"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690029"
+  }
+}

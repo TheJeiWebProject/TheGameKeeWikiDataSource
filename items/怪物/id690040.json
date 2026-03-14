@@ -1,0 +1,36 @@
+{
+  "id": 690040,
+  "sourceUrl": "https://www.gamekee.com/zmd/690040.html",
+  "name": "碾骨伏击射手",
+  "description": "-装备基础远程武器的裂地者武装人员。他们仅受过基础的射击训练，准头不佳，但仍有许多人命丧于他们的弩箭。",
+  "type": "普通敌人",
+  "faction": "裂地者",
+  "distribution": "广泛分布于四号谷地各处、景玉谷",
+  "drops": [
+    "草籽干粉"
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_143/50248/103682/2026/0/15/963858.png",
+  "images": [
+    {
+      "title": "模型",
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_883/50248/103682/2026/0/15/112649.png"
+    }
+  ],
+  "resistances": {
+    "物理抗性": "D",
+    "灼热抗性": "D",
+    "电磁抗性": "D",
+    "寒冷抗性": "D",
+    "自然抗性": "D"
+  },
+  "skills": [
+    {
+      "category": "特殊能力",
+      "name": "特殊能力",
+      "description": "无"
+    }
+  ],
+  "key": {
+    "id": "gamekee_690040"
+  }
+}

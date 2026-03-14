@@ -1,0 +1,122 @@
+{
+  "id": 689818,
+  "sourceUrl": "https://www.gamekee.com/zmd/689818.html",
+  "name": "生物辅助手甲",
+  "description": "-本装备由罗德岛设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-医疗者们爱用装备的加重款。\n罗德岛仍保留着在装备上配置矿石病监测模组的习惯。",
+  "rarity": "金色",
+  "type": "护甲",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+42"
+        },
+        {
+          "name": "意志",
+          "value": "+65"
+        },
+        {
+          "name": "力量",
+          "value": "+43"
+        },
+        {
+          "name": "治疗效率加成",
+          "value": "+17.3%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "意志",
+          "value": "+71"
+        },
+        {
+          "name": "力量",
+          "value": "+47"
+        },
+        {
+          "name": "治疗效率加成",
+          "value": "+19.1%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "意志",
+          "value": "+78"
+        },
+        {
+          "name": "力量",
+          "value": "+51"
+        },
+        {
+          "name": "治疗效率加成",
+          "value": "+20.8%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "意志",
+          "value": "+84"
+        },
+        {
+          "name": "力量",
+          "value": "+55"
+        },
+        {
+          "name": "治疗效率加成",
+          "value": "+22.5%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/14/480294.png",
+  "key": {
+    "id": "gamekee_689818"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 697323,
+  "sourceUrl": "https://www.gamekee.com/zmd/697323.html",
+  "name": "动火用手套",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-耐火性极强的装备。\n为了深入高温环境进行探索，联盟工团与终末地工业合力研发了动火用系列装备。",
+  "rarity": "金色",
+  "type": "护手",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+42"
+        },
+        {
+          "name": "力量",
+          "value": "+65"
+        },
+        {
+          "name": "意志",
+          "value": "+43"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+34"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+71"
+        },
+        {
+          "name": "意志",
+          "value": "+47"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+38"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+78"
+        },
+        {
+          "name": "意志",
+          "value": "+51"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+41"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+84"
+        },
+        {
+          "name": "意志",
+          "value": "+55"
+        },
+        {
+          "name": "源石技艺强度",
+          "value": "+45"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "赤铜装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/748796.png"
+        },
+        {
+          "name": "武陵调度券x1.6万",
+          "count": "?",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/2/12/682743.png",
+  "key": {
+    "id": "gamekee_697323"
+  }
+}

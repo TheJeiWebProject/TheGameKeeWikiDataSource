@@ -1,0 +1,122 @@
+{
+  "id": 689788,
+  "sourceUrl": "https://www.gamekee.com/zmd/689788.html",
+  "name": "碾骨披巾·壹型",
+  "description": "-本装备由终末地工业参考荒野手工艺品设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-设计灵感来自于碾骨氏族的装备。\n实际上，披巾并不具备什么防护性能，它通常会作为身份标识，就像是某种旗帜的变形。",
+  "rarity": "金色",
+  "type": "护甲",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+56"
+        },
+        {
+          "name": "意志",
+          "value": "+87"
+        },
+        {
+          "name": "敏捷",
+          "value": "+58"
+        },
+        {
+          "name": "终结技充能效率",
+          "value": "+12.3%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "意志",
+          "value": "+95"
+        },
+        {
+          "name": "敏捷",
+          "value": "+63"
+        },
+        {
+          "name": "终结技充能效率",
+          "value": "+13.6%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "意志",
+          "value": "+104"
+        },
+        {
+          "name": "敏捷",
+          "value": "+69"
+        },
+        {
+          "name": "终结技充能效率",
+          "value": "+14.8%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "意志",
+          "value": "+113"
+        },
+        {
+          "name": "敏捷",
+          "value": "+75"
+        },
+        {
+          "name": "终结技充能效率",
+          "value": "+16%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/14/713898.png",
+  "key": {
+    "id": "gamekee_689788"
+  }
+}
