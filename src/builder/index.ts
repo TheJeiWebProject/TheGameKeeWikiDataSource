@@ -1,6 +1,7 @@
 
 import fs from 'fs-extra';
 import path from 'path';
+import { downloadAndReplaceImages } from './image-downloader.js';
 
 const PARSED_DIR = path.resolve('data/parsed');
 const DIST_DIR = path.resolve('dist');
@@ -201,4 +202,14 @@ export async function buildPack() {
   await fs.writeFile(path.join(DIST_DIR, 'index.html'), indexHtml);
 
   console.log(`Build complete. Generated ${itemCount} items.`);
+
+  // 6. 下载图片并替换 JSON 中的原始 CDN URL
+  await downloadAndReplaceImages(DIST_DIR);
+}
+
+/**
+ * 仅下载/更新图片，不重新构建整个包（用于补充下载失败的图片）
+ */
+export async function downloadImages() {
+  await downloadAndReplaceImages(DIST_DIR);
 }

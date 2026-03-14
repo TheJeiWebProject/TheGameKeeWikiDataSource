@@ -93,15 +93,15 @@ export async function runCrawler() {
       // If FORCE_UPDATE=false:
       //    If SKIP_EXISTING=true, skip if exists.
       //    If SKIP_EXISTING=false (default?), fetch regardless (update).
-
+      
       // Let's refine defaults for CI usage:
       // CI (Daily): FORCE_UPDATE=false, SKIP_EXISTING=false (we want updates). Delay=2000.
       // Manual (Fast): FORCE_UPDATE=false, SKIP_EXISTING=true (just fill missing). Delay=0.
-
+      
       // So if exists and we want to update, we proceed.
 
       if (exists && SKIP_EXISTING) {
-        continue;
+          continue;
       }
 
       count++;

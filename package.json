@@ -9,6 +9,7 @@
     "build": "tsx src/index.ts build",
     "crawl": "tsx src/index.ts crawl",
     "parse": "tsx src/index.ts parse",
+    "images": "tsx src/index.ts images",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

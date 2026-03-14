@@ -3,7 +3,7 @@ import { runCrawler } from './crawler/index.js';
 console.log('Argv:', process.argv);
 import { runParser } from './parser/index.js';
 
-import { buildPack } from './builder/index.js';
+import { buildPack, downloadImages } from './builder/index.js';
 
 const command = process.argv[2];
 
@@ -16,6 +16,8 @@ if (command === 'crawl') {
   runParser().catch(console.error);
 } else if (command === 'build') {
   buildPack().catch(console.error);
+} else if (command === 'images') {
+  downloadImages().catch(console.error);
 } else {
-  console.log('Usage: pnpm start [crawl|parse|build]');
+  console.log('Usage: pnpm start [crawl|parse|build|images]');
 }
