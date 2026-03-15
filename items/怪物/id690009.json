@@ -9,11 +9,11 @@
   "drops": [
     "导能肖像石"
   ],
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_142/50248/103682/2026/0/15/595505.png",
+  "image": "images/w_140/h_142/50248/103682/2026/0/15/595505.png",
   "images": [
     {
       "title": "模型",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/50248/103682/2026/1/25/555179.png"
+      "url": "images/w_1920/h_1080/50248/103682/2026/1/25/555179.png"
     }
   ],
   "resistances": {

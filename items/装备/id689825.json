@@ -1,0 +1,122 @@
+{
+  "id": 689825,
+  "sourceUrl": "https://www.gamekee.com/zmd/689825.html",
+  "name": "点剑战术手套",
+  "description": "-本装备由宏山选剑局设计，使用集成工业系统制造，能够提高使用者的作战能力。\n-选剑局早期向市场推广的产品之一。\n“岁末，执剑以南，见山生九首，怒号不止，吉。”",
+  "rarity": "金色",
+  "type": "护手",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+42"
+        },
+        {
+          "name": "力量",
+          "value": "+65"
+        },
+        {
+          "name": "意志",
+          "value": "+43"
+        },
+        {
+          "name": "物理伤害加成",
+          "value": "+19.2%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+71"
+        },
+        {
+          "name": "意志",
+          "value": "+47"
+        },
+        {
+          "name": "物理伤害加成",
+          "value": "+21.1%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+78"
+        },
+        {
+          "name": "意志",
+          "value": "+51"
+        },
+        {
+          "name": "物理伤害加成",
+          "value": "+23%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "力量",
+          "value": "+84"
+        },
+        {
+          "name": "意志",
+          "value": "+55"
+        },
+        {
+          "name": "物理伤害加成",
+          "value": "+24.9%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "images/w_128/h_128/50248/103682/2026/0/14/877639.png",
+  "key": {
+    "id": "gamekee_689825"
+  }
+}

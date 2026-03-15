@@ -11,9 +11,9 @@
     "大量伤害",
     "寒冷附着"
   ],
-  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/391271/2026/0/19/439595.png",
-  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/19/216571.png",
-  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/19/576045.png",
+  "avatar": "images/w_120/h_120/50248/391271/2026/0/19/439595.png",
+  "portrait": "images/w_152/h_212/50248/391271/2026/0/19/216571.png",
+  "splash": "images/w_900/h_352/50248/391271/2026/0/19/576045.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "噬冬",
       "description": "当有敌人进入3层及以上***blue:#寒冷附着#***状态时可以发动。\n在目标敌人身上凝结冰锥，随后将其斩碎，**#消耗#**敌人身上的所有***blue:#寒冷附着#***，对其造成基于其***blue:#寒冷附着#***层数的*blue:寒冷伤害*，并且根据**#消耗#**的层数获得终结技能量。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/19/338325.png",
+      "icon": "images/w_104/h_104/50248/391271/2026/0/19/338325.png",
       "video": "",
       "levels": [
         {
@@ -70,7 +70,7 @@
       "type": "Skill",
       "name": "塞什卡的秘传",
       "description": "对主控干员的武器进行**低温灌注**，并**#返还#**一定技力。 \n一段时间内，当前主控干员接下来的1次**#重击#**会生成别礼的幻影，对目标进行追击，造成*blue:寒冷伤害*，施加***blue:#寒冷附着#***。\n主控干员为别礼时，施放该战技不会中断普通攻击。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/19/922828.png",
+      "icon": "images/w_104/h_104/50248/391271/2026/0/19/922828.png",
       "video": "",
       "levels": [
         {
@@ -99,7 +99,7 @@
       "type": "Ultimate",
       "name": "临终别礼",
       "description": "披着霜铠，凝结冰镰，对前方进行三次斩击，该状态下免疫所有伤害。\n每次斩击造成大量*blue:寒冷伤害*。 \n别礼只能从自身的战技、连携技中获得终结技能量。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/19/6814.png",
+      "icon": "images/w_104/h_104/50248/391271/2026/0/19/6814.png",
       "video": "",
       "levels": [
         {
@@ -140,7 +140,7 @@
   "talents": [
     {
       "name": "低温症",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/19/419279.png",
+      "icon": "images/w_64/h_64/50248/391271/2026/0/19/419279.png",
       "description": "",
       "upgrades": [
         {
@@ -180,7 +180,7 @@
     },
     {
       "name": "低温脆性",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/19/562149.png",
+      "icon": "images/w_64/h_64/50248/391271/2026/0/19/562149.png",
       "description": "",
       "upgrades": [
         {
@@ -220,7 +220,7 @@
     },
     {
       "name": "锤炼",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/683426.png",
+      "icon": "images/w_64/h_64/50248/103682/2026/0/26/683426.png",
       "upgrades": [
         {
           "level": 1,
@@ -289,7 +289,7 @@
     {
       "name": "墓地园艺·γ",
       "description": "进驻培养舱时，晶植质料的培养速度提升30%",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/33811.png",
+      "icon": "images/w_25/h_25/50248/103682/2026/0/26/33811.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -304,7 +304,7 @@
     {
       "name": "王庭盛名·β",
       "description": "进驻会客室时，干员收集到线索7——塞什卡的概率提升（进驻即生效，同类不可叠加)",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/525556.png",
+      "icon": "images/w_25/h_25/50248/103682/2026/0/26/525556.png",
       "materials": [
         {
           "name": "协议棱柱组",

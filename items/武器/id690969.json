@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-巫术时刻研发的施术单元之一。除了基本源石线路外，一切材质不明。这真的是可以在塔卫二造出来的东西吗？",
   "rarity": 6,
   "type": "施术单元",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_144/50248/586364/2026/0/20/824074.png",
+  "image": "images/w_141/h_144/50248/586364/2026/0/20/824074.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1872/h_822/50248/586364/2026/0/20/498809.png"
+      "url": "images/w_1872/h_822/50248/586364/2026/0/20/498809.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1873/h_804/50248/586364/2026/0/20/981500.png"
+      "url": "images/w_1873/h_804/50248/586364/2026/0/20/981500.png"
     }
   ],
   "stats": {
@@ -38,57 +38,57 @@
         {
           "name": "Unknown",
           "count": "252",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/63415.png"
+          "icon": "images/w_185/h_190/50248/103682/2026/1/25/63415.png"
         },
         {
           "name": "Unknown",
           "count": "4",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/907867.png"
+          "icon": "images/w_189/h_191/50248/103682/2026/1/25/907867.png"
         },
         {
           "name": "Unknown",
           "count": "1",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/665246.png"
+          "icon": "images/w_186/h_188/50248/103682/2026/1/25/665246.png"
         },
         {
           "name": "Unknown",
           "count": "23",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/612352.png"
+          "icon": "images/w_188/h_189/50248/103682/2026/1/25/612352.png"
         },
         {
           "name": "Unknown",
           "count": "50",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/118726.png"
+          "icon": "images/w_185/h_188/50248/103682/2026/1/25/118726.png"
         },
         {
           "name": "Unknown",
           "count": "3",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_183/h_189/50248/103682/2026/1/25/155207.png"
+          "icon": "images/w_183/h_189/50248/103682/2026/1/25/155207.png"
         },
         {
           "name": "Unknown",
           "count": "5",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_189/50248/103682/2026/1/25/604669.png"
+          "icon": "images/w_187/h_189/50248/103682/2026/1/25/604669.png"
         },
         {
           "name": "Unknown",
           "count": "5",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_184/h_191/50248/103682/2026/1/25/897190.png"
+          "icon": "images/w_184/h_191/50248/103682/2026/1/25/897190.png"
         },
         {
           "name": "Unknown",
           "count": "16",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_187/50248/103682/2026/1/25/852426.png"
+          "icon": "images/w_185/h_187/50248/103682/2026/1/25/852426.png"
         },
         {
           "name": "Unknown",
           "count": "8",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/696164.png"
+          "icon": "images/w_185/h_188/50248/103682/2026/1/25/696164.png"
         },
         {
           "name": "Unknown",
           "count": "467090",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/331488.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/331488.png"
         }
       ]
     },
@@ -98,17 +98,17 @@
         {
           "name": "Unknown",
           "count": "8",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/21831.png"
+          "icon": "images/w_189/h_191/50248/103682/2026/1/25/21831.png"
         },
         {
           "name": "Unknown",
           "count": "5",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/321109.png"
+          "icon": "images/w_186/h_188/50248/103682/2026/1/25/321109.png"
         },
         {
           "name": "Unknown",
           "count": "640",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/596996.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/596996.png"
         }
       ]
     },
@@ -118,17 +118,17 @@
         {
           "name": "Unknown",
           "count": "5",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/317506.png"
+          "icon": "images/w_188/h_189/50248/103682/2026/1/25/317506.png"
         },
         {
           "name": "Unknown",
           "count": "3",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_183/h_189/50248/103682/2026/1/25/823102.png"
+          "icon": "images/w_183/h_189/50248/103682/2026/1/25/823102.png"
         },
         {
           "name": "Unknown",
           "count": "2200",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/233697.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/233697.png"
         }
       ]
     },
@@ -138,22 +138,22 @@
         {
           "name": "Unknown",
           "count": "9",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/690798.png"
+          "icon": "images/w_185/h_190/50248/103682/2026/1/25/690798.png"
         },
         {
           "name": "Unknown",
           "count": "6",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/649693.png"
+          "icon": "images/w_189/h_191/50248/103682/2026/1/25/649693.png"
         },
         {
           "name": "Unknown",
           "count": "4",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/913783.png"
+          "icon": "images/w_186/h_188/50248/103682/2026/1/25/913783.png"
         },
         {
           "name": "Unknown",
           "count": "9760",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/879181.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/879181.png"
         }
       ]
     },
@@ -163,17 +163,17 @@
         {
           "name": "Unknown",
           "count": "18",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_188/h_189/50248/103682/2026/1/25/186754.png"
+          "icon": "images/w_188/h_189/50248/103682/2026/1/25/186754.png"
         },
         {
           "name": "Unknown",
           "count": "5",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_187/h_189/50248/103682/2026/1/25/151411.png"
+          "icon": "images/w_187/h_189/50248/103682/2026/1/25/151411.png"
         },
         {
           "name": "Unknown",
           "count": "8500",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/228291.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/228291.png"
         }
       ]
     },
@@ -183,17 +183,17 @@
         {
           "name": "Unknown",
           "count": "18",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/160916.png"
+          "icon": "images/w_185/h_190/50248/103682/2026/1/25/160916.png"
         },
         {
           "name": "Unknown",
           "count": "5",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/785859.png"
+          "icon": "images/w_189/h_191/50248/103682/2026/1/25/785859.png"
         },
         {
           "name": "Unknown",
           "count": "18610",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/816229.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/816229.png"
         }
       ]
     },
@@ -203,17 +203,17 @@
         {
           "name": "Unknown",
           "count": "20",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/129071.png"
+          "icon": "images/w_185/h_188/50248/103682/2026/1/25/129071.png"
         },
         {
           "name": "Unknown",
           "count": "5",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_184/h_191/50248/103682/2026/1/25/426702.png"
+          "icon": "images/w_184/h_191/50248/103682/2026/1/25/426702.png"
         },
         {
           "name": "Unknown",
           "count": "2.5万",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/727015.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/727015.png"
         }
       ]
     },
@@ -223,22 +223,22 @@
         {
           "name": "Unknown",
           "count": "91",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/278986.png"
+          "icon": "images/w_185/h_190/50248/103682/2026/1/25/278986.png"
         },
         {
           "name": "Unknown",
           "count": "3",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_189/h_191/50248/103682/2026/1/25/621128.png"
+          "icon": "images/w_189/h_191/50248/103682/2026/1/25/621128.png"
         },
         {
           "name": "Unknown",
           "count": "1",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/723969.png"
+          "icon": "images/w_186/h_188/50248/103682/2026/1/25/723969.png"
         },
         {
           "name": "Unknown",
           "count": "94840",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/236198.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/236198.png"
         }
       ]
     },
@@ -248,22 +248,22 @@
         {
           "name": "Unknown",
           "count": "30",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/45701.png"
+          "icon": "images/w_185/h_188/50248/103682/2026/1/25/45701.png"
         },
         {
           "name": "Unknown",
           "count": "16",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_187/50248/103682/2026/1/25/388939.png"
+          "icon": "images/w_185/h_187/50248/103682/2026/1/25/388939.png"
         },
         {
           "name": "Unknown",
           "count": "8",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_188/50248/103682/2026/1/25/493111.png"
+          "icon": "images/w_185/h_188/50248/103682/2026/1/25/493111.png"
         },
         {
           "name": "Unknown",
           "count": "9万",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/827200.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/827200.png"
         }
       ]
     },
@@ -273,17 +273,17 @@
         {
           "name": "Unknown",
           "count": "132",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_185/h_190/50248/103682/2026/1/25/506958.png"
+          "icon": "images/w_185/h_190/50248/103682/2026/1/25/506958.png"
         },
         {
           "name": "Unknown",
           "count": "2",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_186/h_188/50248/103682/2026/1/25/201150.png"
+          "icon": "images/w_186/h_188/50248/103682/2026/1/25/201150.png"
         },
         {
           "name": "Unknown",
           "count": "217540",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/1/25/655508.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/1/25/655508.png"
         }
       ]
     }

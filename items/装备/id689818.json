@@ -105,17 +105,17 @@
         {
           "name": "息壤装备原件",
           "count": "50",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/0/18/31751.png"
         },
         {
           "name": "武陵调度券",
           "count": "8000",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/0/2026/0/18/122386.png"
+          "icon": "images/w_128/h_128/50248/0/2026/0/18/122386.png"
         }
       ]
     }
   ],
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/14/480294.png",
+  "image": "images/w_128/h_128/50248/103682/2026/0/14/480294.png",
   "key": {
     "id": "gamekee_689818"
   }

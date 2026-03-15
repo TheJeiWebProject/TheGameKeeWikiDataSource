@@ -11,9 +11,9 @@
     "技力恢复",
     "冻结"
   ],
-  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/391271/2026/0/26/384788.png",
-  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/59098.png",
-  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/726001.png",
+  "avatar": "images/w_120/h_120/50248/391271/2026/0/26/384788.png",
+  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/59098.png",
+  "splash": "images/w_900/h_352/50248/391271/2026/0/26/726001.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "凿孔底钓术",
       "description": "当附近目标的**#法术异常#**或**#源石结晶#**被**#消耗#**时可以发动。 \n在敌人脚下开洞垂钓，造成*black:物理伤害*，并恢复一定技力，有一定概率能钓出**珍鳞**，大幅增加伤害并额外恢复技力。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/547503.png",
+      "icon": "images/w_104/h_104/50248/4408/2026/0/26/547503.png",
       "video": "",
       "levels": [
         {
@@ -70,7 +70,7 @@
       "type": "Skill",
       "name": "非常规路亚",
       "description": "勾起冰块砸击面前的敌人，对目标造成*black:物理伤害*。命中处于***blue:#寒冷附着#***状态的目标时，消耗掉目标身上所有***blue:#寒冷附着#***，对其强制施加***blue:#冻结#***，并基于**#消耗#**层数恢复技力，命中多名目标时仅恢复1次。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/716850.png",
+      "icon": "images/w_104/h_104/50248/4408/2026/0/26/716850.png",
       "video": "",
       "levels": [
         {
@@ -107,7 +107,7 @@
       "type": "Ultimate",
       "name": "大鳞，上钩！",
       "description": "钓起超乎想象的大鳞砸击面前的所有敌人，造成大范围的*blue:寒冷伤害*，施加***blue:#寒冷附着#***并恢复一定技力，每击败一个目标将额外恢复一定技力。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/424543.png",
+      "icon": "images/w_104/h_104/50248/4408/2026/0/26/424543.png",
       "video": "",
       "levels": [
         {
@@ -144,7 +144,7 @@
   "talents": [
     {
       "name": "闪冻锁鲜",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/552103.png",
+      "icon": "images/w_64/h_64/50248/4408/2026/0/26/552103.png",
       "description": "",
       "upgrades": [
         {
@@ -184,7 +184,7 @@
     },
     {
       "name": "钓鳞老手",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/120181.png",
+      "icon": "images/w_64/h_64/50248/4408/2026/0/26/120181.png",
       "description": "",
       "upgrades": [
         {
@@ -224,7 +224,7 @@
     },
     {
       "name": "锤炼",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/667662.png",
+      "icon": "images/w_64/h_64/50248/4408/2026/0/26/667662.png",
       "upgrades": [
         {
           "level": 1,
@@ -293,7 +293,7 @@
     {
       "name": "悠闲垂钓·β",
       "description": "进驻总控中枢时，所有干员心情恢复提升12%",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/400544.png",
+      "icon": "images/w_25/h_25/50248/103682/2026/0/26/400544.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -308,7 +308,7 @@
     {
       "name": "钓友情报网·β",
       "description": "进驻会客室时，干员收集到线索1——联盟工团的概率提升（进驻即生效，同类不可叠加）",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/4408/2026/0/26/87721.webp",
+      "icon": "images/w_25/h_25/50248/4408/2026/0/26/87721.webp",
       "materials": [
         {
           "name": "协议棱柱组",

@@ -11,9 +11,9 @@
     "大量伤害",
     "法术脆弱"
   ],
-  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/391271/2026/0/26/845091.png",
-  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/187833.png",
-  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/815039.png",
+  "avatar": "images/w_120/h_120/50248/391271/2026/0/26/845091.png",
+  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/187833.png",
+  "splash": "images/w_900/h_352/50248/391271/2026/0/26/815039.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "雷枪·掣击",
       "description": "主控干员对处于***brown:#电磁附着#***或***brown:#导电#***状态的目标进行**#重击#**后可以发动。\n跃起并向目标掷出3支**雷枪**，并对前方范围内的敌人造成一次*brown:电磁伤害*。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/634815.png",
+      "icon": "images/w_104/h_104/50248/103682/2026/0/26/634815.png",
       "video": "",
       "levels": [
         {
@@ -58,7 +58,7 @@
       "type": "Skill",
       "name": "雷枪·截回",
       "description": "跃起后用枪刮起旋风，对周围的敌人造成少量*brown:电磁伤害*。同时召回全部**雷枪**、**强雷枪**。\n**雷枪**被召回时若穿过敌人则对其造成*brown:电磁伤害*。**强雷枪**造成更高的*brown:电磁伤害*，还会施加***brown:#电磁附着#***。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/884954.png",
+      "icon": "images/w_104/h_104/50248/391271/2026/0/26/884954.png",
       "video": "",
       "levels": [
         {
@@ -95,7 +95,7 @@
       "type": "Ultimate",
       "name": "雷枪·决颤",
       "description": "向目标区域投下一支**强雷枪**，对附近敌人造成大量*brown:电磁伤害*。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/555644.png",
+      "icon": "images/w_104/h_104/50248/103682/2026/0/26/555644.png",
       "video": "",
       "levels": [
         {
@@ -124,7 +124,7 @@
   "talents": [
     {
       "name": "高效派送",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/317860.png",
+      "icon": "images/w_64/h_64/50248/391271/2026/0/26/317860.png",
       "description": "",
       "upgrades": [
         {
@@ -164,7 +164,7 @@
     },
     {
       "name": "委婉手段",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/973649.png",
+      "icon": "images/w_64/h_64/50248/391271/2026/0/26/973649.png",
       "description": "",
       "upgrades": [
         {
@@ -204,7 +204,7 @@
     },
     {
       "name": "守誓",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/506217.png",
+      "icon": "images/w_64/h_64/50248/103682/2026/0/26/506217.png",
       "upgrades": [
         {
           "level": 1,
@@ -273,7 +273,7 @@
     {
       "name": "居家顾问·β",
       "description": "进驻总控中枢时，所有干员心情恢复提升12%",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/40473.png",
+      "icon": "images/w_25/h_25/50248/103682/2026/0/26/40473.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -288,7 +288,7 @@
     {
       "name": "信使的秘密·β",
       "description": "进驻会客室时，干员收集到线索2——环塔商会的概率提升（进驻即生效，同类不可叠加）",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/77570.png",
+      "icon": "images/w_25/h_25/50248/103682/2026/0/26/77570.png",
       "materials": [
         {
           "name": "协议棱柱组",

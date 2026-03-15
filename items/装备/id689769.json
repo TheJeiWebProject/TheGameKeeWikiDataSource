@@ -1,0 +1,106 @@
+{
+  "id": 689769,
+  "sourceUrl": "https://www.gamekee.com/zmd/689769.html",
+  "name": "动火用测温镜",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-耐火性极强的装备。\n极高温的环境并不可怕，但若是一处环境的温度会毫无理由地变化，那就需要警惕了。",
+  "rarity": "金色",
+  "type": "配件",
+  "manufacturer": "",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.70）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+21"
+        },
+        {
+          "name": "智识",
+          "value": "+41"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+41.4%"
+        }
+      ]
+    },
+    {
+      "title": "精锻1阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "智识",
+          "value": "+45"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+45.5%"
+        }
+      ]
+    },
+    {
+      "title": "精锻2阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "智识",
+          "value": "+49"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+49.7%"
+        }
+      ]
+    },
+    {
+      "title": "精锻3阶",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "-"
+        },
+        {
+          "name": "智识",
+          "value": "+53"
+        },
+        {
+          "name": "战技伤害加成",
+          "value": "+53.8%"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "息壤装备原件",
+          "count": "50",
+          "icon": "images/w_128/h_128/50248/103682/2026/0/18/31751.png"
+        },
+        {
+          "name": "武陵调度券",
+          "count": "8000",
+          "icon": "images/w_128/h_128/50248/0/2026/0/18/122386.png"
+        }
+      ]
+    }
+  ],
+  "image": "images/w_128/h_128/50248/103682/2026/0/14/32868.png",
+  "key": {
+    "id": "gamekee_689769"
+  }
+}

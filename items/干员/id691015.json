@@ -11,9 +11,9 @@
     "法术脆弱",
     "增幅"
   ],
-  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/391271/2026/0/26/296780.png",
-  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/506883.png",
-  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/345698.png",
+  "avatar": "images/w_120/h_120/50248/391271/2026/0/26/296780.png",
+  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/506883.png",
+  "splash": "images/w_900/h_352/50248/391271/2026/0/26/345698.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "磁暴试验场",
       "description": "当被**聚焦**的敌人进入***black:#物理异常#***或**#法术附着#**状态时可以发动。\n在该敌人身上引发1次能量爆炸，造成*brown:电磁伤害*并再次对其施加该***black:#物理异常#***或**#法术附着#**。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/338941.png",
+      "icon": "images/w_104/h_104/50248/103682/2026/0/26/338941.png",
       "video": "",
       "levels": [
         {
@@ -54,7 +54,7 @@
       "type": "Skill",
       "name": "指定研究对象",
       "description": "对敌人施加长时间**聚焦**，造成*brown:电磁伤害*，被**聚焦**的敌人受到***brown:#电磁脆弱#***和***orange:#灼热脆弱#***，同时最多**聚焦**1个敌人。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/538681.png",
+      "icon": "images/w_104/h_104/50248/391271/2026/0/26/538681.png",
       "video": "",
       "levels": [
         {
@@ -83,7 +83,7 @@
       "type": "Ultimate",
       "name": "超频时刻",
       "description": "对全队施加一段时间的***brown:#电磁增幅#***和***orange:#灼热增幅#***。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/245571.png",
+      "icon": "images/w_104/h_104/50248/103682/2026/0/26/245571.png",
       "video": "",
       "levels": [
         {
@@ -112,7 +112,7 @@
   "talents": [
     {
       "name": "即兴发挥",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/804465.png",
+      "icon": "images/w_64/h_64/50248/391271/2026/0/26/804465.png",
       "description": "",
       "upgrades": [
         {
@@ -152,7 +152,7 @@
     },
     {
       "name": "下意识",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/961390.png",
+      "icon": "images/w_64/h_64/50248/391271/2026/0/26/961390.png",
       "description": "",
       "upgrades": [
         {
@@ -192,7 +192,7 @@
     },
     {
       "name": "明晰",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/912580.png",
+      "icon": "images/w_64/h_64/50248/391271/2026/0/26/912580.png",
       "upgrades": [
         {
           "level": 1,
@@ -261,7 +261,7 @@
     {
       "name": "实验性施术单元·β",
       "description": "进驻制造舱时，武器经验素材的生产效率提升20%",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/391271/2026/0/26/24515.png",
+      "icon": "images/w_25/h_25/50248/391271/2026/0/26/24515.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -276,7 +276,7 @@
     {
       "name": "冷笑话学习·γ",
       "description": "进驻培养舱时，舱室内干员心情消耗降低18%",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/391271/2026/0/26/179713.png",
+      "icon": "images/w_25/h_25/50248/391271/2026/0/26/179713.png",
       "materials": [
         {
           "name": "协议棱柱组",

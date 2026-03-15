@@ -1,0 +1,56 @@
+{
+  "id": 689969,
+  "sourceUrl": "https://www.gamekee.com/zmd/689969.html",
+  "name": "矿场防护服",
+  "description": "-本装备由终末地工业自研，使用集成工业系统制造，能够提高使用者的作战能力。\n-多用于矿场作业的防护装备。\n《四号谷地安全防护标准》要求劳动保护装备至少需要软性保护及硬性保护两层防护结构。",
+  "rarity": "绿色",
+  "type": "护甲",
+  "manufacturer": "四号谷地",
+  "stats": {},
+  "statsList": [
+    {
+      "title": "装备属性（Lv.20）",
+      "level": "70级",
+      "attributes": [
+        {
+          "name": "防御力（主）",
+          "value": "+16"
+        },
+        {
+          "name": "智识",
+          "value": "+27"
+        },
+        {
+          "name": "意志",
+          "value": "+18"
+        },
+        {
+          "name": "生命值",
+          "value": "+125"
+        }
+      ]
+    }
+  ],
+  "setEffect": [],
+  "craftingMaterials": [
+    {
+      "title": "施工中……",
+      "items": [
+        {
+          "name": "紫晶装备原件",
+          "count": "5",
+          "icon": "images/w_128/h_128/50248/103682/2026/0/18/67779.png"
+        },
+        {
+          "name": "谷地调度券",
+          "count": "20",
+          "icon": "images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+        }
+      ]
+    }
+  ],
+  "image": "images/w_128/h_128/50248/103682/2026/0/15/836348.png",
+  "key": {
+    "id": "gamekee_689969"
+  }
+}

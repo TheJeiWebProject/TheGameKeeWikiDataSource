@@ -12,9 +12,9 @@
     "自然附着",
     "击飞"
   ],
-  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/391271/2026/0/26/419496.png",
-  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/918150.png",
-  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/259164.png",
+  "avatar": "images/w_120/h_120/50248/391271/2026/0/26/419496.png",
+  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/918150.png",
+  "splash": "images/w_900/h_352/50248/391271/2026/0/26/259164.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -34,7 +34,7 @@
       "type": "Normal",
       "name": "秘杖·矩阵位移",
       "description": "当有敌人被施加**#法术异常#**时可以发动。 短暂施法后使目标及附近敌人全部受到重力牵引，对其造成*green:自然伤害*并强制造成***black:击飞***。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/898904.png",
+      "icon": "images/w_104/h_104/50248/4408/2026/0/26/898904.png",
       "video": "",
       "levels": [
         {
@@ -55,7 +55,7 @@
       "type": "Skill",
       "name": "秘杖·引力模式",
       "description": "进入持续施法状态，在前方产生**重力奇点**。**重力奇点**会持续吸引附近的敌人并对其造成*green:自然伤害*。施法结束时**重力奇点**会爆炸，对范围内的敌人造成*green:自然伤害*并施加***green:#自然附着#***。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/694487.png",
+      "icon": "images/w_104/h_104/50248/4408/2026/0/26/694487.png",
       "video": "",
       "levels": [
         {
@@ -80,7 +80,7 @@
       "type": "Ultimate",
       "name": "秘杖·重力场",
       "description": "创造一个**重力紊乱**区域，对区域内的敌人立即造成一次*green:自然伤害*并施加***green:#自然附着#***。处于**重力紊乱区域**中的目标被施加**#缓速#**和**#法术脆弱#**。目标处于***black:破防#***状态时，**#法术脆弱#**效果会随***black:#破防#***层数额外提升。\n区域内的目标若处于***black:#击飞#***状态，将保持***black:#击飞#***状态直到区域效果结束。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/706350.png",
+      "icon": "images/w_104/h_104/50248/4408/2026/0/26/706350.png",
       "video": "",
       "levels": [
         {
@@ -121,7 +121,7 @@
   "talents": [
     {
       "name": "信使的歌声",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/475841.png",
+      "icon": "images/w_64/h_64/50248/4408/2026/0/26/475841.png",
       "description": "",
       "upgrades": [
         {
@@ -161,7 +161,7 @@
     },
     {
       "name": "迟来的回信",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/908596.png",
+      "icon": "images/w_64/h_64/50248/4408/2026/0/26/908596.png",
       "description": "",
       "upgrades": [
         {
@@ -201,7 +201,7 @@
     },
     {
       "name": "守誓",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/691738.png",
+      "icon": "images/w_64/h_64/50248/4408/2026/0/26/691738.png",
       "upgrades": [
         {
           "level": 1,
@@ -270,7 +270,7 @@
     {
       "name": "信使的加工艺术·γ",
       "description": "进驻制造舱时，舱室内干员心情消耗降低18%",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/296752.png",
+      "icon": "images/w_25/h_25/50248/103682/2026/0/26/296752.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -285,7 +285,7 @@
     {
       "name": "信使的武器知识·γ",
       "description": "进驻制造舱时，武器经验素材的生产效率提升30%",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/623694.png",
+      "icon": "images/w_25/h_25/50248/103682/2026/0/26/623694.png",
       "materials": [
         {
           "name": "协议棱柱组",
