@@ -2,7 +2,7 @@
   "packId": "gamekee",
   "gameId": "zmd",
   "displayName": "GameKee Wiki Data",
-  "version": "2026-03-28",
+  "version": "2026-03-29",
   "files": {
     "items": "items/",
     "itemsIndex": "itemsIndex.json",
