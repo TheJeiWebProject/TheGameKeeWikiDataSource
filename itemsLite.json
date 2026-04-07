@@ -5791,7 +5791,7 @@
       "id": "gamekee_690712"
     },
     "name": "简易阵痛药膏",
-    "icon": "images/w_187/h_186/50248/103682/2026/0/18/76980.png",
+    "icon": "https:images/w_187/h_186/50248/103682/2026/0/18/76980.png",
     "description": "",
     "rarity": {
       "stars": 3
@@ -6669,7 +6669,7 @@
       "id": "gamekee_692532"
     },
     "name": "苦叶椒",
-    "icon": "images/w_186/h_188/50248/462381/2026/1/3/929089.png",
+    "icon": "https:images/w_186/h_188/50248/462381/2026/1/3/929089.png",
     "description": "",
     "rarity": {
       "stars": 3
