@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-巫术时刻推出的古怪施术单元之一。反直觉地削弱了源石技艺的适应性，只为强调古老提卡兹巫术的黑暗逻辑。",
   "rarity": 5,
   "type": "施术单元",
-  "image": "images/w_141/h_145/50248/586364/2026/0/20/744832.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_145/50248/586364/2026/0/20/744832.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1742/h_865/50248/586364/2026/0/20/44293.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1742/h_865/50248/586364/2026/0/20/44293.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1858/h_903/50248/586364/2026/0/20/686249.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1858/h_903/50248/586364/2026/0/20/686249.png"
     }
   ],
   "stats": {
@@ -38,22 +38,22 @@
         {
           "name": "Unknown",
           "count": "汤汤",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/364195.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/364195.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/212944.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/212944.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/699495.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/699495.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/822485.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/822485.png"
         }
       ]
     }

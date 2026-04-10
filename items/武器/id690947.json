@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-梅什科工业的高端线产品之一。优秀的源石技艺传导性让它不像其他时髦产品那样华而不实。",
   "rarity": 6,
   "type": "施术单元",
-  "image": "images/w_139/h_142/50248/586364/2026/0/20/665537.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_142/50248/586364/2026/0/20/665537.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1881/h_835/50248/586364/2026/0/20/48180.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1881/h_835/50248/586364/2026/0/20/48180.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1877/h_846/50248/586364/2026/0/20/262688.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1877/h_846/50248/586364/2026/0/20/262688.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/60475.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/60475.png"
         },
         {
           "name": "Unknown",
           "count": "汤汤",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/364195.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/364195.png"
         }
       ]
     }

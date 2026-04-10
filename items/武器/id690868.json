@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-北进重工支援所\"开拓者\"系列的基础产品。四型热熔切割器采用专利高温材料，切割性能强劲，受到工程人员广泛好评。",
   "rarity": 6,
   "type": "单手剑",
-  "image": "images/w_300/h_302/50248/103682/2026/0/19/87311.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_302/50248/103682/2026/0/19/87311.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1882/h_904/50248/103682/2026/1/25/82031.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1882/h_904/50248/103682/2026/1/25/82031.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1885/h_877/50248/103682/2026/1/25/453326.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1885/h_877/50248/103682/2026/1/25/453326.png"
     }
   ],
   "stats": {
@@ -38,22 +38,22 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/986424.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/986424.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/526703.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/526703.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/372992.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/372992.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/719495.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/719495.png"
         }
       ]
     }

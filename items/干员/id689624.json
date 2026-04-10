@@ -12,9 +12,9 @@
     "灼热附着",
     "连击"
   ],
-  "avatar": "images/w_120/h_120/50248/103682/2026/0/25/620248.png",
-  "portrait": "images/w_152/h_212/50248/103682/2026/0/25/814981.png",
-  "splash": "images/w_900/h_352/50248/103682/2026/0/25/84408.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/0/25/620248.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/25/814981.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/103682/2026/0/25/84408.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -34,7 +34,7 @@
       "type": "Normal",
       "name": "快闪冲击",
       "description": "当有敌人失衡，或触发**#失衡节点#**时可以发动。 进行来回2段突刺，每段造成*black:物理伤害*，并恢复一定技力。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/25/59115.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/25/59115.png",
       "video": "",
       "levels": [
         {
@@ -59,7 +59,7 @@
       "type": "Skill",
       "name": "热情迸发",
       "description": "向前方挥斩，造成*orange:灼热伤害*并施加***orange:#灼热附着#***。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/25/484590.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/25/484590.png",
       "video": "",
       "levels": [
         {
@@ -80,7 +80,7 @@
       "type": "Ultimate",
       "name": "小队，集结！",
       "description": "进入持续施法状态，发射3枚集结信号弹，每次发射恢复一定技力。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/377774.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/377774.png",
       "video": "",
       "levels": [
         {
@@ -101,7 +101,7 @@
   "talents": [
     {
       "name": "胜利喝彩",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/26/839279.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/839279.png",
       "description": "",
       "upgrades": [
         {
@@ -141,7 +141,7 @@
     },
     {
       "name": "心流时间",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/26/616490.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/616490.png",
       "description": "",
       "upgrades": [
         {
@@ -172,7 +172,7 @@
     },
     {
       "name": "游刃",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/21/265753.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/21/265753.png",
       "upgrades": [
         {
           "level": 1,
@@ -241,7 +241,7 @@
     {
       "name": "咖啡或茶·β",
       "description": "进驻制造舱时，舱室内干员心情消耗降低14%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/576033.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/576033.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -256,7 +256,7 @@
     {
       "name": "破冰游戏·γ",
       "description": "进驻会客室时，舱室内干员心情消耗降低14%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/926376.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/926376.png",
       "materials": [
         {
           "name": "协议棱柱组",

@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-梅什科工业的中端线产品之一。复古的巨箭型设计以及不俗的实战实用性，使其至今仍有市无价。",
   "rarity": 6,
   "type": "长柄武器",
-  "image": "images/w_141/h_141/50248/462381/2026/0/20/199333.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_141/50248/462381/2026/0/20/199333.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1846/h_861/50248/462381/2026/0/20/585450.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1846/h_861/50248/462381/2026/0/20/585450.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1843/h_876/50248/462381/2026/0/20/750205.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1843/h_876/50248/462381/2026/0/20/750205.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/612088.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/612088.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/173692.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/173692.png"
         }
       ]
     }

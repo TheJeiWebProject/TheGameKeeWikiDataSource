@@ -12,9 +12,9 @@
     "护盾",
     "虚弱"
   ],
-  "avatar": "images/w_119/h_120/50248/391271/2026/0/26/921147.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/154989.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/26/218274.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_119/h_120/50248/391271/2026/0/26/921147.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/154989.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/218274.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -34,7 +34,7 @@
       "type": "Normal",
       "name": "即时压制",
       "description": "当敌人开始蓄力，或主控干员受到攻击后生命值低于40%可以发动。\n挥拳向前用力扣下，对敌人造成*black:物理伤害*，并使自身和另一名友方干员（主控干员优先）获得**#护盾#**。\n防御力可以额外提高护盾值。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/170026.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/170026.png",
       "video": "",
       "levels": [
         {
@@ -71,7 +71,7 @@
       "type": "Skill",
       "name": "刚性阻击",
       "description": "架起盾牌格挡攻击，使自身及周围干员获得**#庇护#**，并立即**#返还#**一定技力 。\n若在立盾期间受到攻击，则发动一次反击，尝试对敌人造成*black:物理伤害*并施加1层***black:#破防#***。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/26/587849.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/587849.png",
       "video": "",
       "levels": [
         {
@@ -100,7 +100,7 @@
       "type": "Ultimate",
       "name": "教科书式猛攻",
       "description": "挥动大剑快速向前斩击2次，造成*black:物理伤害*并施加**#虚弱#**。最后向下猛砸，对目标范围内的所有敌人造成大量*black:物理伤害*并造成***black:#倒地#***。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/879317.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/879317.png",
       "video": "",
       "levels": [
         {
@@ -149,7 +149,7 @@
   "talents": [
     {
       "name": "本质瓦解",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/62953.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/62953.png",
       "description": "",
       "upgrades": [
         {
@@ -189,7 +189,7 @@
     },
     {
       "name": "全局思维",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/578388.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/578388.png",
       "description": "",
       "upgrades": [
         {
@@ -229,7 +229,7 @@
     },
     {
       "name": "锤炼",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/982552.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/982552.png",
       "upgrades": [
         {
           "level": 1,
@@ -298,7 +298,7 @@
     {
       "name": "缄默关怀·β",
       "description": "进驻总控中枢时，所有干员心情恢复提升12%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/529130.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/529130.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -313,7 +313,7 @@
     {
       "name": "务实心态·γ",
       "description": "进驻培养舱时，舱室内干员心情消耗降低18%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/179048.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/179048.png",
       "materials": [
         {
           "name": "协议棱柱组",

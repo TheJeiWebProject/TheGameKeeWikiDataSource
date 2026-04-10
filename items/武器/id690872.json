@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-熔炉要塞铸造的武器之一。剑柄采用了拉丝设计，增加阻尼，握持感优良。剑身取自荒原上的稀有矿石。",
   "rarity": 6,
   "type": "单手剑",
-  "image": "images/w_300/h_304/50248/103682/2026/0/19/955250.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_304/50248/103682/2026/0/19/955250.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_2560/h_1182/50248/103682/2026/0/19/778922.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1182/50248/103682/2026/0/19/778922.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_2560/h_1178/50248/103682/2026/0/19/777530.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1178/50248/103682/2026/0/19/777530.png"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/629669.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/629669.png"
         }
       ]
     }

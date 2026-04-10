@@ -12,9 +12,9 @@
     "击飞",
     "猛击"
   ],
-  "avatar": "images/w_120/h_117/50248/391271/2026/0/26/95191.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/205496.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/26/307597.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_117/50248/391271/2026/0/26/95191.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/205496.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/307597.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -34,7 +34,7 @@
       "type": "Normal",
       "name": "加料！",
       "description": "当有敌人达到4层***black:#破防#***时可以发动。 \n抡起铁锅对敌人造成大量*black:物理伤害*并***black:#猛击#***，本次***black:#猛击#***的伤害获得额外提升。",
-      "icon": "images/w_104/h_104/50248/4408/2026/0/26/663467.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/663467.png",
       "video": "",
       "levels": [
         {
@@ -59,7 +59,7 @@
       "type": "Skill",
       "name": "颠勺！",
       "description": "掏出铁锅进行短暂蓄力后，用力向上颠勺，对敌人造成*black:物理伤害*与***black:#击飞#***。",
-      "icon": "images/w_104/h_104/50248/4408/2026/0/26/728158.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/728158.png",
       "video": "",
       "levels": [
         {
@@ -84,7 +84,7 @@
       "type": "Ultimate",
       "name": "切丝入锅！",
       "description": "猛拍砧板，立即对前方范围内的敌人强制造成***black:#击飞#***。随后发动6段连续斩击，造成*black:物理伤害*，最后将所有敌人一并击坠，强制造成***black:#倒地#***，造成大量*black:物理伤害*。",
-      "icon": "images/w_104/h_104/50248/4408/2026/0/26/168027.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/168027.png",
       "video": "",
       "levels": [
         {
@@ -109,7 +109,7 @@
   "talents": [
     {
       "name": "勾芡",
-      "icon": "images/w_64/h_64/50248/4408/2026/0/26/855183.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/855183.png",
       "description": "",
       "upgrades": [
         {
@@ -149,7 +149,7 @@
     },
     {
       "name": "尝尝咸淡",
-      "icon": "images/w_64/h_64/50248/4408/2026/0/26/662863.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/662863.png",
       "description": "",
       "upgrades": [
         {
@@ -189,7 +189,7 @@
     },
     {
       "name": "锤炼",
-      "icon": "images/w_64/h_64/50248/4408/2026/0/26/221014.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/221014.png",
       "upgrades": [
         {
           "level": 1,
@@ -258,7 +258,7 @@
     {
       "name": "擅烹山珍· β",
       "description": "进驻培养舱时，菌类质料的培养速度提升20%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/822604.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/822604.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -273,7 +273,7 @@
     {
       "name": "人情练达·γ",
       "description": "进驻总控中枢时，所有干员心情恢复提升16%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/330621.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/330621.png",
       "materials": [
         {
           "name": "协议棱柱组",

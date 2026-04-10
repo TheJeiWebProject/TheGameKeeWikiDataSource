@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-梅什科工业最新推出的独立产品。据传这款设计源于寂语修会的发掘产物，内含绝密技术，分金裂石，无坚不摧。",
   "rarity": 6,
   "type": "双手剑",
-  "image": "images/w_140/h_143/50248/586364/2026/0/21/840738.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_143/50248/586364/2026/0/21/840738.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1860/h_857/50248/586364/2026/0/21/972285.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1860/h_857/50248/586364/2026/0/21/972285.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1851/h_868/50248/586364/2026/0/21/838716.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1851/h_868/50248/586364/2026/0/21/838716.png"
     }
   ],
   "stats": {
@@ -38,17 +38,17 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/767886.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/767886.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/380398.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/380398.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/377521.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/377521.png"
         }
       ]
     }

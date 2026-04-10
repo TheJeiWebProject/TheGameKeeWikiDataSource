@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-宏山选剑局研发的实验型长枪。枪杆部位在铸造时混入了极特殊的金合金，在保证强度的同时极大提高了韧性。",
   "rarity": 6,
   "type": "长柄武器",
-  "image": "images/w_141/h_144/50248/462381/2026/0/20/382650.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_144/50248/462381/2026/0/20/382650.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1844/h_888/50248/462381/2026/0/20/304899.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1844/h_888/50248/462381/2026/0/20/304899.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1862/h_867/50248/462381/2026/0/20/608570.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1862/h_867/50248/462381/2026/0/20/608570.png"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/593596.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/593596.png"
         }
       ]
     }

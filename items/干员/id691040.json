@@ -12,9 +12,9 @@
     "寒冷附着",
     "增幅"
   ],
-  "avatar": "images/w_120/h_120/50248/103682/2026/0/26/39777.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/97421.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/26/133603.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/0/26/39777.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/97421.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/133603.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -34,7 +34,7 @@
       "type": "Normal",
       "name": "压力测试",
       "description": "当**支援晶体**的生命回复次数耗尽后可以发动。 短暂蓄力后将**支援晶体**丢向敌人，造成*blue:寒冷伤害*并施加***blue:#寒冷附着#***。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/691955.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/691955.png",
       "video": "",
       "levels": [
         {
@@ -55,7 +55,7 @@
       "type": "Skill",
       "name": "分布式拒绝服务",
       "description": "召唤**支援晶体**在一段时间内环绕主控干员。\n当主控干员对敌人造成**#重击#**后**支援晶体**为其回复生命值，该效果最多可触发2次。意志可以额外提高治疗量。\n若触发回复时主控干员生命值已满，则额外对其施加一段时间的**#法术增幅#**，该效果无法叠加。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/26/306903.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/306903.png",
       "video": "",
       "levels": [
         {
@@ -88,7 +88,7 @@
       "type": "Ultimate",
       "name": "栈溢出",
       "description": "对全队施加一段时间的***blue:#寒冷增幅#***和***green:#自然增幅#***，智识可以额外提高该增幅效果。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/240571.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/240571.png",
       "video": "",
       "levels": [
         {
@@ -125,7 +125,7 @@
   "talents": [
     {
       "name": "启动进程",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/138849.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/138849.png",
       "description": "",
       "upgrades": [
         {
@@ -165,7 +165,7 @@
     },
     {
       "name": "协议冻结",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/627456.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/627456.png",
       "description": "",
       "upgrades": [
         {
@@ -196,7 +196,7 @@
     },
     {
       "name": "守誓",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/26/737019.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/737019.png",
       "upgrades": [
         {
           "level": 1,
@@ -265,7 +265,7 @@
     {
       "name": "标准化编译·β",
       "description": "进驻制造舱时，干员经验素材的生产效率提升20%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/243880.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/243880.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -280,7 +280,7 @@
     {
       "name": "会话与细语·β",
       "description": "进驻会客室时，干员收集到线索5——寂语修会的概率提升（进驻即生效，同类不可叠加）",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/740314.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/740314.png",
       "materials": [
         {
           "name": "协议棱柱组",

@@ -11,9 +11,9 @@
     "电磁附着",
     "导电"
   ],
-  "avatar": "images/w_120/h_120/50248/103682/2026/0/26/285175.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/992504.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/26/778883.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/0/26/285175.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/992504.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/778883.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "即时协议·闪链",
       "description": "当主控干员对敌人造成**#重击#**后可以发动。\n释放积蓄的电磁能量轰击目标，造成*brown:电磁伤害*并强制施加短暂的***brown:#导电#***。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/262435.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/262435.png",
       "video": "",
       "levels": [
         {
@@ -58,7 +58,7 @@
       "type": "Skill",
       "name": "协议ω·雷击",
       "description": "释放一道电磁能量从空中落下，对小范围内敌人造成*brown:电磁伤害*并施加***brown:#电磁附着#***。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/26/646697.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/646697.png",
       "video": "",
       "levels": [
         {
@@ -79,7 +79,7 @@
       "type": "Ultimate",
       "name": "协议ε·70.41κ",
       "description": "立即传送一块巨大的轨道漂浮物对目标区域进行毁灭性打击，对区域内的敌人造成大量*brown:电磁伤害*。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/541898.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/541898.png",
       "video": "",
       "levels": [
         {
@@ -104,7 +104,7 @@
   "talents": [
     {
       "name": "歼灭协议",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/884946.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/884946.png",
       "description": "",
       "upgrades": [
         {
@@ -144,7 +144,7 @@
     },
     {
       "name": "循环协议",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/356891.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/356891.png",
       "description": "",
       "upgrades": [
         {
@@ -175,7 +175,7 @@
     },
     {
       "name": "明晰",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/793774.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/793774.png",
       "upgrades": [
         {
           "level": 1,
@@ -244,7 +244,7 @@
     {
       "name": "监督·β",
       "description": "进驻总控中枢时，所有干员心情恢复提升12%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/959760.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/959760.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -259,7 +259,7 @@
     {
       "name": "协议调度·γ",
       "description": "进驻制造舱时，武器经验素材的生产效率提升30%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/349559.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/349559.png",
       "materials": [
         {
           "name": "协议棱柱组",

@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-宏山选剑局研发的铳械。为贴合宏科院武装力量的基本方针，在设计时特别减轻了重量，优化了持握手感。",
   "rarity": 6,
   "type": "手铳",
-  "image": "images/w_140/h_142/50248/103682/2026/2/12/95876.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_142/50248/103682/2026/2/12/95876.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1920/h_877/50248/103682/2026/2/12/188738.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_877/50248/103682/2026/2/12/188738.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1920/h_884/50248/103682/2026/2/12/254355.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_884/50248/103682/2026/2/12/254355.png"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "汤汤",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/872667.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/872667.png"
         }
       ]
     }

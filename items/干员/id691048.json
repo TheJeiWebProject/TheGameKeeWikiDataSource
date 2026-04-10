@@ -11,9 +11,9 @@
     "灼热附着",
     "燃烧"
   ],
-  "avatar": "images/w_120/h_120/50248/103682/2026/0/26/34329.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/411960.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/26/751821.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/0/26/34329.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/411960.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/751821.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "爆裂手雷·β型",
       "description": "当有敌人被施加**#法术附着#**时可以发动.\n向目标所在位置扔出一颗爆裂手雷，手雷落地后爆炸，对附近范围的敌人造成*orange:灼热伤害*并施加***orange:#灼热附着#***。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/354255.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/354255.png",
       "video": "",
       "levels": [
         {
@@ -54,7 +54,7 @@
       "type": "Skill",
       "name": "灼热弹痕",
       "description": "对目标进行连射，造成少量*orange:灼热伤害*，最后一次射击施加***orange:#灼热附着#***。如果目标处于***orange:#燃烧#***或***brown:#导电#***状态，则不再施加***orange:#灼热附着#***，而是**#消耗#**该状态并追加一次射击，造成大量*orange:灼热伤害*。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/26/205926.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/205926.png",
       "video": "",
       "levels": [
         {
@@ -83,7 +83,7 @@
       "type": "Ultimate",
       "name": "狼之怒",
       "description": "进行快速射击并施放**狼之怒**攻击附近敌人，造成5次*orange:灼热伤害*并强制施加***orange:#燃烧#***。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/955336.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/955336.png",
       "video": "",
       "levels": [
         {
@@ -108,7 +108,7 @@
   "talents": [
     {
       "name": "灼热獠牙",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/595463.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/595463.png",
       "description": "",
       "upgrades": [
         {
@@ -148,7 +148,7 @@
     },
     {
       "name": "节制准则",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/803050.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/803050.png",
       "description": "",
       "upgrades": [
         {
@@ -188,7 +188,7 @@
     },
     {
       "name": "锤炼",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/26/663414.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/663414.png",
       "upgrades": [
         {
           "level": 1,
@@ -257,7 +257,7 @@
     {
       "name": "狼群的技巧·β",
       "description": "进驻制造舱时，干员经验素材的生产效率提升20%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/746132.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/746132.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -272,7 +272,7 @@
     {
       "name": "荒野卓识·γ",
       "description": "进驻培养舱时，矿物质料的培养速度提升30%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/278798.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/278798.png",
       "materials": [
         {
           "name": "协议棱柱组",

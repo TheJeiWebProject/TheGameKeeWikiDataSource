@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-北进重工支援所的实验型高级产品，原型由其已解散的航空器研究中心设计。它载有源石增压喷射器，性能惊人。",
   "rarity": 6,
   "type": "长柄武器",
-  "image": "images/w_141/h_145/50248/462381/2026/0/20/49315.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_145/50248/462381/2026/0/20/49315.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1849/h_864/50248/462381/2026/0/20/57341.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1849/h_864/50248/462381/2026/0/20/57341.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1865/h_884/50248/462381/2026/0/20/5189.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1865/h_884/50248/462381/2026/0/20/5189.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/322750.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/322750.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/47336.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/47336.png"
         }
       ]
     }

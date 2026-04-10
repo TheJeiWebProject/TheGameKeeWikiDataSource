@@ -12,9 +12,9 @@
     "击飞",
     "物理脆弱"
   ],
-  "avatar": "images/w_111/h_120/50248/391271/2026/0/26/436672.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/595772.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/26/485642.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_111/h_120/50248/391271/2026/0/26/436672.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/595772.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/485642.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -34,7 +34,7 @@
       "type": "Normal",
       "name": "失真",
       "description": "当有敌人进入***blue:#冻结#***状态时可以发动。\n迅速移动到敌人身边，对小范围内的敌人造成*black:物理伤害*并强制造成***black:#击飞#***。如果命中处于***blue:#冻结#***状态的敌人，还会造成额外伤害并施加***black:#物理脆弱#***。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/26/484444.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/484444.png",
       "video": "",
       "levels": [
         {
@@ -67,7 +67,7 @@
       "type": "Skill",
       "name": "凝声",
       "description": "向前刺出长枪，激发出一道制冷声波，对一条直线上的敌人造成*blue:寒冷伤害*并施加***blue:#寒冷附着#***。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/26/991844.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/991844.png",
       "video": "",
       "levels": [
         {
@@ -88,7 +88,7 @@
       "type": "Ultimate",
       "name": "震音",
       "description": "耗尽全身力气，用力下砸枪柄，对自身附近圆形范围的敌人造成*black:物理伤害*。如果敌人处于***black:#物理脆弱#***状态，则对其强制造成***black:#击飞#***。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/576287.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/576287.png",
       "video": "",
       "levels": [
         {
@@ -113,7 +113,7 @@
   "talents": [
     {
       "name": "同病相怜",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/996527.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/996527.png",
       "description": "",
       "upgrades": [
         {
@@ -153,7 +153,7 @@
     },
     {
       "name": "惰性使然",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/620787.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/620787.png",
       "description": "",
       "upgrades": [
         {
@@ -193,7 +193,7 @@
     },
     {
       "name": "守誓",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/767464.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/767464.png",
       "upgrades": [
         {
           "level": 1,
@@ -262,7 +262,7 @@
     {
       "name": "碎片化休息·β",
       "description": "进驻总控中枢时，舱室内干员心情消耗降低12%。",
-      "icon": "images/w_25/h_25/50248/391271/2026/0/26/314916.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/391271/2026/0/26/314916.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -277,7 +277,7 @@
     {
       "name": "监听频段·γ",
       "description": "进驻会客室时，干员收集线索的效率提升30%",
-      "icon": "images/w_25/h_25/50248/391271/2026/0/26/505267.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/391271/2026/0/26/505267.png",
       "materials": [
         {
           "name": "协议棱柱组",

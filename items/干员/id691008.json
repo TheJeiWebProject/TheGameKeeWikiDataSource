@@ -12,9 +12,9 @@
     "治疗",
     "护盾"
   ],
-  "avatar": "images/w_120/h_120/50248/391271/2026/0/26/324010.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/384006.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/26/145663.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/391271/2026/0/26/324010.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/384006.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/145663.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -34,7 +34,7 @@
       "type": "Normal",
       "name": "前线援护",
       "description": "主控干员受到攻击后可以发动。 向目标敌人跳起并重砸，造成*black:物理伤害*和***black:#倒地#***，同时治疗主控干员。意志可以额外提高治疗量。",
-      "icon": "images/w_104/h_104/50248/4408/2026/0/26/958606.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/958606.png",
       "video": "",
       "levels": [
         {
@@ -63,7 +63,7 @@
       "type": "Skill",
       "name": "进军",
       "description": "向前方跃起随后重砸，对扇形范围内的所有敌人造成*orange:灼热伤害*并***black:#倒地#***。\n施放过程中若受到过来自敌人的伤害，命中时额外造成一定失衡。",
-      "icon": "images/w_104/h_104/50248/4408/2026/0/26/943986.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/943986.png",
       "video": "",
       "levels": [
         {
@@ -88,7 +88,7 @@
       "type": "Ultimate",
       "name": "重燃誓约",
       "description": "猛击地面，对附近敌人造成*orange:灼热伤害*，同时使全队获得基于余烬最大生命值的**#护盾#**。",
-      "icon": "images/w_104/h_104/50248/4408/2026/0/26/892190.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/4408/2026/0/26/892190.png",
       "video": "",
       "levels": [
         {
@@ -121,7 +121,7 @@
   "talents": [
     {
       "name": "陷阵之志",
-      "icon": "images/w_64/h_64/50248/4408/2026/0/26/509441.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/509441.png",
       "description": "",
       "upgrades": [
         {
@@ -161,7 +161,7 @@
     },
     {
       "name": "以铁还铁",
-      "icon": "images/w_64/h_64/50248/4408/2026/0/26/169276.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/169276.png",
       "description": "",
       "upgrades": [
         {
@@ -201,7 +201,7 @@
     },
     {
       "name": "锤炼",
-      "icon": "images/w_64/h_64/50248/4408/2026/0/26/641350.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/4408/2026/0/26/641350.png",
       "upgrades": [
         {
           "level": 1,
@@ -270,7 +270,7 @@
     {
       "name": "北地特训·γ",
       "description": "进驻制造舱时，干员经验素材的生产效率提升30%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/816884.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/816884.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -285,7 +285,7 @@
     {
       "name": "同袍相系·β",
       "description": "进驻会客室时，干员收集到线索4——铁誓军的概率提升（进驻即生效，同类不可叠加）",
-      "icon": "images/w_25/h_25/50248/4408/2026/0/26/370044.webp",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/4408/2026/0/26/370044.webp",
       "materials": [
         {
           "name": "协议棱柱组",

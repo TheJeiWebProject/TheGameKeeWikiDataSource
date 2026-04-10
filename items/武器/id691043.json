@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-巫术时刻限量发行的特殊武器之一，似乎是依循着什么古老传说打造的外形，仿佛能捕捉梦境中的呻吟。",
   "rarity": 6,
   "type": "双手剑",
-  "image": "images/w_141/h_144/50248/586364/2026/0/21/331144.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_144/50248/586364/2026/0/21/331144.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1806/h_883/50248/586364/2026/0/21/667671.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1806/h_883/50248/586364/2026/0/21/667671.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1870/h_880/50248/586364/2026/0/21/489868.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1870/h_880/50248/586364/2026/0/21/489868.png"
     }
   ],
   "stats": {
@@ -38,17 +38,17 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/767886.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/767886.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/352896.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/352896.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/377521.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/377521.png"
         }
       ]
     }

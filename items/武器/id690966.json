@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-终末地工业制造的特别装备之一。焰形剑搭配的交错式源石线路能提高基质效率。灵感来于观测到的塔罗斯现象。",
   "rarity": 6,
   "type": "双手剑",
-  "image": "images/w_141/h_143/50248/4408/2026/0/20/434151.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_143/50248/4408/2026/0/20/434151.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1603/h_754/50248/4408/2026/0/20/581555.jpg"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1603/h_754/50248/4408/2026/0/20/581555.jpg"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1874/h_894/50248/103682/2026/0/20/629937.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1874/h_894/50248/103682/2026/0/20/629937.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/539525.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/539525.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/171682.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/171682.png"
         }
       ]
     }

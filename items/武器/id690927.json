@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-北进重工支援所开发的施术单元，拥有毫无争议的最佳源石技艺传导性。只有最强壮的使用者才能驾驭这一产品。",
   "rarity": 6,
   "type": "施术单元",
-  "image": "images/w_139/h_144/50248/586364/2026/0/20/682282.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_144/50248/586364/2026/0/20/682282.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1886/h_856/50248/586364/2026/0/20/561446.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1886/h_856/50248/586364/2026/0/20/561446.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1871/h_857/50248/586364/2026/0/20/58058.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1871/h_857/50248/586364/2026/0/20/58058.png"
     }
   ],
   "stats": {
@@ -38,17 +38,17 @@
         {
           "name": "Unknown",
           "count": "汤汤",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/364195.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/364195.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/212944.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/212944.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/282684.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/282684.png"
         }
       ]
     }

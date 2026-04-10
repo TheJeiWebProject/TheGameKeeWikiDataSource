@@ -11,9 +11,9 @@
     "大量伤害",
     "燃烧"
   ],
-  "avatar": "images/w_120/h_120/50248/391271/2026/0/19/667631.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/19/542330.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/19/825978.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/391271/2026/0/19/667631.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/19/542330.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/19/825978.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "沸腾",
       "description": "当有敌人进入***orange:#燃烧#***或***green:#腐蚀#***状态时可以发动。 \n让所有处于***orange:#燃烧#***或***green:#腐蚀#***状态的敌人脚下喷出火焰，对其造成灼热伤害。 \n如果命中敌人，会获得1层**熔火**。\n每命中1个敌人，还会额外获得终结技能量。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/19/344517.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/19/344517.png",
       "video": "",
       "levels": [
         {
@@ -66,7 +66,7 @@
       "type": "Skill",
       "name": "焚灭",
       "description": "召唤熔核碎片持续攻击前方敌人，造成*orange:灼热伤害*。如果命中敌人，会获得1层**熔火**。 \n如果施放时已拥有4层**熔火**，则最后会消耗所有层数，对大范围内敌人追加1次攻击，造成*orange:灼热伤害*并强制施加短暂的***orange:#燃烧#***。追加攻击命中敌人会额外获得终结技能量。 \n终结技期间，战技效果增强。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/949442.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/949442.png",
       "video": "",
       "levels": [
         {
@@ -135,7 +135,7 @@
       "type": "Ultimate",
       "name": "黄昏",
       "description": "召唤烈焰魔剑并切换为主控角色。 \n一段时间内，普通攻击得到强化，烈焰魔剑会协同莱万汀发动攻击，每次攻击造成*orange:灼热伤害*。\n此外，普通攻击第3段会施加***orange:#灼热附着#***。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/19/817680.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/19/817680.png",
       "video": "",
       "levels": [
         {
@@ -156,7 +156,7 @@
   "talents": [
     {
       "name": "灼心",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/19/768453.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/19/768453.png",
       "description": "主控干员重击或处决命中后，莱万汀会吸收周围敌人的***orange:灼热附着***。 \n每吸收一层***orange:灼热附着***，自身获得一层**熔火**，最多叠加4层。 \n达到4层后，莱万汀造成的伤害无视敌人**20**点*orange:灼热抗性*，持续20秒。 \n附近敌人被击败时，身上的***orange:灼热附着***也会被吸收。",
       "upgrades": [
         {
@@ -196,7 +196,7 @@
     },
     {
       "name": "复燃",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/19/487192.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/19/487192.png",
       "description": "",
       "upgrades": [
         {
@@ -236,7 +236,7 @@
     },
     {
       "name": "明晰",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/26/384555.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/384555.png",
       "upgrades": [
         {
           "level": 1,
@@ -305,7 +305,7 @@
     {
       "name": "记忆熔炉·γ",
       "description": "进驻制造舱时，干员经验素材的生产效率提升30%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/941859.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/941859.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -320,7 +320,7 @@
     {
       "name": "不熄炎火·γ",
       "description": "进驻制造舱时，舱室内干员心情消耗降低18%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/501510.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/501510.png",
       "materials": [
         {
           "name": "协议棱柱组",

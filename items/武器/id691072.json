@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-梅什科工业小规模生产的特别产品。本品是梅什科工业与骑士竞技专家克伦威尔合作系列的最后一款设计。",
   "rarity": 5,
   "type": "双手剑",
-  "image": "images/w_140/h_143/50248/462381/2026/0/21/609580.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_143/50248/462381/2026/0/21/609580.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1857/h_885/50248/462381/2026/0/21/458106.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1857/h_885/50248/462381/2026/0/21/458106.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1873/h_888/50248/462381/2026/0/21/199186.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1873/h_888/50248/462381/2026/0/21/199186.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/976823.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/976823.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/97685.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/97685.png"
         }
       ]
     }

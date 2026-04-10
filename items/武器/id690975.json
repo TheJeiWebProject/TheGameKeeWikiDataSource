@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-轻超域技术实验室签约作品。艺术家亲手刻的金属器件与冰岩的纹理缀合，形成独一无二的施术回路。",
   "rarity": 6,
   "type": "施术单元",
-  "image": "images/w_140/h_144/50248/103682/2026/1/25/614934.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_144/50248/103682/2026/1/25/614934.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1869/h_865/50248/103682/2026/1/25/552819.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1869/h_865/50248/103682/2026/1/25/552819.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1871/h_868/50248/103682/2026/1/25/581230.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1871/h_868/50248/103682/2026/1/25/581230.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/699495.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/699495.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/527288.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/527288.png"
         }
       ]
     }

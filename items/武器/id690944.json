@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-终末地工业出品的系列制式装备。由资深武库工程师奥佩罗所组建的原型创意组设计。采用轻量材质，扎实耐用。",
   "rarity": 5,
   "type": "手铳",
-  "image": "images/w_140/h_142/50248/462381/2026/0/20/41311.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_142/50248/462381/2026/0/20/41311.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1881/h_865/50248/462381/2026/0/20/68842.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1881/h_865/50248/462381/2026/0/20/68842.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1900/h_842/50248/462381/2026/0/20/108130.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1900/h_842/50248/462381/2026/0/20/108130.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "汤汤",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/872667.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/872667.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_300/h_418/50248/103682/2026/2/14/310207.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/310207.png"
         }
       ]
     }

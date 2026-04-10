@@ -11,9 +11,9 @@
     "技力恢复",
     "碎甲"
   ],
-  "avatar": "images/w_118/h_120/50248/391271/2026/0/19/713127.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/19/347622.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/19/167171.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_118/h_120/50248/391271/2026/0/19/713127.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/19/347622.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/19/167171.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "盈月邀击",
       "description": "当有敌人被***black:#猛击#***或者***black:#碎甲#***消耗***black:#破防#***层数后可以发动。 根据消耗的最高***black:#破防#***层数，对敌人进行相同段数的斩击（最多3段），造成物理伤害并恢复一定技力，每一击的伤害和技力恢复效果都更强。 \n若消耗4层破防，第3段斩击将获得强化。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/19/940141.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/19/940141.png",
       "video": "",
       "levels": [
         {
@@ -94,7 +94,7 @@
       "type": "Skill",
       "name": "粉碎阵线",
       "description": "对前方范围的敌人进行两段斩击，造成物理伤害并施加***black:#碎甲#***，同时基于**#消耗#**的***black:#破防#***层数恢复技力，命中多名目标时仅恢复1次。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/19/185778.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/19/185778.png",
       "video": "",
       "levels": [
         {
@@ -135,7 +135,7 @@
       "type": "Ultimate",
       "name": "盾卫旗队，上前",
       "description": "以目标为中心，召唤四名盾卫向目标进军，并将进军途中的敌人往目标方向推动，造成*black:物理伤害*的同时生成5点**铁誓**。当有敌人受到***black:#物理异常#***效果或骏卫的连携技伤害后，消耗1点**铁誓**召唤一名盾卫对其发动袭扰，造成*black:物理伤害*并恢复一定技力。当消耗的**铁誓**是最后一点时，四名盾卫发动决胜，对其造成大量*black:物理伤害*并恢复大量技力。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/19/447789.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/19/447789.png",
       "video": "",
       "levels": [
         {
@@ -184,7 +184,7 @@
   "talents": [
     {
       "name": "活着的旗帜",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/26/51430.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/51430.png",
       "description": "",
       "upgrades": [
         {
@@ -224,7 +224,7 @@
     },
     {
       "name": "战术教导",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/26/664584.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/664584.png",
       "description": "",
       "upgrades": [
         {
@@ -264,7 +264,7 @@
     },
     {
       "name": "守誓",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/26/412334.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/412334.png",
       "upgrades": [
         {
           "level": 1,
@@ -333,7 +333,7 @@
     {
       "name": "先利其器·γ",
       "description": "进驻制造舱时，武器经验素材的生产效率提升30%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/614970.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/614970.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -348,7 +348,7 @@
     {
       "name": "鼓舞士气·γ",
       "description": "进驻制造舱时，舱室内干员心情消耗降低18%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/523980.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/523980.png",
       "materials": [
         {
           "name": "协议棱柱组",

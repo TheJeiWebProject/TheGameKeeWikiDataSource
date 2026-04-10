@@ -11,9 +11,9 @@
     "技力恢复",
     "电磁附着"
   ],
-  "avatar": "images/w_120/h_120/50248/103682/2026/0/26/646120.png",
-  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/22592.png",
-  "splash": "images/w_900/h_352/50248/391271/2026/0/26/861398.png",
+  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/0/26/646120.png",
+  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/22592.png",
+  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/861398.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "鸣雷",
       "description": "当有敌人进入***brown:#导电#***状态或***brown:#导电#***状态被**#消耗#**后可以发动。\n瞬闪至敌人身边进行多次斩击，造成*black:物理伤害*，并恢复一定技力。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/770653.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/770653.png",
       "video": "",
       "levels": [
         {
@@ -58,7 +58,7 @@
       "type": "Skill",
       "name": "疾风迅雷",
       "description": "瞬闪至敌人身边进行2次斩击，造成少量*black:物理伤害*。若敌人处于***brown:#导电#***状态，**#消耗#**其***brown:#导电#***状态并追加一次攻击，造成*brown:电磁伤害*，然后恢复一定技力。",
-      "icon": "images/w_104/h_104/50248/391271/2026/0/26/559194.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/559194.png",
       "video": "",
       "levels": [
         {
@@ -95,7 +95,7 @@
       "type": "Ultimate",
       "name": "轰雷掣电",
       "description": "用电弧包裹自身后向前方冲刺一段距离，对路径上的敌人造成*brown:电磁伤害*并施加***brown:#电磁附着#***。一段时间后，引爆留下的电弧，再次造成*brown:电磁伤害*，若敌人处于***brown:#电磁附着#***状态，则会消耗其***brown:#电磁附着#***并强制施加***brown:#导电***。",
-      "icon": "images/w_104/h_104/50248/103682/2026/0/26/759661.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/759661.png",
       "video": "",
       "levels": [
         {
@@ -128,7 +128,7 @@
   "talents": [
     {
       "name": "荒野游人",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/117052.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/117052.png",
       "description": "",
       "upgrades": [
         {
@@ -168,7 +168,7 @@
     },
     {
       "name": "众生智慧",
-      "icon": "images/w_64/h_64/50248/391271/2026/0/26/484466.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/484466.png",
       "description": "",
       "upgrades": [
         {
@@ -208,7 +208,7 @@
     },
     {
       "name": "游刃",
-      "icon": "images/w_64/h_64/50248/103682/2026/0/26/647392.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/26/647392.png",
       "upgrades": [
         {
           "level": 1,
@@ -277,7 +277,7 @@
     {
       "name": "荒野锋刃·β",
       "description": "进驻制造舱时，武器经验素材的生产效率提升20%",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/56873.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/56873.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -292,7 +292,7 @@
     {
       "name": "歌谣传唱·β",
       "description": "进驻会客室时，干员收集到线索6——众生长地的概率提升（进驻即生效，同类不可叠加）",
-      "icon": "images/w_25/h_25/50248/103682/2026/0/26/644613.png",
+      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/103682/2026/0/26/644613.png",
       "materials": [
         {
           "name": "协议棱柱组",

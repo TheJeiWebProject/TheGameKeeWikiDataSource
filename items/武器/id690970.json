@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-巫术时刻推出的古怪武器之一。刀身由寻常的冰块打造，但表面附着的奇特源石技艺让其变得坚不可摧。",
   "rarity": 6,
   "type": "双手剑",
-  "image": "images/w_140/h_144/50248/4408/2026/0/20/413780.png",
+  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_144/50248/4408/2026/0/20/413780.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "images/w_1866/h_902/50248/103682/2026/1/25/538231.png"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1866/h_902/50248/103682/2026/1/25/538231.png"
     },
     {
       "title": "满潜外观",
-      "url": "images/w_1595/h_742/50248/4408/2026/0/20/620791.jpg"
+      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1595/h_742/50248/4408/2026/0/20/620791.jpg"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "images/w_152/h_212/50248/103682/2026/2/16/187369.png"
+          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/187369.png"
         }
       ]
     }
