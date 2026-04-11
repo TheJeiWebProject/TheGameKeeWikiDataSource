@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-巫术时刻研发的施术单元之一。除了基本源石线路外，一切材质不明。这真的是可以在塔卫二造出来的东西吗？",
   "rarity": 6,
   "type": "施术单元",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_144/50248/586364/2026/0/20/824074.png",
+  "image": "images/w_141/h_144/50248/586364/2026/0/20/824074.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1872/h_822/50248/586364/2026/0/20/498809.png"
+      "url": "images/w_1872/h_822/50248/586364/2026/0/20/498809.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1873/h_804/50248/586364/2026/0/20/981500.png"
+      "url": "images/w_1873/h_804/50248/586364/2026/0/20/981500.png"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/982608.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/982608.png"
         }
       ]
     }

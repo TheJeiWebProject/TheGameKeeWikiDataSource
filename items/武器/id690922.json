@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-终末地工业出品的系列制式装备。由资深武库工程师奥佩罗所组建的原型创意组设计。功率取决于使用者的源石技艺水平。",
   "rarity": 5,
   "type": "施术单元",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_138/h_142/50248/586364/2026/0/20/520640.png",
+  "image": "images/w_138/h_142/50248/586364/2026/0/20/520640.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1839/h_832/50248/586364/2026/0/20/50566.png"
+      "url": "images/w_1839/h_832/50248/586364/2026/0/20/50566.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1875/h_876/50248/586364/2026/0/20/809913.png"
+      "url": "images/w_1875/h_876/50248/586364/2026/0/20/809913.png"
     }
   ],
   "stats": {
@@ -38,17 +38,17 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/498827.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/498827.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/339665.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/339665.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/683637.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/683637.png"
         }
       ]
     }

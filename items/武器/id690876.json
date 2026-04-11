@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-终末地工业出品的系列制式装备。由资深武库工程师奥佩罗所组建的原型创意组设计。剑柄配有可拆卸的辅助配件。",
   "rarity": 5,
   "type": "单手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_306/50248/103682/2026/0/20/153898.png",
+  "image": "images/w_300/h_306/50248/103682/2026/0/20/153898.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1172/50248/103682/2026/0/20/763875.png"
+      "url": "images/w_2560/h_1172/50248/103682/2026/0/20/763875.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1160/50248/103682/2026/0/20/154972.png"
+      "url": "images/w_2560/h_1160/50248/103682/2026/0/20/154972.png"
     }
   ],
   "stats": {
@@ -38,17 +38,17 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/450406.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/450406.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/656738.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/656738.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/149920.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/149920.png"
         }
       ]
     }

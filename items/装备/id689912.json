@@ -39,17 +39,17 @@
         {
           "name": "高晶装备原件",
           "count": "50",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/311564.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/0/18/311564.png"
         },
         {
           "name": "谷地调度券",
           "count": "9600",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/18/101368.png"
+          "icon": "images/w_128/h_128/50248/103682/2026/0/18/101368.png"
         }
       ]
     }
   ],
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_128/h_128/50248/103682/2026/0/15/870993.png",
+  "image": "images/w_128/h_128/50248/103682/2026/0/15/870993.png",
   "key": {
     "id": "gamekee_689912"
   }

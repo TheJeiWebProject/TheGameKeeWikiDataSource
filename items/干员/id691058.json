@@ -11,9 +11,9 @@
     "自然附着",
     "寒冷附着"
   ],
-  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/391271/2026/0/26/303776.png",
-  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/391271/2026/0/26/372424.png",
-  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/391271/2026/0/26/201725.png",
+  "avatar": "images/w_120/h_120/50248/391271/2026/0/26/303776.png",
+  "portrait": "images/w_152/h_212/50248/391271/2026/0/26/372424.png",
+  "splash": "images/w_900/h_352/50248/391271/2026/0/26/201725.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "免费赠礼",
       "description": "当敌人进入2层及以上***blue:#寒冷附着#***或***green:#自然附着#***时可以发动。\n射击目标敌人，引发一次特殊爆炸，造成*green:自然伤害*并施加该**#法术附着#**。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/503674.png",
+      "icon": "images/w_104/h_104/50248/103682/2026/0/26/503674.png",
       "video": "",
       "levels": [
         {
@@ -54,7 +54,7 @@
       "type": "Skill",
       "name": "小惊喜",
       "description": "踢出**自制炸弹**将其黏附在目标身上，并施加**#缓速#**，短暂延迟后爆炸对范围内的敌人造成*green:自然伤害*并施加***green:#自然附着#***。\n若黏附目标被击败则**自制炸弹**提前爆炸。\n场上同时只能存在一个自制炸弹。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/391271/2026/0/26/982557.png",
+      "icon": "images/w_104/h_104/50248/391271/2026/0/26/982557.png",
       "video": "",
       "levels": [
         {
@@ -79,7 +79,7 @@
       "type": "Ultimate",
       "name": "巅峰闹剧",
       "description": "萤石以弧形轨迹高速运动并向弧内目标快速射击，造成4段*green:自然伤害*，若命中目标身上粘有**自制炸弹**，则立刻将其引爆并提升爆炸伤害及范围。\n若最后一段伤害命中处于2层及以上***blue:#寒冷附着#***或***green:#自然附着#***的目标，则再次施加该**#法术附着#**。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/26/90704.png",
+      "icon": "images/w_104/h_104/50248/103682/2026/0/26/90704.png",
       "video": "",
       "levels": [
         {
@@ -124,7 +124,7 @@
   "talents": [
     {
       "name": "落井下石爱好者",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/928102.png",
+      "icon": "images/w_64/h_64/50248/391271/2026/0/26/928102.png",
       "description": "",
       "upgrades": [
         {
@@ -164,7 +164,7 @@
     },
     {
       "name": "捉摸不定",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/391271/2026/0/26/514879.png",
+      "icon": "images/w_64/h_64/50248/391271/2026/0/26/514879.png",
       "description": "",
       "upgrades": [
         {
@@ -204,7 +204,7 @@
     },
     {
       "name": "游刃",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/21/265753.png",
+      "icon": "images/w_64/h_64/50248/103682/2026/0/21/265753.png",
       "upgrades": [
         {
           "level": 1,
@@ -273,7 +273,7 @@
     {
       "name": "荒芜行者·β",
       "description": "进驻培养舱时，矿物质料的培养速度提升20%",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/391271/2026/0/26/925533.png",
+      "icon": "images/w_25/h_25/50248/391271/2026/0/26/925533.png",
       "materials": [
         {
           "name": "协议棱柱组",
@@ -288,7 +288,7 @@
     {
       "name": "知人所想·γ",
       "description": "进驻总控中枢时，所有干员心情恢复提升16%",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_25/h_25/50248/391271/2026/0/26/590754.png",
+      "icon": "images/w_25/h_25/50248/391271/2026/0/26/590754.png",
       "materials": [
         {
           "name": "协议棱柱组",

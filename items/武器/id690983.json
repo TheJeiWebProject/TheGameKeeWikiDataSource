@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-雷神工业客制化产品线的经典案例。在军用刺枪形制的基础上，增添了多样化的特殊功能和个人化的美学设计。",
   "rarity": 5,
   "type": "长柄武器",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_142/h_144/50248/462381/2026/0/20/464612.png",
+  "image": "images/w_142/h_144/50248/462381/2026/0/20/464612.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1856/h_882/50248/462381/2026/0/20/614669.png"
+      "url": "images/w_1856/h_882/50248/462381/2026/0/20/614669.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1812/h_881/50248/462381/2026/0/20/786477.png"
+      "url": "images/w_1812/h_881/50248/462381/2026/0/20/786477.png"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/786545.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/786545.png"
         }
       ]
     }

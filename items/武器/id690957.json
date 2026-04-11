@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-雷神工业研发的一款施术单元，以简洁和轻量著称。其材料用量不足普通施术单元的一半。",
   "rarity": 5,
   "type": "施术单元",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_143/50248/586364/2026/0/20/354793.png",
+  "image": "images/w_141/h_143/50248/586364/2026/0/20/354793.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1888/h_854/50248/586364/2026/0/20/281518.png"
+      "url": "images/w_1888/h_854/50248/586364/2026/0/20/281518.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1864/h_828/50248/586364/2026/0/20/325609.png"
+      "url": "images/w_1864/h_828/50248/586364/2026/0/20/325609.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/899947.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/899947.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/607673.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/607673.png"
         }
       ]
     }

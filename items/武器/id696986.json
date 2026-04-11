@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-熔炉要塞铸造的武器之一。造型典雅精致，常用于铁誓军的仪式场合而非前线搏杀，剑身经多重精磨，刃口锋锐至极。",
   "rarity": 6,
   "type": "单手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_144/50248/103682/2026/2/12/665443.png",
+  "image": "images/w_140/h_144/50248/103682/2026/2/12/665443.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_880/50248/103682/2026/2/12/50050.png"
+      "url": "images/w_1920/h_880/50248/103682/2026/2/12/50050.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_881/50248/103682/2026/2/12/356049.png"
+      "url": "images/w_1920/h_881/50248/103682/2026/2/12/356049.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/767316.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/767316.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/64267.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/64267.png"
         }
       ]
     }

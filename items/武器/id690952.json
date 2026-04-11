@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-终末地工业制造的干员高级装备之一。握柄与护手采用一体化设计，应力充能机构储存动能，提高武器的杀伤力。",
   "rarity": 5,
   "type": "单手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_142/h_144/50248/4408/2026/0/20/616195.png",
+  "image": "images/w_142/h_144/50248/4408/2026/0/20/616195.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1600/h_764/50248/4408/2026/0/20/951873.jpg"
+      "url": "images/w_1600/h_764/50248/4408/2026/0/20/951873.jpg"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1600/h_773/50248/4408/2026/0/20/883256.jpg"
+      "url": "images/w_1600/h_773/50248/4408/2026/0/20/883256.jpg"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/42127.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/42127.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/107374.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/107374.png"
         }
       ]
     }

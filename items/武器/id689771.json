@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-熔炉要塞锻造的武器之一。即使经过反复重铸，锋芒内敛，却依旧蕴含迫人威势。",
   "rarity": 6,
   "type": "单手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_143/50248/103682/2026/1/25/577932.png",
+  "image": "images/w_141/h_143/50248/103682/2026/1/25/577932.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1596/h_761/50248/4408/2026/0/14/8693.jpg"
+      "url": "images/w_1596/h_761/50248/4408/2026/0/14/8693.jpg"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1595/h_759/50248/4408/2026/0/14/648288.jpg"
+      "url": "images/w_1595/h_759/50248/4408/2026/0/14/648288.jpg"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/913161.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/913161.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/686876.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/686876.png"
         }
       ]
     }

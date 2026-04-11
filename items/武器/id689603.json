@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-终末地工业制造的优质武器，极具创意地将实验型源石材料作为剑身主体，使其拥有了极佳的能量传导性能。",
   "rarity": 6,
   "type": "单手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_143/50248/103682/2026/0/14/108719.png",
+  "image": "images/w_140/h_143/50248/103682/2026/0/14/108719.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1919/h_887/50248/103682/2026/0/13/230181.png"
+      "url": "images/w_1919/h_887/50248/103682/2026/0/13/230181.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1908/h_897/50248/103682/2026/0/13/648191.png"
+      "url": "images/w_1908/h_897/50248/103682/2026/0/13/648191.png"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/502004.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/502004.png"
         }
       ]
     }

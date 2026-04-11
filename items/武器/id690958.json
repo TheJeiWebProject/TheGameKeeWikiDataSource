@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-梅什科工业的中端产品之一。潮流新锐的造型，惊人的性价比，使其成为环塔商会的时尚消费新宠。",
   "rarity": 4,
   "type": "单手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_141/50248/4408/2026/0/20/709933.png",
+  "image": "images/w_141/h_141/50248/4408/2026/0/20/709933.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1598/h_772/50248/4408/2026/0/20/765175.jpg"
+      "url": "images/w_1598/h_772/50248/4408/2026/0/20/765175.jpg"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1597/h_770/50248/4408/2026/0/20/93824.jpg"
+      "url": "images/w_1597/h_770/50248/4408/2026/0/20/93824.jpg"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/440235.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/440235.png"
         }
       ]
     }

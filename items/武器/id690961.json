@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-梅什科工业研发的施术单元之一。选用特制D64钢壳，配多款定制模块。这款产品让人联想起昔日竞技场的烟火秀。",
   "rarity": 6,
   "type": "施术单元",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_145/50248/586364/2026/0/20/843282.png",
+  "image": "images/w_140/h_145/50248/586364/2026/0/20/843282.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1886/h_870/50248/586364/2026/0/20/461976.png"
+      "url": "images/w_1886/h_870/50248/586364/2026/0/20/461976.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1851/h_839/50248/586364/2026/0/20/547189.png"
+      "url": "images/w_1851/h_839/50248/586364/2026/0/20/547189.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "汤汤",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/364195.png"
+          "icon": "images/w_300/h_418/50248/103682/2026/2/14/364195.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/537896.png"
+          "icon": "images/w_300/h_418/50248/103682/2026/2/14/537896.png"
         }
       ]
     }

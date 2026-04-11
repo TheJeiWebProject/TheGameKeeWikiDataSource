@@ -5,7 +5,7 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-宏山选剑局的高端佩剑产品，用于表彰有突出贡献的人士，命名由宏科院内部征集确定。",
   "rarity": 6,
   "type": "单手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_313/50248/103682/2026/0/19/186809.png",
+  "image": "images/w_300/h_313/50248/103682/2026/0/19/186809.png",
   "images": [
     {
       "title": "普通外观",
@@ -13,7 +13,7 @@
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_2560/h_1170/50248/103682/2026/0/19/385493.png"
+      "url": "images/w_2560/h_1170/50248/103682/2026/0/19/385493.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/78225.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/78225.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/64267.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/64267.png"
         }
       ]
     }

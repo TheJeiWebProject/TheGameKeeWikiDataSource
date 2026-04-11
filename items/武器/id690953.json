@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-梅什科工业年度概念新品，以此致敬带领我们踏上塔卫二无垠旅途的领航者。",
   "rarity": 6,
   "type": "手铳",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_141/h_144/50248/462381/2026/0/20/930131.png",
+  "image": "images/w_141/h_144/50248/462381/2026/0/20/930131.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1881/h_789/50248/462381/2026/0/20/869378.png"
+      "url": "images/w_1881/h_789/50248/462381/2026/0/20/869378.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1887/h_872/50248/462381/2026/0/20/156324.png"
+      "url": "images/w_1887/h_872/50248/462381/2026/0/20/156324.png"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/291559.png"
+          "icon": "images/w_300/h_418/50248/103682/2026/2/14/291559.png"
         }
       ]
     }

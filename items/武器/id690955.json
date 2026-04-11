@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-北进重工支援所的传奇产品。完美体现北进重工的风格：强大的破坏力、绝对的可靠性，以及令人头疼的操作性。",
   "rarity": 6,
   "type": "手铳",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_144/50248/462381/2026/0/20/14266.png",
+  "image": "images/w_140/h_144/50248/462381/2026/0/20/14266.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1889/h_856/50248/462381/2026/0/20/943206.png"
+      "url": "images/w_1889/h_856/50248/462381/2026/0/20/943206.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1865/h_832/50248/462381/2026/0/20/491542.png"
+      "url": "images/w_1865/h_832/50248/462381/2026/0/20/491542.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "汤汤",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/513713.png"
+          "icon": "images/w_300/h_418/50248/103682/2026/2/14/513713.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/145895.png"
+          "icon": "images/w_300/h_418/50248/103682/2026/2/14/145895.png"
         }
       ]
     }

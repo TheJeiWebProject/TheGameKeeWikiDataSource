@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-巫术时刻锻铸的锋利兵刃之一。特殊精炼使得剑身泛红，施术单元采取独特的液化源石方案，仿佛是熔炉中流下的一滴血泪。",
   "rarity": 6,
   "type": "单手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_302/50248/4408/2026/0/15/482960.png",
+  "image": "images/w_300/h_302/50248/4408/2026/0/15/482960.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1598/h_757/50248/4408/2026/0/15/129771.jpg"
+      "url": "images/w_1598/h_757/50248/4408/2026/0/15/129771.jpg"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1596/h_772/50248/4408/2026/0/15/285254.jpg"
+      "url": "images/w_1596/h_772/50248/4408/2026/0/15/285254.jpg"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/728745.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/728745.png"
         }
       ]
     }

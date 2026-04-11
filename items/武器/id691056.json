@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-北进重工支援所的高端产品。一款采用旧技术设计的链式切割器，目前已不再大规模生产，但设计依然可靠。",
   "rarity": 6,
   "type": "双手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_143/h_143/50248/586364/2026/0/21/729099.png",
+  "image": "images/w_143/h_143/50248/586364/2026/0/21/729099.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1721/h_883/50248/586364/2026/0/21/805974.png"
+      "url": "images/w_1721/h_883/50248/586364/2026/0/21/805974.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1853/h_892/50248/586364/2026/0/21/223761.png"
+      "url": "images/w_1853/h_892/50248/586364/2026/0/21/223761.png"
     }
   ],
   "stats": {
@@ -38,12 +38,12 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/767886.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/767886.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/380398.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/380398.png"
         }
       ]
     }

@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-宏山选剑局研发的施术单元，采用了珍贵的息壤材料。因其材料特性，使用者必须具备极高的操控准确度。",
   "rarity": 5,
   "type": "施术单元",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_139/h_143/50248/586364/2026/0/20/585482.png",
+  "image": "images/w_139/h_143/50248/586364/2026/0/20/585482.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1843/h_859/50248/586364/2026/0/20/704193.png"
+      "url": "images/w_1843/h_859/50248/586364/2026/0/20/704193.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1874/h_812/50248/586364/2026/0/20/123190.png"
+      "url": "images/w_1874/h_812/50248/586364/2026/0/20/123190.png"
     }
   ],
   "stats": {
@@ -38,17 +38,17 @@
         {
           "name": "Unknown",
           "count": "汤汤",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/364195.png"
+          "icon": "images/w_300/h_418/50248/103682/2026/2/14/364195.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/212944.png"
+          "icon": "images/w_300/h_418/50248/103682/2026/2/14/212944.png"
         },
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_418/50248/103682/2026/2/14/965811.png"
+          "icon": "images/w_300/h_418/50248/103682/2026/2/14/965811.png"
         }
       ]
     }

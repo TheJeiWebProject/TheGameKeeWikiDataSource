@@ -11,9 +11,9 @@
     "猛击",
     "控制"
   ],
-  "avatar": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_120/h_120/50248/103682/2026/0/14/463856.png",
-  "portrait": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/0/27/85982.png",
-  "splash": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_352/50248/103682/2026/0/18/736204.png",
+  "avatar": "images/w_120/h_120/50248/103682/2026/0/14/463856.png",
+  "portrait": "images/w_152/h_212/50248/103682/2026/0/27/85982.png",
+  "splash": "images/w_900/h_352/50248/103682/2026/0/18/736204.png",
   "stats": {
     "hp": {
       "min": "500",
@@ -33,7 +33,7 @@
       "type": "Normal",
       "name": "锁闭序列",
       "description": "当小队内其他干员的连携技造成伤害时可以发动。\n冲到敌人身边，对其造成*black:物理伤害*，并附着**#源石结晶#**，在一段时间内将其封印。施加***black:#物理异常#***和***black:#破防#***会消耗**#源石结晶#**并额外造成*black:物理伤害*。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/18/697702.png",
+      "icon": "images/w_104/h_104/50248/103682/2026/0/18/697702.png",
       "video": "",
       "levels": [
         {
@@ -62,7 +62,7 @@
       "type": "Skill",
       "name": "构成序列",
       "description": "使用源石技艺冲击前方一定范围内的敌人，造成*black:物理伤害*和***black:#猛击#***。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/18/79193.png",
+      "icon": "images/w_104/h_104/50248/103682/2026/0/18/79193.png",
       "video": "",
       "levels": [
         {
@@ -83,7 +83,7 @@
       "type": "Ultimate",
       "name": "轰击序列",
       "description": "使用源石技艺轰击地面，对前方扇形范围内的敌人造成大量*black:物理伤害*。如果敌人身上附着**#源石结晶#**，则消耗**#源石结晶#**并额外造成一次*black:物理伤害*。",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_104/h_104/50248/103682/2026/0/18/900664.png",
+      "icon": "images/w_104/h_104/50248/103682/2026/0/18/900664.png",
       "video": "",
       "levels": [
         {
@@ -112,7 +112,7 @@
   "talents": [
     {
       "name": "本质瓦解",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/18/690461.png",
+      "icon": "images/w_64/h_64/50248/103682/2026/0/18/690461.png",
       "description": "",
       "upgrades": [
         {
@@ -152,7 +152,7 @@
     },
     {
       "name": "现实静滞",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/18/405482.png",
+      "icon": "images/w_64/h_64/50248/103682/2026/0/18/405482.png",
       "description": "",
       "upgrades": [
         {
@@ -192,7 +192,7 @@
     },
     {
       "name": "游刃",
-      "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_64/h_64/50248/103682/2026/0/21/265753.png",
+      "icon": "images/w_64/h_64/50248/103682/2026/0/21/265753.png",
       "upgrades": [
         {
           "level": 1,

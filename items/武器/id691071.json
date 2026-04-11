@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-宏山选剑局制造的优质大剑。较之同类产品，它更轻盈，但杀伤力却没有降低分毫。",
   "rarity": 5,
   "type": "双手剑",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_143/h_145/50248/462381/2026/0/21/359950.png",
+  "image": "images/w_143/h_145/50248/462381/2026/0/21/359950.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1828/h_857/50248/462381/2026/0/21/698910.png"
+      "url": "images/w_1828/h_857/50248/462381/2026/0/21/698910.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1866/h_853/50248/462381/2026/0/21/212001.png"
+      "url": "images/w_1866/h_853/50248/462381/2026/0/21/212001.png"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/54705.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/54705.png"
         }
       ]
     }

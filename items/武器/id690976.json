@@ -5,15 +5,15 @@
   "description": "-终末地干员用武器，装备之后可以显著提升干员的作战能力。\n-终末地工业设计的实验型长枪，实际投产量较少，为了适应复杂多变的战场而采用了便于拆卸拼接的模块化设计。",
   "rarity": 5,
   "type": "长柄武器",
-  "image": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_140/h_144/50248/462381/2026/0/20/97117.png",
+  "image": "images/w_140/h_144/50248/462381/2026/0/20/97117.png",
   "images": [
     {
       "title": "普通外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1845/h_895/50248/462381/2026/0/20/99774.png"
+      "url": "images/w_1845/h_895/50248/462381/2026/0/20/99774.png"
     },
     {
       "title": "满潜外观",
-      "url": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_1785/h_881/50248/462381/2026/0/20/935571.png"
+      "url": "images/w_1785/h_881/50248/462381/2026/0/20/935571.png"
     }
   ],
   "stats": {
@@ -38,7 +38,7 @@
         {
           "name": "Unknown",
           "count": "",
-          "icon": "//cdnimg-v2.gamekee.com/wiki2.0/images/w_152/h_212/50248/103682/2026/2/16/385671.png"
+          "icon": "images/w_152/h_212/50248/103682/2026/2/16/385671.png"
         }
       ]
     }
